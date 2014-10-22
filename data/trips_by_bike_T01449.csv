@@ -1,0 +1,15 @@
+ID,Duration,Start date,Start Station,Start terminal,End date,End Station,End terminal,Bike#,Zip Code,Subscription Type
+220,0h 11m 8s,5/4/2011 12:51,Augusta Ave / Dundas St W,7032,5/4/2011 13:02,Gould St / Mutual St,7028,T01449,,Casual
+310,0h 11m 16s,5/4/2011 15:10,Gould St / Mutual St,7028,5/4/2011 15:21,Granby St / Yonge St,7077,T01449,,Casual
+2536,0h 6m 25s,5/7/2011 1:29,Elizabeth St / Edward St,7012,5/7/2011 1:36,Jarvis St / Carleton St,7055,T01449,M4Y2X4,Casual
+3195,0h 13m 8s,5/7/2011 14:58,Bloor St / Brunswick Ave,7061,5/7/2011 15:11,Elizabeth St / Edward St,7012,T01449,M6J 3X2,Subscriber
+3928,2h 0m 6s,5/7/2011 22:26,Elizabeth St / Edward St,7012,5/8/2011 0:26,Elizabeth St / Edward St,7012,T01449,,Casual
+10248,0h 18m 23s,5/13/2011 15:58,Navy Wharf Ct. / Bremner Blvd.,7054,5/13/2011 16:16,Augusta Ave / Dundas St W,7032,T01449,M4Y1H5,Casual
+10418,0h 14m 52s,5/13/2011 17:20,Augusta Ave / Dundas St W,7032,5/13/2011 17:35,Gould St / Mutual St,7028,T01449,,Casual
+12988,0h 12m 6s,5/18/2011 13:32,Spadina Ave / Sussex Ave,7074,5/18/2011 13:44,Phoebe St / Spadina Ave,7020,T01449,,Casual
+13159,0h 8m 57s,5/18/2011 16:46,Phoebe St / Spadina Ave,7020,5/18/2011 16:55,Front/Yonge (Hockey Hall of Fame),7048,T01449,,Casual
+14028,0h 5m 54s,5/19/2011 12:55,Front/Yonge (Hockey Hall of Fame),7048,5/19/2011 13:01,Queen St W / Shaw St,7072,T01449,M4Y 1B5,Casual
+14108,0h 8m 2s,5/19/2011 13:46,Queen St W / Shaw St,7072,5/19/2011 13:54,Front/Yonge (Hockey Hall of Fame),7048,T01449,M4Y 1B5,Casual
+14133,0h 19m 35s,5/19/2011 14:06,Front/Yonge (Hockey Hall of Fame),7048,5/19/2011 14:26,Church St / Bloor St E,7034,T01449,L1W1J3,Casual
+23530,0h 9m 59s,5/24/2011 7:10,Richmond St E / Jarvis St,7050,5/24/2011 7:20,Queen St W / Shaw St,7072,T01449,M5A4T7,Subscriber
+24364,0h 7m 3s,5/24/2011 16:41,Queen St W / Shaw St,7072,5/24/2011 16:48,Front/Yonge (Hockey Hall of Fame),7048,T01449,L6C2V4,Casual

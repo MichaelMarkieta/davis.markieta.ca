@@ -1,0 +1,14 @@
+ID,Duration,Start date,Start Station,Start terminal,End date,End Station,End terminal,Bike#,Zip Code,Subscription Type
+755,0h 21m 37s,5/5/2011 1:54,Temperance St / Yonge St,7019,5/5/2011 2:16,King St W / Bay St,7015,T01412,,Casual
+973,0h 21m 4s,5/5/2011 12:18,King St W / Bay St,7015,5/5/2011 12:39,Jarvis St / Isabella St,7031,T01412,,Casual
+1421,0h 0m 47s,5/5/2011 18:21,Jarvis St / Isabella St,7031,5/5/2011 18:22,Jarvis St / Isabella St,7031,T01412,M4Y1M3,Casual
+1427,0h 13m 18s,5/5/2011 18:23,Jarvis St / Isabella St,7031,5/5/2011 18:36,St George St / Bloor St W,7002,T01412,M4Y1M3,Casual
+2054,0h 3m 6s,5/6/2011 13:48,St George St / Bloor St W,7002,5/6/2011 13:51,Bloor St / Brunswick Ave,7061,T01412,M9R1G3,Subscriber
+2139,0h 2m 53s,5/6/2011 15:25,Bloor St / Brunswick Ave,7061,5/6/2011 15:28,St George St / Bloor St W,7002,T01412,M9R1G3,Subscriber
+2292,0h 15m 11s,5/6/2011 18:35,St George St / Bloor St W,7002,5/6/2011 18:50,Navy Wharf Ct. / Bremner Blvd.,7054,T01412,,Casual
+2674,0h 3m 51s,5/7/2011 10:49,Navy Wharf Ct. / Bremner Blvd.,7054,5/7/2011 10:52,Navy Wharf Ct. / Bremner Blvd.,7054,T01412,M4X1L1,Casual
+2690,0h 12m 46s,5/7/2011 11:00,Navy Wharf Ct. / Bremner Blvd.,7054,5/7/2011 11:13,Augusta Ave / Dundas St W,7032,T01412,M5T2Y4,Casual
+2841,2h 9m 16s,5/7/2011 12:35,Augusta Ave / Dundas St W,7032,5/7/2011 14:44,Queens Park / Bloor St W,7063,T01412,,Casual
+3432,0h 12m 46s,5/7/2011 16:36,Queens Park / Bloor St W,7063,5/7/2011 16:49,Queens Park / Bloor St W,7063,T01412,,Casual
+3823,17h 38m 36s,5/7/2011 20:28,Queens Park / Bloor St W,7063,5/8/2011 14:06,Queens Park / Bloor St W,7063,T01412,,Casual
+4696,0h 27m 40s,5/8/2011 14:39,Queens Park / Bloor St W,7063,5/8/2011 15:07,Bay St / Albert St,7021,T01412,,Casual

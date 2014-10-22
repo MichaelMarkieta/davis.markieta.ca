@@ -1,0 +1,10 @@
+ID,Duration,Start date,Start Station,Start terminal,End date,End Station,End terminal,Bike#,Zip Code,Subscription Type
+98,0h 5m 59s,5/4/2011 0:34,Church St / Bloor St E,7034,5/4/2011 0:40,Ted Rogers Way / Bloor St E,7025,T01790,M4W 3Y3,Casual
+990,0h 32m 53s,5/5/2011 12:35,Ted Rogers Way / Bloor St E,7025,5/5/2011 13:08,Ted Rogers Way / Bloor St E,7025,T01790,M6S 3N4,Casual
+1552,0h 20m 28s,5/5/2011 20:03,Ted Rogers Way / Bloor St E,7025,5/5/2011 20:24,Simcoe St / Queen St W,7022,T01790,M6P4J6,Casual
+1640,1h 26m 46s,5/5/2011 22:04,Simcoe St / Queen St W,7022,5/5/2011 23:30,Simcoe St / Queen St W,7022,T01790,,Casual
+2138,0h 4m 37s,5/6/2011 15:24,Simcoe St / Queen St W,7022,5/6/2011 15:29,Elizabeth St / Edward St,7012,T01790,M5J 2C2,Subscriber
+2155,0h 2m 4s,5/6/2011 15:37,Elizabeth St / Edward St,7012,5/6/2011 15:39,Euclid Ave / Bloor St,7040,T01790,M5G2K2,Casual
+2419,0h 1m 54s,5/6/2011 21:13,Euclid Ave / Bloor St,7040,5/6/2011 21:15,Euclid Ave / Bloor St,7040,T01790,M4Y 2W4,Casual
+2448,0h 6m 35s,5/6/2011 22:09,Euclid Ave / Bloor St,7040,5/6/2011 22:15,Euclid Ave / Bloor St,7040,T01790,,Casual
+2715,4h 46m 51s,5/7/2011 11:23,Euclid Ave / Bloor St,7040,5/7/2011 16:10,Bay St / Albert St,7021,T01790,,Casual

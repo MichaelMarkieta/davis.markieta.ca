@@ -1,0 +1,1167 @@
+ID,Duration,Start date,Start Station,Start terminal,End date,End Station,End terminal,Bike#,Zip Code,Subscription Type
+3489,0h 25m 30s,5/7/2011 16:55,Queens Quay W / Dan Leckie Way,7075,5/7/2011 17:21,Lower Simcoe St / Lakeshore Blvd W,7043,T01041,,Casual
+3557,0h 12m 55s,5/7/2011 17:25,Lower Simcoe St / Lakeshore Blvd W,7043,5/7/2011 17:37,Front/Yonge (Hockey Hall of Fame),7048,T01041,,Casual
+5562,0h 14m 9s,5/9/2011 8:08,Front/Yonge (Hockey Hall of Fame),7048,5/9/2011 8:22,Madison Ave / Bloor St W,7003,T01041,L0S1E3,Casual
+5613,0h 11m 50s,5/9/2011 8:50,Madison Ave / Bloor St W,7003,5/9/2011 9:02,Elizabeth St / Edward St,7012,T01041,,Casual
+5820,0h 6m 29s,5/9/2011 13:30,Elizabeth St / Edward St,7012,5/9/2011 13:37,Bathurst / Queens Quay (Island Airport),7071,T01041,,Casual
+5892,0h 12m 19s,5/9/2011 14:46,Bathurst / Queens Quay (Island Airport),7071,5/9/2011 14:59,Bay St / College St,7006,T01041,,Casual
+5962,0h 13m 4s,5/9/2011 15:56,Bay St / College St,7006,5/9/2011 16:09,Front/Yonge (Hockey Hall of Fame),7048,T01041,L1V3G4,Casual
+6094,0h 19m 33s,5/9/2011 17:22,Front/Yonge (Hockey Hall of Fame),7048,5/9/2011 17:42,Spadina Ave / Sussex Ave,7074,T01041,,Casual
+6185,0h 55m 38s,5/9/2011 18:05,Spadina Ave / Sussex Ave,7074,5/9/2011 19:00,Bathurst / Queens Quay (Island Airport),7071,T01041,,Casual
+6322,0h 8m 39s,5/9/2011 19:26,Bathurst / Queens Quay (Island Airport),7071,5/9/2011 19:34,Front St W / Blue Jays Way,7059,T01041,,Casual
+6756,3h 12m 3s,5/10/2011 11:28,Front St W / Blue Jays Way,7059,5/10/2011 14:40,Front/Yonge (Hockey Hall of Fame),7048,T01041,,Casual
+15628,0h 3m 27s,5/20/2011 12:17,Front/Yonge (Hockey Hall of Fame),7048,5/20/2011 12:21,Front St W / Blue Jays Way,7059,T01041,L6M4X3,Casual
+15685,0h 7m 46s,5/20/2011 12:47,Front St W / Blue Jays Way,7059,5/20/2011 12:55,Yonge St. / Lakeshore Ave. E.,7067,T01041,,Casual
+17212,0h 4m 40s,5/21/2011 10:10,Yonge St. / Lakeshore Ave. E.,7067,5/21/2011 10:15,King St W / Bay St,7015,T01041,,Casual
+19191,0h 20m 15s,5/21/2011 18:45,King St W / Bay St,7015,5/21/2011 19:06,York St / Queens Quay W,7076,T01041,,Casual
+19437,0h 14m 7s,5/21/2011 20:20,York St / Queens Quay W,7076,5/21/2011 20:35,Wellington St / Portland St,7011,T01041,,Casual
+21246,0h 14m 49s,5/22/2011 18:49,Wellington St / Portland St,7011,5/22/2011 19:04,Dundas / Yonge St.,7038,T01041,,Casual
+23112,0h 59m 26s,5/23/2011 17:43,York St / Queens Quay W,7076,5/23/2011 18:43,York St / Queens Quay W,7076,T01041,,Casual
+23268,2h 6m 5s,5/23/2011 18:59,York St / Queens Quay W,7076,5/23/2011 21:05,Dundas St / Parliament St,7065,T01041,,Casual
+23590,0h 17m 54s,5/24/2011 8:10,Dundas St / Parliament St,7065,5/24/2011 8:27,Dundas St / Parliament St,7065,T01041,,Casual
+23860,5h 4m 48s,5/24/2011 11:23,Dundas St / Parliament St,7065,5/24/2011 16:28,Queens Quay W / Dan Leckie Way,7075,T01041,,Casual
+24661,0h 11m 59s,5/24/2011 18:28,Queens Quay W / Dan Leckie Way,7075,5/24/2011 18:40,Phoebe St / Spadina Ave,7020,T01041,,Casual
+24740,1h 6m 12s,5/24/2011 19:07,Phoebe St / Spadina Ave,7020,5/24/2011 20:13,King St W / Spadina Ave,7010,T01041,,Casual
+24913,0h 5m 26s,5/24/2011 20:38,King St W / Spadina Ave,7010,5/24/2011 20:43,Simcoe St / Wellington St W,7057,T01041,,Casual
+25015,0h 5m 0s,5/24/2011 21:56,Simcoe St / Wellington St W,7057,5/24/2011 22:01,Princess Ave / Adelaide St,7060,T01041,,Casual
+25569,0h 11m 14s,5/25/2011 12:14,Princess Ave / Adelaide St,7060,5/25/2011 12:25,York St / Queens Quay W,7076,T01041,M4S 1T6,Casual
+25644,0h 14m 1s,5/25/2011 12:48,York St / Queens Quay W,7076,5/25/2011 13:02,Bay St / Albert St,7021,T01041,M4S 1T6,Casual
+25825,0h 11m 37s,5/25/2011 14:47,Bay St / Albert St,7021,5/25/2011 14:59,King St W / Spadina Ave,7010,T01041,M5S 1R8,Casual
+26428,0h 3m 56s,5/25/2011 20:39,King St W / Spadina Ave,7010,5/25/2011 20:43,Phoebe St / Spadina Ave,7020,T01041,M6J 2V5,Casual
+27164,0h 5m 9s,5/26/2011 17:16,Phoebe St / Spadina Ave,7020,5/26/2011 17:21,Front St W / Blue Jays Way,7059,T01041,M5V3R5,Casual
+27408,0h 17m 16s,5/26/2011 18:44,Front St W / Blue Jays Way,7059,5/26/2011 19:01,Church St / Monteith St ,7058,T01041,M4Y1X6,Subscriber
+27441,0h 10m 15s,5/26/2011 19:08,Church St / Monteith St ,7058,5/26/2011 19:18,Spadina Ave / Sussex Ave,7074,T01041,M4Y1B6,Casual
+27493,0h 5m 19s,5/26/2011 19:31,Spadina Ave / Sussex Ave,7074,5/26/2011 19:36,Queens Park / Bloor St W,7063,T01041,M4Y1B6,Casual
+27960,0h 10m 38s,5/27/2011 9:24,Queens Park / Bloor St W,7063,5/27/2011 9:34,King St W / Bay St,7015,T01041,M4V 2T6,Casual
+28571,0h 12m 23s,5/27/2011 17:14,King St W / Bay St,7015,5/27/2011 17:27,Queens Quay W / Dan Leckie Way,7075,T01041,,Casual
+29758,0h 23m 20s,5/28/2011 15:05,Queens Quay W / Dan Leckie Way,7075,5/28/2011 15:28,Church St / Monteith St ,7058,T01041,,Casual
+29868,0h 8m 29s,5/28/2011 15:44,Church St / Monteith St ,7058,5/28/2011 15:52,Elizabeth St / Edward St,7012,T01041,M5A2M5,Casual
+31517,8h 31m 46s,5/29/2011 13:48,Elizabeth St / Edward St,7012,5/29/2011 22:20,Elizabeth St / Edward St,7012,T01041,,Casual
+32519,0h 4m 11s,5/30/2011 0:57,Elizabeth St / Edward St,7012,5/30/2011 1:01,Dundas / Yonge St.,7038,T01041,,Casual
+32525,0h 3m 54s,5/30/2011 1:14,Dundas / Yonge St.,7038,5/30/2011 1:18,Elizabeth St / Edward St,7012,T01041,,Casual
+32613,0h 8m 20s,5/30/2011 7:45,Elizabeth St / Edward St,7012,5/30/2011 7:54,Ft. York / Capreol Crt.,7000,T01041,M5V3T1,Casual
+33707,1h 40m 25s,5/30/2011 17:10,Ft. York / Capreol Crt.,7000,5/30/2011 18:51,King St E / Jarvis St,7009,T01041,,Casual
+35755,0h 19m 35s,5/31/2011 16:53,King St E / Jarvis St,7009,5/31/2011 17:13,Front St W / Blue Jays Way,7059,T01041,,Casual
+35987,0h 14m 27s,5/31/2011 17:51,Front St W / Blue Jays Way,7059,5/31/2011 18:06,Dockside Dr / Queens Quay E.,7068,T01041,,Casual
+37355,0h 10m 37s,6/1/2011 11:52,Yonge St. / Lakeshore Ave. E.,7067,6/1/2011 12:03,Queen St W / Shaw St,7072,T01041,M5E 1R4,Subscriber
+37643,0h 3m 8s,6/1/2011 14:26,Queen St W / Shaw St,7072,6/1/2011 14:29,Queen St W / Spadina Ave,7069,T01041,M6G2M5,Casual
+37660,0h 2m 41s,6/1/2011 14:36,Queen St W / Spadina Ave,7069,6/1/2011 14:38,Widmer St / Adelaide St ,7017,T01041,M6G2M5,Casual
+38375,0h 9m 22s,6/1/2011 18:58,Widmer St / Adelaide St ,7017,6/1/2011 19:08,Queen St / Ossington Ave,7035,T01041,,Casual
+38727,0h 5m 43s,6/1/2011 21:52,Queen St / Ossington Ave,7035,6/1/2011 21:58,St George St / Bloor St W,7002,T01041,L4Z0A9,Casual
+38913,0h 5m 28s,6/2/2011 7:09,St George St / Bloor St W,7002,6/2/2011 7:15,University Ave / College St,7062,T01041,M4Y0A2,Casual
+39310,0h 11m 30s,6/2/2011 10:28,University Ave / College St,7062,6/2/2011 10:39,King St W / Spadina Ave,7010,T01041,,Casual
+39412,0h 34m 28s,6/2/2011 11:57,King St W / Spadina Ave,7010,6/2/2011 12:32,King St W / Spadina Ave,7010,T01041,,Casual
+40043,0h 8m 43s,6/2/2011 17:09,King St W / Spadina Ave,7010,6/2/2011 17:18,Front/Yonge (Hockey Hall of Fame),7048,T01041,,Casual
+45051,0h 21m 37s,6/5/2011 12:33,Euclid Ave / Bloor St,7040,6/5/2011 12:55,York St / Queens Quay W,7076,T01041,M4Y1A5,Subscriber
+45218,0h 5m 57s,6/5/2011 13:17,York St / Queens Quay W,7076,6/5/2011 13:23,King St W / Bay St,7015,T01041,M5J 2Y6,Subscriber
+48315,0h 15m 5s,6/6/2011 16:49,King St W / Bay St,7015,6/6/2011 17:04,Ted Rogers Way / Bloor St E,7025,T01041,M4W3Y2,Casual
+52716,0h 5m 33s,6/8/2011 13:40,Ted Rogers Way / Bloor St E,7025,6/8/2011 13:46,Bay St / Bloor St W,7029,T01041,M4W3M3,Casual
+53240,0h 32m 54s,6/8/2011 17:16,Bay St / Bloor St W,7029,6/8/2011 17:49,Bremner Blvd / Rees St,7018,T01041,M5V3V6,Subscriber
+53841,0h 14m 29s,6/8/2011 21:05,Bremner Blvd / Rees St,7018,6/8/2011 21:19,Augusta Ave / Dundas St W,7032,T01041,,Casual
+56796,0h 9m 18s,6/10/2011 9:11,Augusta Ave / Dundas St W,7032,6/10/2011 9:21,Simcoe St / Wellington St W,7057,T01041,M6J3G8,Casual
+57857,0h 4m 19s,6/10/2011 16:34,Simcoe St / Wellington St W,7057,6/10/2011 16:39,Bremner Blvd / Rees St,7018,T01041,M6J 1E6,Casual
+57936,0h 10m 59s,6/10/2011 16:58,Bremner Blvd / Rees St,7018,6/10/2011 17:09,Phoebe St / Spadina Ave,7020,T01041,M6J 1E6,Casual
+58003,0h 13m 36s,6/10/2011 17:13,Phoebe St / Spadina Ave,7020,6/10/2011 17:26,Wellesley St E. / Yonge St,7051,T01041,M8Y 3Y8,Casual
+58444,3h 14m 39s,6/10/2011 19:37,Wellesley St E. / Yonge St,7051,6/10/2011 22:51,Wellesley St E. / Yonge St,7051,T01041,,Casual
+60904,0h 34m 39s,6/11/2011 23:01,Wellesley St E. / Yonge St,7051,6/11/2011 23:36,Widmer St / Adelaide St ,7017,T01041,,Casual
+61080,0h 11m 43s,6/12/2011 2:01,Widmer St / Adelaide St ,7017,6/12/2011 2:13,Phoebe St / Spadina Ave,7020,T01041,,Casual
+62651,0h 35m 53s,6/12/2011 17:09,Augusta Ave / Dundas St W,7032,6/12/2011 17:44,Front St W / Blue Jays Way,7059,T01041,,Casual
+63059,0h 4m 17s,6/12/2011 19:51,Front St W / Blue Jays Way,7059,6/12/2011 19:55,Front/Yonge (Hockey Hall of Fame),7048,T01041,M5J 2Y5,Subscriber
+63378,0h 8m 54s,6/13/2011 6:25,Front/Yonge (Hockey Hall of Fame),7048,6/13/2011 6:34,University Ave / Gerrard St W,7047,T01041,L3P 2K9,Casual
+64318,0h 8m 19s,6/13/2011 14:19,University Ave / Gerrard St W,7047,6/13/2011 14:28,Dundas / Yonge St.,7038,T01041,M5V 1K5,Casual
+64516,0h 15m 58s,6/13/2011 16:26,Dundas / Yonge St.,7038,6/13/2011 16:42,Augusta Ave / Dundas St W,7032,T01041,,Casual
+66311,0h 14m 36s,6/14/2011 13:59,Augusta Ave / Dundas St W,7032,6/14/2011 14:14,Front/Yonge (Hockey Hall of Fame),7048,T01041,,Casual
+72625,0h 14m 12s,6/16/2011 20:48,Granby St / Yonge St,7077,6/16/2011 21:02,Simcoe St / Wellington St W,7057,T01041,M5A4T3,Subscriber
+72921,0h 23m 12s,6/16/2011 23:45,Simcoe St / Wellington St W,7057,6/17/2011 0:09,Parliament St / Gerrard St,7056,T01041,,Casual
+73994,0h 4m 46s,6/17/2011 14:10,Parliament St / Gerrard St,7056,6/17/2011 14:15,Madison Ave / Bloor St W,7003,T01041,M6G2H3,Casual
+74297,0h 5m 44s,6/17/2011 16:13,Madison Ave / Bloor St W,7003,6/17/2011 16:19,Huron St / Harbord St ,7024,T01041,,Casual
+74770,0h 15m 8s,6/17/2011 18:13,Huron St / Harbord St ,7024,6/17/2011 18:28,Front St W / Blue Jays Way,7059,T01041,M5V3R5,Casual
+74856,0h 41m 57s,6/17/2011 18:41,Front St W / Blue Jays Way,7059,6/17/2011 19:23,Queen St / Portland St,7049,T01041,,Casual
+75159,0h 12m 28s,6/17/2011 20:14,Queen St / Portland St,7049,6/17/2011 20:26,Dundas / Yonge St.,7038,T01041,,Casual
+75227,0h 10m 21s,6/17/2011 20:33,Dundas / Yonge St.,7038,6/17/2011 20:43,Queen St / Ossington Ave,7035,T01041,,Casual
+75290,0h 8m 23s,6/17/2011 20:50,Queen St / Ossington Ave,7035,6/17/2011 20:59,Widmer St / Adelaide St ,7017,T01041,M5S 1Y9,Subscriber
+77750,0h 26m 23s,6/18/2011 16:47,Widmer St / Adelaide St ,7017,6/18/2011 17:13,College St / Major St,7078,T01041,,Casual
+77907,0h 8m 26s,6/18/2011 17:18,College St / Major St,7078,6/18/2011 17:27,Madison Ave / Bloor St W,7003,T01041,M5R2W8,Casual
+78459,0h 18m 21s,6/18/2011 19:35,Madison Ave / Bloor St W,7003,6/18/2011 19:53,Edward St / Yonge St,7041,T01041,,Casual
+78556,0h 14m 10s,6/18/2011 20:10,Edward St / Yonge St,7041,6/18/2011 20:25,Augusta Ave / Dundas St W,7032,T01041,M5V3P1,Casual
+78689,0h 17m 50s,6/18/2011 20:58,Augusta Ave / Dundas St W,7032,6/18/2011 21:16,Bay St / Bloor St W,7029,T01041,,Casual
+78954,0h 25m 41s,6/18/2011 22:55,Bay St / Bloor St W,7029,6/18/2011 23:21,University Ave / King St W,7005,T01041,M4S1P5,Casual
+79122,0h 6m 57s,6/19/2011 0:21,University Ave / King St W,7005,6/19/2011 0:28,Sherbourne / Carlton (Allan Gardens),7014,T01041,M5B 1Y6,Casual
+81801,0h 5m 44s,6/20/2011 7:10,Sherbourne / Carlton (Allan Gardens),7014,6/20/2011 7:15,Wellington St W / Bay St,7052,T01041,M5B 2A6,Casual
+83493,0h 3m 15s,6/20/2011 18:39,Granby St / Yonge St,7077,6/20/2011 18:42,Sherbourne St / Wellesley St,7042,T01041,M5B1B4,Casual
+84553,0h 14m 43s,6/21/2011 9:53,Sherbourne St / Wellesley St,7042,6/21/2011 10:08,Huron St / Harbord St ,7024,T01041,M5B1B4,Casual
+84650,0h 10m 1s,6/21/2011 10:54,Huron St / Harbord St ,7024,6/21/2011 11:04,Queen St / Portland St,7049,T01041,M6G3H1,Casual
+85110,0h 3m 23s,6/21/2011 14:23,Queen St / Portland St,7049,6/21/2011 14:27,Queen St / Ossington Ave,7035,T01041,M5T1X2,Casual
+85247,0h 10m 32s,6/21/2011 15:33,Queen St / Ossington Ave,7035,6/21/2011 15:43,Madison Ave / Bloor St W,7003,T01041,,Casual
+85476,0h 4m 28s,6/21/2011 16:50,Madison Ave / Bloor St W,7003,6/21/2011 16:55,Willcocks St / St. George St,7066,T01041,M5R 2P5,Casual
+85783,0h 8m 28s,6/21/2011 18:14,Willcocks St / St. George St,7066,6/21/2011 18:22,Wellesley St E. / Yonge St,7051,T01041,,Casual
+86382,0h 13m 11s,6/21/2011 21:36,Wellesley St E. / Yonge St,7051,6/21/2011 21:50,Jarvis St / Isabella St,7031,T01041,,Casual
+88663,0h 2m 3s,6/23/2011 9:53,Ted Rogers Way / Bloor St E,7025,6/23/2011 9:55,Church St / Bloor St E,7034,T01041,M5V3X4,Casual
+89297,0h 12m 27s,6/23/2011 16:39,Church St / Bloor St E,7034,6/23/2011 16:52,Wellington St W / Bay St,7052,T01041,L5K2S5,Casual
+89959,0h 3m 50s,6/23/2011 22:41,Wellington St W / Bay St,7052,6/23/2011 22:45,Queen St W / Shaw St,7072,T01041,M5T2W9,Casual
+89961,0h 7m 57s,6/23/2011 22:46,Queen St W / Shaw St,7072,6/23/2011 22:54,Queen St / Ossington Ave,7035,T01041,,Casual
+90039,0h 6m 6s,6/23/2011 23:44,Queen St / Ossington Ave,7035,6/23/2011 23:50,Church St / Monteith St ,7058,T01041,,Casual
+90061,0h 19m 32s,6/24/2011 0:19,Church St / Monteith St ,7058,6/24/2011 0:38,Wellington St W / Bay St,7052,T01041,,Casual
+91003,0h 5m 19s,6/24/2011 15:24,Queens Park Cres E,7008,6/24/2011 15:29,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,,Casual
+91675,0h 8m 59s,6/24/2011 19:27,Navy Wharf Ct. / Bremner Blvd.,7054,6/24/2011 19:36,Richmond St E / Jarvis St,7050,T01041,M1J 1B2,Casual
+91885,0h 8m 51s,6/24/2011 21:28,Richmond St E / Jarvis St,7050,6/24/2011 21:37,Queen St / Portland St,7049,T01041,,Casual
+92209,0h 3m 22s,6/25/2011 1:23,Queen St / Portland St,7049,6/25/2011 1:26,Queen St / Ossington Ave,7035,T01041,,Casual
+92966,8h 25m 38s,6/25/2011 13:52,Queen St / Ossington Ave,7035,6/25/2011 22:18,Queen St / Ossington Ave,7035,T01041,,Casual
+96723,0h 4m 35s,6/27/2011 8:03,Queen St / Ossington Ave,7035,6/27/2011 8:08,St George St / Bloor St W,7002,T01041,M5R 2P5,Casual
+96745,0h 9m 19s,6/27/2011 8:10,St George St / Bloor St W,7002,6/27/2011 8:19,Elizabeth St / Edward St,7012,T01041,M5R2B5,Casual
+98138,0h 5m 2s,6/27/2011 17:30,Elizabeth St / Edward St,7012,6/27/2011 17:35,Queen St / Portland St,7049,T01041,L6K3Y7,Casual
+98392,0h 6m 1s,6/27/2011 18:45,Queen St / Portland St,7049,6/27/2011 18:51,King St W / Spadina Ave,7010,T01041,M5V 3T9,Casual
+98544,0h 19m 5s,6/27/2011 19:42,King St W / Spadina Ave,7010,6/27/2011 20:01,Jarvis St / Isabella St,7031,T01041,M5R2S8,Casual
+98740,0h 9m 59s,6/27/2011 21:29,Jarvis St / Isabella St,7031,6/27/2011 21:39,Bond St / Queen St E,7045,T01041,M5T 3J6 ,Casual
+100461,0h 23m 6s,6/28/2011 17:49,Bond St / Queen St E,7045,6/28/2011 18:12,Bathurst / Queens Quay (Island Airport),7071,T01041,,Casual
+100864,0h 8m 11s,6/28/2011 19:45,Bathurst / Queens Quay (Island Airport),7071,6/28/2011 19:53,Queens Quay W / Dan Leckie Way,7075,T01041,L4J0E9,Casual
+101532,0h 19m 40s,6/29/2011 8:44,Queens Quay W / Dan Leckie Way,7075,6/29/2011 9:04,Euclid Ave / Bloor St,7040,T01041,M5V 3M3,Casual
+102046,0h 16m 14s,6/29/2011 12:51,Tech Terminal,7033,6/29/2011 13:08,Melinda St / Yonge St,7036,T01041,M5B2R6,Subscriber
+102128,0h 4m 32s,6/29/2011 13:30,Melinda St / Yonge St,7036,6/29/2011 13:35,Bay St / Albert St,7021,T01041,M4M2M4,Casual
+102151,0h 6m 22s,6/29/2011 13:42,Bay St / Albert St,7021,6/29/2011 13:49,Queen St W / Spadina Ave,7069,T01041,M5V3S6,Subscriber
+103005,0h 15m 28s,6/29/2011 18:33,Queen St W / Spadina Ave,7069,6/29/2011 18:49,Bay St / Bloor St W,7029,T01041,M5V3T5,Casual
+103124,0h 8m 8s,6/29/2011 19:16,Bay St / Bloor St W,7029,6/29/2011 19:24,St George St / Bloor St W,7002,T01041,M5S 2W8,Casual
+103836,0h 12m 49s,6/30/2011 8:15,St George St / Bloor St W,7002,6/30/2011 8:28,King St W / Bay St,7015,T01041,M4V 2T6,Casual
+104265,0h 5m 41s,6/30/2011 11:39,Bremner / Spadina,7073,6/30/2011 11:44,Front/Yonge (Hockey Hall of Fame),7048,T01041,,Casual
+104436,0h 6m 42s,6/30/2011 12:54,Front/Yonge (Hockey Hall of Fame),7048,6/30/2011 13:01,York St / Queens Quay W,7076,T01041,M5E1R4,Casual
+104762,0h 18m 56s,6/30/2011 15:08,York St / Queens Quay W,7076,6/30/2011 15:27,York St / Queens Quay W,7076,T01041,,Casual
+104964,0h 10m 22s,6/30/2011 16:24,York St / Queens Quay W,7076,6/30/2011 16:34,Queen St W / Shaw St,7072,T01041,M2N0A9,Casual
+105760,0h 20m 19s,6/30/2011 20:29,Queen St W / Shaw St,7072,6/30/2011 20:50,Jarvis St / Carleton St,7055,T01041,M5B2M4,Subscriber
+106014,0h 3m 4s,6/30/2011 22:33,Jarvis St / Carleton St,7055,6/30/2011 22:36,Sherbourne St / Wellesley St,7042,T01041,M4Y 0A6,Casual
+107098,3h 3m 39s,7/1/2011 13:52,Granby St / Yonge St,7077,7/1/2011 16:56,Sherbourne St / Wellesley St,7042,T01041,,Casual
+119872,0h 5m 16s,7/6/2011 8:50,Sherbourne St / Wellesley St,7042,7/6/2011 8:55,Temperance St / Yonge St,7019,T01041,M5B 2J4,Casual
+121542,0h 32m 10s,7/6/2011 20:03,Temperance St / Yonge St,7019,7/6/2011 20:35,Queen St / Ossington Ave,7035,T01041,,Casual
+121766,0h 5m 33s,7/6/2011 21:35,Queen St / Ossington Ave,7035,7/6/2011 21:41,Bay St / College St,7006,T01041,M2N 1Z9,Subscriber
+122454,0h 8m 51s,7/7/2011 9:15,Bay St / College St,7006,7/7/2011 9:23,Bathurst / Queens Quay (Island Airport),7071,T01041,M5A 1N1,Casual
+122958,0h 3m 38s,7/7/2011 13:38,Bathurst / Queens Quay (Island Airport),7071,7/7/2011 13:42,Princess Ave / Adelaide St,7060,T01041,M5V3P1,Subscriber
+122999,0h 3m 39s,7/7/2011 13:57,Princess Ave / Adelaide St,7060,7/7/2011 14:01,Bathurst / Queens Quay (Island Airport),7071,T01041,M5V3P1,Subscriber
+123307,1h 18m 20s,7/7/2011 16:19,Bathurst / Queens Quay (Island Airport),7071,7/7/2011 17:37,Queens Quay W / Dan Leckie Way,7075,T01041,,Casual
+124858,0h 6m 59s,7/8/2011 8:47,Gerrard St E / Church St,7079,7/8/2011 8:54,Jarvis St / Isabella St,7031,T01041,M5B2E8,Casual
+124904,0h 8m 51s,7/8/2011 8:55,Jarvis St / Isabella St,7031,7/8/2011 9:04,Simcoe St / Dundas St W,7039,T01041,M5T2Y4,Casual
+125529,0h 6m 8s,7/8/2011 13:47,Simcoe St / Dundas St W,7039,7/8/2011 13:53,Euclid Ave / Bloor St,7040,T01041,M5S 1Y9,Subscriber
+125545,0h 2m 16s,7/8/2011 13:58,Euclid Ave / Bloor St,7040,7/8/2011 14:00,Elizabeth St / Edward St,7012,T01041,M5G2R2,Casual
+125572,0h 18m 4s,7/8/2011 14:10,Elizabeth St / Edward St,7012,7/8/2011 14:28,York St / Queens Quay W,7076,T01041,,Casual
+127690,0h 15m 48s,7/9/2011 12:06,York St / Queens Quay W,7076,7/9/2011 12:22,Bremner / Spadina,7073,T01041,,Casual
+127754,0h 21m 22s,7/9/2011 12:29,Bremner / Spadina,7073,7/9/2011 12:51,St George St / Bloor St W,7002,T01041,,Casual
+128301,0h 9m 53s,7/9/2011 14:44,St George St / Bloor St W,7002,7/9/2011 14:53,Wellesley St E. / Yonge St,7051,T01041,,Casual
+128654,0h 30m 42s,7/9/2011 16:11,Wellesley St E. / Yonge St,7051,7/9/2011 16:42,Queen St W / Spadina Ave,7069,T01041,,Casual
+129454,0h 10m 41s,7/9/2011 20:19,Queen St W / Spadina Ave,7069,7/9/2011 20:30,Front St W / Blue Jays Way,7059,T01041,,Casual
+129742,0h 7m 17s,7/9/2011 22:57,Front St W / Blue Jays Way,7059,7/9/2011 23:05,Trinity / Front (Distillery),7064,T01041,,Casual
+131278,3h 17m 46s,7/10/2011 16:25,Trinity / Front (Distillery),7064,7/10/2011 19:42,Bay St / Wellesley St W,7030,T01041,,Casual
+136438,0h 10m 40s,7/12/2011 17:25,Bay St / Wellesley St W,7030,7/12/2011 17:36,Front/Yonge (Hockey Hall of Fame),7048,T01041,L3R4S6,Casual
+137564,0h 8m 39s,7/13/2011 6:09,Front/Yonge (Hockey Hall of Fame),7048,7/13/2011 6:18,Niagara St./Queen W. (Richmond),7046,T01041,L1W1Y5,Casual
+138120,2h 1m 5s,7/13/2011 9:56,Niagara St./Queen W. (Richmond),7046,7/13/2011 11:57,Sherbourne St / Wellesley St,7042,T01041,,Casual
+147270,0h 16m 36s,7/16/2011 16:15,Richmond St E / Jarvis St,7050,7/16/2011 16:32,Bay St / Wellesley St W,7030,T01041,,Casual
+147359,0h 14m 35s,7/16/2011 16:40,Bay St / Wellesley St W,7030,7/16/2011 16:54,Sherbourne / Carlton (Allan Gardens),7014,T01041,,Casual
+155549,0h 13m 26s,7/19/2011 20:01,Ted Rogers Way / Bloor St E,7025,7/19/2011 20:14,Scott St / The Esplanade,7013,T01041,L6V1Y1,Casual
+156886,0h 7m 42s,7/20/2011 12:11,Bay St / Wellesley St W,7030,7/20/2011 12:19,Sherbourne / Carlton (Allan Gardens),7014,T01041,,Casual
+158281,0h 39m 25s,7/20/2011 20:05,Sherbourne / Carlton (Allan Gardens),7014,7/20/2011 20:44,Sherbourne / Carlton (Allan Gardens),7014,T01041,M4Y 2W7,Subscriber
+162776,0h 16m 54s,7/22/2011 16:45,Ted Rogers Way / Bloor St E,7025,7/22/2011 17:02,Augusta Ave / Dundas St W,7032,T01041,M4X1L1,Casual
+166875,0h 19m 54s,7/24/2011 14:01,Huron St / Harbord St ,7024,7/24/2011 14:21,York St / Queens Quay W,7076,T01041,,Casual
+166987,0h 9m 17s,7/24/2011 14:30,York St / Queens Quay W,7076,7/24/2011 14:39,Dockside Dr / Queens Quay E.,7068,T01041,,Casual
+167142,0h 24m 38s,7/24/2011 15:16,Dockside Dr / Queens Quay E.,7068,7/24/2011 15:41,Bremner Blvd / Rees St,7018,T01041,,Casual
+167273,0h 13m 50s,7/24/2011 15:55,Bremner Blvd / Rees St,7018,7/24/2011 16:09,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+167351,0h 22m 2s,7/24/2011 16:15,Ferry Ramp / Queens Quay W,7016,7/24/2011 16:37,Lower Jarvis St / The Esplanade,7001,T01041,,Casual
+167459,0h 26m 5s,7/24/2011 16:46,Lower Jarvis St / The Esplanade,7001,7/24/2011 17:12,Ft. York / Capreol Crt.,7000,T01041,,Casual
+168140,0h 5m 19s,7/24/2011 21:02,Ft. York / Capreol Crt.,7000,7/24/2011 21:07,Front St W / Blue Jays Way,7059,T01041,M5V 1E1,Casual
+168257,0h 31m 10s,7/24/2011 22:24,Front St W / Blue Jays Way,7059,7/24/2011 22:55,Church St / Monteith St ,7058,T01041,,Casual
+168294,0h 15m 2s,7/24/2011 22:57,Church St / Monteith St ,7058,7/24/2011 23:12,Princess Ave / Adelaide St,7060,T01041,,Casual
+168495,0h 3m 49s,7/25/2011 8:00,Princess Ave / Adelaide St,7060,7/25/2011 8:03,Simcoe St / Dundas St W,7039,T01041,M5B2L2,Subscriber
+168600,0h 5m 54s,7/25/2011 8:55,Simcoe St / Dundas St W,7039,7/25/2011 9:01,Temperance St / Yonge St,7019,T01041,M5B2L2,Subscriber
+168786,0h 6m 35s,7/25/2011 10:32,Temperance St / Yonge St,7019,7/25/2011 10:38,Simcoe St / Dundas St W,7039,T01041,M5B2L2,Subscriber
+169269,0h 3m 24s,7/25/2011 14:54,Simcoe St / Dundas St W,7039,7/25/2011 14:57,Elizabeth St / Edward St,7012,T01041,M5B2L2,Subscriber
+169283,0h 1m 43s,7/25/2011 15:03,Elizabeth St / Edward St,7012,7/25/2011 15:04,Edward St / Yonge St,7041,T01041,M5B2L2,Subscriber
+169308,0h 6m 22s,7/25/2011 15:14,Edward St / Yonge St,7041,7/25/2011 15:20,Simcoe St / Dundas St W,7039,T01041,M5B2L2,Subscriber
+169686,0h 5m 6s,7/25/2011 17:10,Simcoe St / Dundas St W,7039,7/25/2011 17:16,Bay St / College St,7006,T01041,M5B2L2,Subscriber
+169967,0h 9m 4s,7/25/2011 18:17,Bay St / College St,7006,7/25/2011 18:26,Queen St W / Shaw St,7072,T01041,M5G2R3,Subscriber
+171696,0h 4m 54s,7/26/2011 13:09,Queen St W / Shaw St,7072,7/26/2011 13:14,Bay St / Albert St,7021,T01041,M4S 1T6,Casual
+172153,0h 8m 1s,7/26/2011 16:19,Bay St / Albert St,7021,7/26/2011 16:27,Gould St / Mutual St,7028,T01041,M6G 3L8,Casual
+181892,0h 24m 12s,7/30/2011 17:32,Gould St / Mutual St,7028,7/30/2011 17:56,Dockside Dr / Queens Quay E.,7068,T01041,,Casual
+181999,0h 17m 2s,7/30/2011 18:02,Dockside Dr / Queens Quay E.,7068,7/30/2011 18:19,York St / Queens Quay W,7076,T01041,,Casual
+182305,2h 6m 18s,7/30/2011 20:03,York St / Queens Quay W,7076,7/30/2011 22:09,York St / Queens Quay W,7076,T01041,,Casual
+182554,0h 19m 45s,7/30/2011 22:11,York St / Queens Quay W,7076,7/30/2011 22:31,Dockside Dr / Queens Quay E.,7068,T01041,,Casual
+184220,0h 22m 30s,7/31/2011 19:19,Dockside Dr / Queens Quay E.,7068,7/31/2011 19:41,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+184306,0h 8m 59s,7/31/2011 19:49,Ferry Ramp / Queens Quay W,7016,7/31/2011 19:58,Lower Jarvis St / The Esplanade,7001,T01041,,Casual
+184427,0h 11m 34s,7/31/2011 20:44,Lower Jarvis St / The Esplanade,7001,7/31/2011 20:56,Niagara St./Queen W. (Richmond),7046,T01041,,Casual
+187054,0h 8m 45s,8/2/2011 8:38,Front/Yonge (Hockey Hall of Fame),7048,8/2/2011 8:47,Niagara St./Queen W. (Richmond),7046,T01041,M4J 1C3,Casual
+188100,0h 4m 30s,8/2/2011 16:37,Niagara St./Queen W. (Richmond),7046,8/2/2011 16:42,Bay St / College St,7006,T01041,M5G2R3,Casual
+188198,0h 12m 14s,8/2/2011 17:06,Bay St / College St,7006,8/2/2011 17:18,Madison Ave / Bloor St W,7003,T01041,M5R 2Z4,Subscriber
+189319,0h 10m 51s,8/3/2011 8:11,Madison Ave / Bloor St W,7003,8/3/2011 8:22,Princess Ave / Adelaide St,7060,T01041,M5A 2C5,Subscriber
+190056,1h 40m 56s,8/3/2011 14:36,Princess Ave / Adelaide St,7060,8/3/2011 16:17,University Ave / King St W,7005,T01041,L5V2R5,Casual
+190224,0h 11m 44s,8/3/2011 16:55,University Ave / King St W,7005,8/3/2011 17:07,Jarvis St / Carleton St,7055,T01041,M4X1S1,Casual
+190848,0h 4m 51s,8/4/2011 6:44,Jarvis St / Carleton St,7055,8/4/2011 6:49,University Ave / Gerrard St W,7047,T01041,M4Y3C1,Casual
+192505,0h 10m 6s,8/4/2011 17:21,University Ave / Gerrard St W,7047,8/4/2011 17:31,St George St / Bloor St W,7002,T01041,M5G1R1,Subscriber
+192716,0h 8m 34s,8/4/2011 18:13,St George St / Bloor St W,7002,8/4/2011 18:21,Phoebe St / Spadina Ave,7020,T01041,,Casual
+193804,0h 9m 38s,8/5/2011 8:46,Phoebe St / Spadina Ave,7020,8/5/2011 8:56,Euclid Ave / Bloor St,7040,T01041,M5V2L2,Subscriber
+193903,0h 6m 6s,8/5/2011 9:03,Euclid Ave / Bloor St,7040,8/5/2011 9:09,Queen St / Portland St,7049,T01041,M6N3G8,Casual
+193986,0h 4m 43s,8/5/2011 9:40,Queen St / Portland St,7049,8/5/2011 9:45,University Ave / King St W,7005,T01041,,Casual
+194862,0h 55m 3s,8/5/2011 15:46,University Ave / King St W,7005,8/5/2011 16:41,Wellington St / Portland St,7011,T01041,,Casual
+195245,0h 50m 53s,8/5/2011 17:29,Wellington St / Portland St,7011,8/5/2011 18:20,Simcoe St / Wellington St W,7057,T01041,,Casual
+199516,0h 29m 4s,8/8/2011 2:51,Simcoe St / Wellington St W,7057,8/8/2011 3:20,Simcoe St / Wellington St W,7057,T01041,L3S2N2,Casual
+199749,0h 0m 15s,8/8/2011 8:25,Simcoe St / Wellington St W,7057,8/8/2011 8:25,Simcoe St / Wellington St W,7057,T01041,M5V3Y6,Casual
+201337,0h 6m 10s,8/8/2011 18:20,Simcoe St / Wellington St W,7057,8/8/2011 18:26,Bremner / Spadina,7073,T01041,M4Y3G5,Casual
+202048,0h 9m 23s,8/9/2011 7:05,Bremner / Spadina,7073,8/9/2011 7:14,Augusta Ave / Dundas St W,7032,T01041,M5V3V2,Subscriber
+203208,0h 19m 0s,8/9/2011 19:33,Augusta Ave / Dundas St W,7032,8/9/2011 19:52,College St / Borden St,7023,T01041,,Casual
+203722,0h 8m 9s,8/10/2011 7:43,King St W / Spadina Ave,7010,8/10/2011 7:51,Simcoe St / Dundas St W,7039,T01041,M5V3T9,Casual
+203894,0h 3m 47s,8/10/2011 8:35,Simcoe St / Dundas St W,7039,8/10/2011 8:39,University Ave / King St W,7005,T01041,M5T 2-Y5,Casual
+204952,0h 11m 34s,8/10/2011 16:27,University Ave / King St W,7005,8/10/2011 16:38,Jarvis St / Carleton St,7055,T01041,M4X1S1,Casual
+206620,0h 5m 31s,8/11/2011 9:26,Jarvis St / Carleton St,7055,8/11/2011 9:32,Church St / Monteith St ,7058,T01041,M5A 3W1,Casual
+206802,0h 5m 50s,8/11/2011 11:22,Church St / Monteith St ,7058,8/11/2011 11:28,Temperance St / Yonge St,7019,T01041,M4Y0A2,Casual
+210938,0h 21m 9s,8/12/2011 20:07,Temperance St / Yonge St,7019,8/12/2011 20:28,Madison Ave / Bloor St W,7003,T01041,,Casual
+211017,0h 30m 58s,8/12/2011 20:31,Madison Ave / Bloor St W,7003,8/12/2011 21:02,Willcocks St / St. George St,7066,T01041,,Casual
+211271,0h 7m 2s,8/12/2011 22:40,Willcocks St / St. George St,7066,8/12/2011 22:47,St George St / Bloor St W,7002,T01041,,Casual
+212060,0h 17m 40s,8/13/2011 13:07,St George St / Bloor St W,7002,8/13/2011 13:25,Bremner / Spadina,7073,T01041,,Casual
+212168,44h 11m 41s,8/13/2011 13:43,Bremner / Spadina,7073,8/15/2011 9:55,King St W / Bay St,7015,T01041,M5V2V6,Subscriber
+216292,0h 3m 20s,8/15/2011 13:15,King St W / Bay St,7015,8/15/2011 13:18,Metro Hall Plaza,7053,T01041,M5V3P5,Casual
+216717,0h 14m 29s,8/15/2011 16:39,Metro Hall Plaza,7053,8/15/2011 16:54,Huron St / Harbord St ,7024,T01041,M2N 2R8,Subscriber
+217936,0h 17m 11s,8/16/2011 8:47,Huron St / Harbord St ,7024,8/16/2011 9:05,University Ave / King St W,7005,T01041,M6G 3A6,Casual
+218685,0h 5m 18s,8/16/2011 14:42,University Ave / King St W,7005,8/16/2011 14:48,Queen St W / Spadina Ave,7069,T01041,M5B1H2,Casual
+218893,0h 10m 51s,8/16/2011 16:15,Queen St W / Spadina Ave,7069,8/16/2011 16:26,Willcocks St / St. George St,7066,T01041,,Casual
+219235,0h 15m 26s,8/16/2011 17:35,Willcocks St / St. George St,7066,8/16/2011 17:50,Bremner / Spadina,7073,T01041,M5V3S1,Casual
+220208,0h 5m 16s,8/17/2011 7:05,Bremner / Spadina,7073,8/17/2011 7:11,King St W / Bay St,7015,T01041,M5V 4B3,Casual
+222017,0h 13m 23s,8/17/2011 17:52,King St W / Bay St,7015,8/17/2011 18:05,Widmer St / Adelaide St ,7017,T01041,,Casual
+222155,0h 8m 34s,8/17/2011 18:23,Widmer St / Adelaide St ,7017,8/17/2011 18:31,Lower Simcoe St / Lakeshore Blvd W,7043,T01041,M5T 2Y4,Casual
+224149,0h 20m 39s,8/18/2011 16:59,Madison Ave / Bloor St W,7003,8/18/2011 17:20,King St W / Spadina Ave,7010,T01041,,Casual
+224620,0h 12m 11s,8/18/2011 19:03,King St W / Spadina Ave,7010,8/18/2011 19:15,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+224693,2h 51m 50s,8/18/2011 19:23,Ferry Ramp / Queens Quay W,7016,8/18/2011 22:15,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+225066,0h 8m 50s,8/18/2011 22:46,Ferry Ramp / Queens Quay W,7016,8/18/2011 22:55,Front St W / Blue Jays Way,7059,T01041,M5V 3R5,Subscriber
+225569,0h 6m 24s,8/19/2011 8:47,Front St W / Blue Jays Way,7059,8/19/2011 8:53,Ferry Ramp / Queens Quay W,7016,T01041,M5V3P6,Casual
+225845,1h 8m 2s,8/19/2011 11:18,Ferry Ramp / Queens Quay W,7016,8/19/2011 12:26,King St W / Bay St,7015,T01041,,Casual
+226645,0h 5m 20s,8/19/2011 16:42,King St W / Bay St,7015,8/19/2011 16:47,Yonge St. / Lakeshore Ave. E.,7067,T01041,M5J 2H2,Casual
+230247,0h 10m 32s,8/21/2011 12:42,Yonge St. / Lakeshore Ave. E.,7067,8/21/2011 12:52,Edward St / Yonge St,7041,T01041,M5G2G5,Casual
+230516,0h 18m 24s,8/21/2011 14:39,Edward St / Yonge St,7041,8/21/2011 14:57,University Ave / Elm St,7004,T01041,,Casual
+230866,0h 5m 56s,8/21/2011 18:32,University Ave / Elm St,7004,8/21/2011 18:38,Dundas / Yonge St.,7038,T01041,M5T 2Y9,Casual
+230877,0h 5m 10s,8/21/2011 18:39,Dundas / Yonge St.,7038,8/21/2011 18:44,Melinda St / Yonge St,7036,T01041,,Casual
+231313,0h 11m 19s,8/22/2011 7:53,Church St / Monteith St ,7058,8/22/2011 8:04,Phoebe St / Spadina Ave,7020,T01041,M4Y 1B2,Casual
+231841,0h 2m 10s,8/22/2011 11:51,Phoebe St / Spadina Ave,7020,8/22/2011 11:53,Queen St / Portland St,7049,T01041,M5V2V9,Casual
+233814,0h 8m 35s,8/23/2011 8:39,Queen St / Portland St,7049,8/23/2011 8:48,25 York St,7070,T01041,M4Y 1X6,Casual
+234117,0h 8m 29s,8/23/2011 10:16,25 York St,7070,8/23/2011 10:25,King St W / Spadina Ave,7010,T01041,L5L 1M4,Casual
+234212,0h 18m 6s,8/23/2011 11:04,King St W / Spadina Ave,7010,8/23/2011 11:23,Queen St / Ossington Ave,7035,T01041,,Casual
+234354,0h 19m 3s,8/23/2011 12:10,Queen St / Ossington Ave,7035,8/23/2011 12:29,Madison Ave / Bloor St W,7003,T01041,,Casual
+234431,0h 14m 3s,8/23/2011 12:39,Madison Ave / Bloor St W,7003,8/23/2011 12:53,Queen St / Ossington Ave,7035,T01041,,Casual
+234965,0h 15m 24s,8/23/2011 16:08,Queen St / Ossington Ave,7035,8/23/2011 16:24,Bremner / Spadina,7073,T01041,M5V2V6,Subscriber
+236467,0h 10m 0s,8/24/2011 8:19,Bremner / Spadina,7073,8/24/2011 8:29,Queen St / Ossington Ave,7035,T01041,M5V3V9,Casual
+237461,0h 14m 8s,8/24/2011 16:56,Queen St / Ossington Ave,7035,8/24/2011 17:10,Tech Terminal,7033,T01041,,Casual
+237638,0h 8m 13s,8/24/2011 17:35,Tech Terminal,7033,8/24/2011 17:43,Sherbourne / Carlton (Allan Gardens),7014,T01041,M5B2R6,Subscriber
+238902,0h 7m 54s,8/25/2011 11:18,Sherbourne / Carlton (Allan Gardens),7014,8/25/2011 11:26,Simcoe St / Wellington St W,7057,T01041,M5B 0A5,Casual
+239914,0h 17m 5s,8/25/2011 17:48,Simcoe St / Wellington St W,7057,8/25/2011 18:05,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,M4Y 2J3,Casual
+246202,1h 11m 8s,8/28/2011 13:22,Ted Rogers Way / Bloor St E,7025,8/28/2011 14:33,King St W / Spadina Ave,7010,T01041,,Casual
+248570,0h 7m 2s,8/29/2011 16:00,University Ave / College St,7062,8/29/2011 16:07,Edward St / Yonge St,7041,T01041,N1L1N2,Casual
+248861,0h 11m 10s,8/29/2011 17:23,Edward St / Yonge St,7041,8/29/2011 17:34,Jarvis St / Isabella St,7031,T01041,M4Y2H9,Subscriber
+249972,0h 15m 2s,8/30/2011 8:42,Jarvis St / Isabella St,7031,8/30/2011 8:57,Queen St W / Spadina Ave,7069,T01041,L7L 6X4,Casual
+250051,0h 16m 47s,8/30/2011 8:58,Queen St W / Spadina Ave,7069,8/30/2011 9:14,Jarvis St / Carleton St,7055,T01041,,Casual
+250279,0h 13m 59s,8/30/2011 10:43,Jarvis St / Carleton St,7055,8/30/2011 10:57,Queen St W / Spadina Ave,7069,T01041,,Casual
+251413,0h 17m 47s,8/30/2011 18:15,Queen St W / Spadina Ave,7069,8/30/2011 18:33,Jarvis St / Carleton St,7055,T01041,,Casual
+254801,0h 9m 7s,9/1/2011 9:12,Ted Rogers Way / Bloor St E,7025,9/1/2011 9:21,Edward St / Yonge St,7041,T01041,M4W3Y2,Casual
+254941,0h 11m 54s,9/1/2011 10:23,Edward St / Yonge St,7041,9/1/2011 10:35,Queens Park / Bloor St W,7063,T01041,M5N2A5,Casual
+255330,1h 34m 14s,9/1/2011 15:52,Church St / Monteith St ,7058,9/1/2011 17:27,Princess Ave / Adelaide St,7060,T01041,,Casual
+255961,0h 2m 4s,9/1/2011 19:16,Princess Ave / Adelaide St,7060,9/1/2011 19:18,Simcoe St / Queen St W,7022,T01041,L6S4B3,Subscriber
+256330,0h 4m 31s,9/1/2011 22:45,Simcoe St / Queen St W,7022,9/1/2011 22:49,University Ave / Elm St,7004,T01041,M5T 2Y9,Subscriber
+257490,0h 6m 40s,9/2/2011 14:13,University Ave / Elm St,7004,9/2/2011 14:20,Willcocks St / St. George St,7066,T01041,M5T 2Y9,Subscriber
+257546,0h 6m 1s,9/2/2011 14:32,Willcocks St / St. George St,7066,9/2/2011 14:38,University Ave / Elm St,7004,T01041,M5T 2Y9,Subscriber
+257924,0h 10m 1s,9/2/2011 16:37,University Ave / Elm St,7004,9/2/2011 16:47,King St W / Spadina Ave,7010,T01041,M5V2J5,Subscriber
+259092,3h 10m 36s,9/3/2011 12:35,King St W / Spadina Ave,7010,9/3/2011 15:47,King St W / Spadina Ave,7010,T01041,,Casual
+259829,0h 28m 25s,9/3/2011 17:35,King St W / Spadina Ave,7010,9/3/2011 18:04,College St / Major St,7078,T01041,,Casual
+260393,0h 15m 32s,9/3/2011 23:31,College St / Major St,7078,9/3/2011 23:47,Temperance St / Yonge St,7019,T01041,M6H293,Casual
+261177,0h 23m 31s,9/4/2011 13:40,Temperance St / Yonge St,7019,9/4/2011 14:03,Front St W / Blue Jays Way,7059,T01041,,Casual
+261257,0h 10m 13s,9/4/2011 14:10,Front St W / Blue Jays Way,7059,9/4/2011 14:20,Richmond St E / Jarvis St,7050,T01041,,Casual
+261804,0h 25m 59s,9/4/2011 17:21,Richmond St E / Jarvis St,7050,9/4/2011 17:47,Queens Quay W / Dan Leckie Way,7075,T01041,,Casual
+262563,0h 8m 49s,9/5/2011 10:11,Queens Quay W / Dan Leckie Way,7075,9/5/2011 10:19,Trinity / Front (Distillery),7064,T01041,M5V3Y4,Subscriber
+262642,1h 34m 48s,9/5/2011 11:09,Trinity / Front (Distillery),7064,9/5/2011 12:44,Trinity / Front (Distillery),7064,T01041,,Casual
+263077,0h 30m 12s,9/5/2011 14:19,Trinity / Front (Distillery),7064,9/5/2011 14:49,Bay St / St Joseph St,7026,T01041,,Casual
+263478,0h 9m 40s,9/5/2011 17:23,Bay St / St Joseph St,7026,9/5/2011 17:33,Phoebe St / Spadina Ave,7020,T01041,M4Y 2W4,Subscriber
+264763,0h 23m 8s,9/6/2011 13:07,Phoebe St / Spadina Ave,7020,9/6/2011 13:31,Bloor St / Brunswick Ave,7061,T01041,,Casual
+264832,0h 15m 10s,9/6/2011 13:40,Bloor St / Brunswick Ave,7061,9/6/2011 13:55,Bay St / Bloor St W,7029,T01041,,Casual
+265061,0h 9m 5s,9/6/2011 15:53,Bay St / Bloor St W,7029,9/6/2011 16:02,Bay St / Albert St,7021,T01041,M5V 2Y4,Casual
+266035,0h 4m 28s,9/6/2011 21:36,Bay St / Albert St,7021,9/6/2011 21:40,Queen St W / Shaw St,7072,T01041,M5V2P4,Casual
+266609,0h 3m 19s,9/7/2011 9:01,Queen St W / Shaw St,7072,9/7/2011 9:04,King St W / Bay St,7015,T01041,M5T2W9,Casual
+266842,0h 16m 49s,9/7/2011 10:52,King St W / Bay St,7015,9/7/2011 11:09,Church St / Bloor St E,7034,T01041,M5A4M3,Casual
+267556,0h 9m 50s,9/7/2011 16:54,Church St / Bloor St E,7034,9/7/2011 17:04,Sherbourne St / Wellesley St,7042,T01041,M5A4M3,Casual
+269712,0h 7m 8s,9/8/2011 16:53,Sherbourne St / Wellesley St,7042,9/8/2011 17:00,Queen St W / Shaw St,7072,T01041,M5B2P7,Casual
+271371,0h 3m 9s,9/9/2011 11:22,Queen St W / Shaw St,7072,9/9/2011 11:25,Simcoe St / Wellington St W,7057,T01041,M4Y 2J3,Casual
+271726,0h 10m 0s,9/9/2011 14:15,Simcoe St / Wellington St W,7057,9/9/2011 14:25,University Ave / College St,7062,T01041,L1K2R1,Casual
+272115,0h 11m 28s,9/9/2011 16:41,University Ave / College St,7062,9/9/2011 16:53,Wellington St W / Bay St,7052,T01041,L4S 1B6,Casual
+273495,0h 9m 45s,9/10/2011 10:31,Princess Ave / Adelaide St,7060,9/10/2011 10:41,Bay St / Bloor St W,7029,T01041,M5J0A7,Casual
+273555,0h 19m 58s,9/10/2011 10:59,Bay St / Bloor St W,7029,9/10/2011 11:19,Metro Hall Plaza,7053,T01041,M5V 3H1,Subscriber
+273739,0h 9m 7s,9/10/2011 12:18,Metro Hall Plaza,7053,9/10/2011 12:27,Widmer St / Adelaide St ,7017,T01041,,Casual
+275324,0h 29m 44s,9/10/2011 21:19,Widmer St / Adelaide St ,7017,9/10/2011 21:49,Wellesley St E. / Yonge St,7051,T01041,,Casual
+276118,0h 2m 9s,9/11/2011 12:16,Wellesley St E. / Yonge St,7051,9/11/2011 12:18,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,M4Y 1R2,Casual
+277843,0h 19m 55s,9/12/2011 4:31,Navy Wharf Ct. / Bremner Blvd.,7054,9/12/2011 4:51,Queens Quay W / Dan Leckie Way,7075,T01041,M4Y1E1,Subscriber
+282981,0h 12m 53s,9/14/2011 7:51,Front St W / Blue Jays Way,7059,9/14/2011 8:04,Edward St / Yonge St,7041,T01041,M5G 0B1,Subscriber
+283920,0h 23m 43s,9/14/2011 14:06,Edward St / Yonge St,7041,9/14/2011 14:29,Phoebe St / Spadina Ave,7020,T01041,,Casual
+284398,0h 7m 47s,9/14/2011 17:15,Phoebe St / Spadina Ave,7020,9/14/2011 17:22,Bay St / Albert St,7021,T01041,M5T2C7,Casual
+286517,0h 8m 20s,9/15/2011 16:53,Bay St / Albert St,7021,9/15/2011 17:01,Bay St / Wellesley St W,7030,T01041,M5S 2X3,Casual
+286710,0h 9m 47s,9/15/2011 17:42,Bay St / Wellesley St W,7030,9/15/2011 17:52,Ft. York / Capreol Crt.,7000,T01041,M8V 3E4,Casual
+287108,0h 0m 7s,9/15/2011 20:39,Ft. York / Capreol Crt.,7000,9/15/2011 20:40,Ft. York / Capreol Crt.,7000,T01041,M8V 3E4,Casual
+287550,0h 8m 56s,9/16/2011 8:32,Bremner / Spadina,7073,9/16/2011 8:40,Wellington St W / Bay St,7052,T01041,,Casual
+287946,0h 10m 57s,9/16/2011 11:01,Wellington St W / Bay St,7052,9/16/2011 11:12,University Ave / College St,7062,T01041,L5V1Z2,Casual
+288491,0h 7m 12s,9/16/2011 15:10,University Ave / College St,7062,9/16/2011 15:17,Huron St / Harbord St ,7024,T01041,M4N1T2,Subscriber
+289044,0h 3m 41s,9/16/2011 18:04,Huron St / Harbord St ,7024,9/16/2011 18:07,Madison Ave / Bloor St W,7003,T01041,M5R 2Z4,Subscriber
+289183,0h 11m 27s,9/16/2011 18:51,Madison Ave / Bloor St W,7003,9/16/2011 19:03,Jarvis St / Isabella St,7031,T01041,,Casual
+289331,0h 19m 37s,9/16/2011 20:12,Jarvis St / Isabella St,7031,9/16/2011 20:31,Simcoe St / Queen St W,7022,T01041,,Casual
+289414,0h 5m 59s,9/16/2011 21:24,Simcoe St / Queen St W,7022,9/16/2011 21:30,Edward St / Yonge St,7041,T01041,,Casual
+289774,0h 5m 21s,9/17/2011 9:41,Edward St / Yonge St,7041,9/17/2011 9:46,Tech Terminal,7033,T01041,M5G 2J9,Casual
+290370,0h 6m 9s,9/17/2011 14:47,Tech Terminal,7033,9/17/2011 14:53,Beverly  St / Dundas St W,7027,T01041,M8V2Z1,Casual
+291483,0h 17m 26s,9/18/2011 2:54,Beverly  St / Dundas St W,7027,9/18/2011 3:12,Lower Simcoe St / Lakeshore Blvd W,7043,T01041,M5V3N2,Casual
+294845,0h 10m 27s,9/20/2011 9:07,Sherbourne St / Wellesley St,7042,9/20/2011 9:17,Metro Hall Plaza,7053,T01041,M5B2P7,Casual
+295685,0h 6m 27s,9/20/2011 16:08,Metro Hall Plaza,7053,9/20/2011 16:14,Scott St / The Esplanade,7013,T01041,M5E1A5,Casual
+296551,0h 11m 37s,9/20/2011 20:20,Scott St / The Esplanade,7013,9/20/2011 20:32,Bay St / College St,7006,T01041,M4Y3G5,Subscriber
+296741,0h 3m 10s,9/20/2011 22:29,Bay St / College St,7006,9/20/2011 22:32,Bay St / St Joseph St,7026,T01041,M4Y2W4,Casual
+297290,0h 3m 50s,9/21/2011 8:52,Bay St / St Joseph St,7026,9/21/2011 8:56,Willcocks St / St. George St,7066,T01041,M4Y1R6,Subscriber
+297616,0h 8m 21s,9/21/2011 11:29,Spadina Ave / Sussex Ave,7074,9/21/2011 11:38,Augusta Ave / Dundas St W,7032,T01041,M5R2T1,Subscriber
+297739,0h 18m 40s,9/21/2011 12:21,Augusta Ave / Dundas St W,7032,9/21/2011 12:40,Bathurst St / Dundas St,7037,T01041,M5S3G2,Subscriber
+298073,0h 12m 48s,9/21/2011 15:14,Bathurst St / Dundas St,7037,9/21/2011 15:26,Yonge St. / Lakeshore Ave. E.,7067,T01041,M5J2Z7,Casual
+298170,0h 9m 48s,9/21/2011 16:20,Yonge St. / Lakeshore Ave. E.,7067,9/21/2011 16:29,Queen St W / Shaw St,7072,T01041,M4K1C2,Casual
+298883,0h 4m 31s,9/22/2011 8:14,Queen St W / Shaw St,7072,9/22/2011 8:19,King St W / Spadina Ave,7010,T01041,M5T2Y4,Casual
+299639,0h 9m 3s,9/22/2011 13:41,King St W / Spadina Ave,7010,9/22/2011 13:50,College St / Huron St,7007,T01041,M5V 3T9,Casual
+300143,0h 8m 24s,9/22/2011 17:06,College St / Huron St,7007,9/22/2011 17:14,Bay St / College St,7006,T01041,M5G 2R3,Casual
+300754,0h 9m 10s,9/22/2011 20:23,Bay St / College St,7006,9/22/2011 20:33,King St E / Jarvis St,7009,T01041,M5V1B5,Casual
+300848,0h 6m 49s,9/22/2011 21:13,King St E / Jarvis St,7009,9/22/2011 21:20,Gould St / Mutual St,7028,T01041,M5B 2J4,Casual
+301510,0h 6m 30s,9/23/2011 8:59,Gould St / Mutual St,7028,9/23/2011 9:05,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,M5B 2J4,Casual
+301562,0h 7m 49s,9/23/2011 9:12,Navy Wharf Ct. / Bremner Blvd.,7054,9/23/2011 9:19,Simcoe St / Dundas St W,7039,T01041,M5T2Y4,Casual
+301837,0h 8m 32s,9/23/2011 15:44,Simcoe St / Dundas St W,7039,9/23/2011 15:53,Lower Simcoe St / Lakeshore Blvd W,7043,T01041,,Casual
+303470,1h 32m 42s,9/24/2011 17:34,St George St / Bloor St W,7002,9/24/2011 19:07,St George St / Bloor St W,7002,T01041,,Casual
+303975,0h 19m 12s,9/24/2011 22:19,St George St / Bloor St W,7002,9/24/2011 22:38,Front St W / Blue Jays Way,7059,T01041,,Casual
+304012,0h 14m 10s,9/24/2011 23:02,Front St W / Blue Jays Way,7059,9/24/2011 23:17,Church St / Alexander St,7044,T01041,,Casual
+304178,0h 8m 34s,9/25/2011 2:03,Church St / Alexander St,7044,9/25/2011 2:12,Ft. York / Capreol Crt.,7000,T01041,,Casual
+305385,0h 5m 36s,9/25/2011 17:10,University Ave / King St W,7005,9/25/2011 17:16,Ferry Ramp / Queens Quay W,7016,T01041,M5J2R9,Casual
+306434,0h 12m 57s,9/26/2011 9:54,Ferry Ramp / Queens Quay W,7016,9/26/2011 10:07,Euclid Ave / Bloor St,7040,T01041,M5J 2R9,Subscriber
+306534,0h 11m 51s,9/26/2011 11:08,Euclid Ave / Bloor St,7040,9/26/2011 11:20,King St W / Spadina Ave,7010,T01041,,Casual
+307019,1h 8m 19s,9/26/2011 15:30,King St W / Spadina Ave,7010,9/26/2011 16:38,Lower Jarvis St / The Esplanade,7001,T01041,,Casual
+307280,0h 10m 44s,9/26/2011 17:02,Lower Jarvis St / The Esplanade,7001,9/26/2011 17:13,Gould St / Mutual St,7028,T01041,M5B 2P7,Casual
+307628,0h 6m 40s,9/26/2011 18:17,Gould St / Mutual St,7028,9/26/2011 18:23,Jarvis St / Isabella St,7031,T01041,M4Y0A4,Casual
+309016,0h 17m 0s,9/27/2011 12:53,Church St / Bloor St E,7034,9/27/2011 13:10,Spadina Ave / Sussex Ave,7074,T01041,,Casual
+310564,0h 10m 31s,9/28/2011 7:51,Spadina Ave / Sussex Ave,7074,9/28/2011 8:02,King St W / Spadina Ave,7010,T01041,ON,Subscriber
+310781,0h 6m 49s,9/28/2011 8:51,King St W / Spadina Ave,7010,9/28/2011 8:58,Ft. York / Capreol Crt.,7000,T01041,M5V 3N9,Casual
+311000,0h 12m 53s,9/28/2011 10:08,Ft. York / Capreol Crt.,7000,9/28/2011 10:21,Bremner / Spadina,7073,T01041,M5V1C4,Casual
+311115,0h 4m 54s,9/28/2011 11:22,Bremner / Spadina,7073,9/28/2011 11:27,King St W / Spadina Ave,7010,T01041,,Casual
+311246,0h 20m 42s,9/28/2011 12:24,King St W / Spadina Ave,7010,9/28/2011 12:45,Madison Ave / Bloor St W,7003,T01041,,Casual
+311362,0h 4m 56s,9/28/2011 13:20,Madison Ave / Bloor St W,7003,9/28/2011 13:25,Beverly  St / Dundas St W,7027,T01041,,Casual
+311790,0h 14m 1s,9/28/2011 16:57,Beverly  St / Dundas St W,7027,9/28/2011 17:11,King St W / Bay St,7015,T01041,,Casual
+311897,0h 4m 37s,9/28/2011 17:25,King St W / Bay St,7015,9/28/2011 17:29,York St / Queens Quay W,7076,T01041,M5J2Y5,Casual
+312154,0h 11m 25s,9/28/2011 19:02,York St / Queens Quay W,7076,9/28/2011 19:13,Trinity / Front (Distillery),7064,T01041,M5S3G2,Casual
+312390,0h 8m 34s,9/28/2011 21:22,Trinity / Front (Distillery),7064,9/28/2011 21:31,York St / Queens Quay W,7076,T01041,M5S3G2,Casual
+315227,0h 23m 53s,9/30/2011 13:35,York St / Queens Quay W,7076,9/30/2011 13:58,Queens Quay W / Dan Leckie Way,7075,T01041,,Casual
+315318,0h 32m 2s,9/30/2011 14:23,Queens Quay W / Dan Leckie Way,7075,9/30/2011 14:55,Ft. York / Capreol Crt.,7000,T01041,,Casual
+317920,0h 21m 59s,10/2/2011 1:46,University Ave / College St,7062,10/2/2011 2:08,Spadina Ave / Sussex Ave,7074,T01041,,Casual
+318750,0h 6m 40s,10/3/2011 8:24,Spadina Ave / Sussex Ave,7074,10/3/2011 8:31,Queen St W / Spadina Ave,7069,T01041,M6G2T2,Casual
+318901,0h 5m 6s,10/3/2011 9:22,Queen St W / Spadina Ave,7069,10/3/2011 9:27,University Ave / King St W,7005,T01041,M5T 2K8,Casual
+319688,0h 11m 6s,10/3/2011 17:55,University Ave / King St W,7005,10/3/2011 18:07,Church St / Monteith St ,7058,T01041,H8Z2Y5,Casual
+320336,0h 9m 31s,10/4/2011 8:46,Church St / Monteith St ,7058,10/4/2011 8:55,King St W / Bay St,7015,T01041,M4Y0A2,Casual
+321408,0h 18m 16s,10/4/2011 17:09,King St W / Bay St,7015,10/4/2011 17:27,Ted Rogers Way / Bloor St E,7025,T01041,M4W3Y2,Casual
+322460,0h 11m 17s,10/5/2011 8:21,Ted Rogers Way / Bloor St E,7025,10/5/2011 8:32,Temperance St / Yonge St,7019,T01041,M4W3Y2,Casual
+324085,0h 10m 47s,10/5/2011 18:36,Temperance St / Yonge St,7019,10/5/2011 18:47,Bay St / Wellesley St W,7030,T01041,M5S3L4,Casual
+324404,0h 14m 32s,10/5/2011 21:20,Bay St / Wellesley St W,7030,10/5/2011 21:34,Bay St / St Joseph St,7026,T01041,,Casual
+324880,0h 8m 52s,10/6/2011 8:29,Bay St / St Joseph St,7026,10/6/2011 8:37,King St W / Bay St,7015,T01041,M5S3A6,Casual
+326542,0h 4m 49s,10/6/2011 18:36,King St W / Bay St,7015,10/6/2011 18:41,Dundas / Yonge St.,7038,T01041,M5V3V2,Casual
+326571,0h 9m 19s,10/6/2011 18:49,Dundas / Yonge St.,7038,10/6/2011 18:59,Front St W / Blue Jays Way,7059,T01041,M5V3V2,Casual
+326723,0h 12m 54s,10/6/2011 20:00,Front St W / Blue Jays Way,7059,10/6/2011 20:13,King St E / Jarvis St,7009,T01041,,Casual
+326946,0h 11m 57s,10/6/2011 22:51,King St E / Jarvis St,7009,10/6/2011 23:03,Bay St / Bloor St W,7029,T01041,M5V1C4,Casual
+327157,0h 13m 39s,10/7/2011 7:29,Bay St / Bloor St W,7029,10/7/2011 7:43,Ft. York / Capreol Crt.,7000,T01041,M5P1V1,Casual
+327886,0h 10m 55s,10/7/2011 12:27,Gerrard St E / Church St,7079,10/7/2011 12:38,Jarvis St / Isabella St,7031,T01041,L4C8P4,Subscriber
+328058,0h 15m 13s,10/7/2011 13:35,Jarvis St / Isabella St,7031,10/7/2011 13:50,Phoebe St / Spadina Ave,7020,T01041,,Casual
+328381,0h 22m 29s,10/7/2011 15:42,Phoebe St / Spadina Ave,7020,10/7/2011 16:05,Phoebe St / Spadina Ave,7020,T01041,M6R2C8,Casual
+328525,0h 53m 25s,10/7/2011 16:23,Phoebe St / Spadina Ave,7020,10/7/2011 17:16,Queens Quay W / Dan Leckie Way,7075,T01041,,Casual
+328950,0h 10m 38s,10/7/2011 18:07,Queens Quay W / Dan Leckie Way,7075,10/7/2011 18:18,Dockside Dr / Queens Quay E.,7068,T01041,,Casual
+330011,1h 56m 17s,10/8/2011 12:54,Dockside Dr / Queens Quay E.,7068,10/8/2011 14:51,Dockside Dr / Queens Quay E.,7068,T01041,,Casual
+330369,0h 24m 13s,10/8/2011 15:02,Dockside Dr / Queens Quay E.,7068,10/8/2011 15:26,King St E / Jarvis St,7009,T01041,,Casual
+332463,0h 18m 31s,10/9/2011 17:21,King St E / Jarvis St,7009,10/9/2011 17:40,Queen St / Portland St,7049,T01041,,Casual
+333904,0h 5m 31s,10/10/2011 17:57,Queen St / Portland St,7049,10/10/2011 18:03,College St / Major St,7078,T01041,M5T 1N9,Casual
+333948,0h 24m 40s,10/10/2011 18:29,College St / Major St,7078,10/10/2011 18:54,Bay St / Albert St,7021,T01041,,Casual
+334000,0h 17m 20s,10/10/2011 19:17,Bay St / Albert St,7021,10/10/2011 19:35,Queen St W / Spadina Ave,7069,T01041,,Casual
+334761,0h 8m 45s,10/11/2011 9:51,Queen St W / Spadina Ave,7069,10/11/2011 10:00,Willcocks St / St. George St,7066,T01041,M5V2A8,Casual
+334938,0h 4m 55s,10/11/2011 11:57,St George St / Bloor St W,7002,10/11/2011 12:02,Willcocks St / St. George St,7066,T01041,L5W 1K8,Subscriber
+335305,0h 16m 41s,10/11/2011 15:23,Willcocks St / St. George St,7066,10/11/2011 15:40,King St W / Bay St,7015,T01041,M2N6S4,Casual
+335458,0h 5m 31s,10/11/2011 16:32,King St W / Bay St,7015,10/11/2011 16:38,Widmer St / Adelaide St ,7017,T01041,M5H1J9,Casual
+338321,0h 5m 51s,10/13/2011 10:25,Queen St / Ossington Ave,7035,10/13/2011 10:31,Elizabeth St / Edward St,7012,T01041,M5G1R1,Subscriber
+338563,0h 6m 10s,10/13/2011 13:03,Bay St / St Joseph St,7026,10/13/2011 13:10,Willcocks St / St. George St,7066,T01041,,Casual
+338846,0h 14m 20s,10/13/2011 15:43,Willcocks St / St. George St,7066,10/13/2011 15:58,Ted Rogers Way / Bloor St E,7025,T01041,M4Y 1R7,Casual
+339008,0h 12m 44s,10/13/2011 16:47,Ted Rogers Way / Bloor St E,7025,10/13/2011 17:00,Ft. York / Capreol Crt.,7000,T01041,L7L2A7,Casual
+339679,0h 12m 21s,10/13/2011 21:19,University Ave / College St,7062,10/13/2011 21:31,Bay St / St Joseph St,7026,T01041,M5T 1W4,Casual
+340343,0h 10m 49s,10/14/2011 10:25,Bay St / St Joseph St,7026,10/14/2011 10:36,Bathurst / Queens Quay (Island Airport),7071,T01041,,Casual
+340369,0h 29m 11s,10/14/2011 10:51,Bathurst / Queens Quay (Island Airport),7071,10/14/2011 11:20,College St / Major St,7078,T01041,,Casual
+340649,0h 8m 43s,10/14/2011 13:48,College St / Major St,7078,10/14/2011 13:57,Madison Ave / Bloor St W,7003,T01041,,Casual
+346185,0h 6m 51s,10/18/2011 11:41,Jarvis St / Isabella St,7031,10/18/2011 11:48,Edward St / Yonge St,7041,T01041,M4X 1L1,Casual
+346884,0h 7m 47s,10/18/2011 17:14,Edward St / Yonge St,7041,10/18/2011 17:22,Parliament St / Gerrard St,7056,T01041,M4Y1H5,Casual
+347497,0h 9m 38s,10/18/2011 20:51,Parliament St / Gerrard St,7056,10/18/2011 21:00,Wellington St W / Bay St,7052,T01041,L1V4P1,Casual
+357502,0h 2m 13s,10/25/2011 7:43,Navy Wharf Ct. / Bremner Blvd.,7054,10/25/2011 7:45,Church St / Bloor St E,7034,T01041,M4Y1K7,Casual
+358913,0h 4m 45s,10/26/2011 5:39,Church St / Bloor St E,7034,10/26/2011 5:44,Church St / Monteith St ,7058,T01041,,Casual
+358934,0h 6m 15s,10/26/2011 6:58,Church St / Monteith St ,7058,10/26/2011 7:05,Church St / Bloor St E,7034,T01041,,Casual
+359050,0h 6m 41s,10/26/2011 8:20,Church St / Bloor St E,7034,10/26/2011 8:27,Bay St / St Joseph St,7026,T01041,,Casual
+359101,0h 3m 10s,10/26/2011 8:38,Bay St / St Joseph St,7026,10/26/2011 8:42,Beverly  St / Dundas St W,7027,T01041,M4Y 2W4,Subscriber
+359137,0h 3m 0s,10/26/2011 8:49,Beverly  St / Dundas St W,7027,10/26/2011 8:52,Willcocks St / St. George St,7066,T01041,M5R1R2,Casual
+359499,0h 7m 0s,10/26/2011 14:18,Willcocks St / St. George St,7066,10/26/2011 14:25,Church St / Monteith St ,7058,T01041,M4Y 1B5,Casual
+359530,0h 7m 41s,10/26/2011 15:02,Church St / Monteith St ,7058,10/26/2011 15:10,Huron St / Harbord St ,7024,T01041,M4Y 1B5,Casual
+359632,0h 16m 33s,10/26/2011 16:41,Huron St / Harbord St ,7024,10/26/2011 16:57,Wellington St W / Bay St,7052,T01041,N3T 5L7,Casual
+359843,0h 8m 9s,10/26/2011 18:16,Wellington St W / Bay St,7052,10/26/2011 18:24,King St W / Spadina Ave,7010,T01041,M5V 1E3,Casual
+359882,0h 16m 27s,10/26/2011 18:32,King St W / Spadina Ave,7010,10/26/2011 18:48,Madison Ave / Bloor St W,7003,T01041,,Casual
+360031,0h 17m 44s,10/26/2011 20:59,Madison Ave / Bloor St W,7003,10/26/2011 21:17,Sherbourne St / Wellesley St,7042,T01041,M5A 3W1,Casual
+360556,0h 28m 38s,10/27/2011 9:26,Sherbourne St / Wellesley St,7042,10/27/2011 9:55,Church St / Bloor St E,7034,T01041,M5A4M3,Casual
+360885,0h 4m 1s,10/27/2011 12:56,Church St / Bloor St E,7034,10/27/2011 13:00,Bay St / St Joseph St,7026,T01041,L1K2S5,Casual
+360975,0h 5m 3s,10/27/2011 13:55,Bay St / St Joseph St,7026,10/27/2011 14:00,Edward St / Yonge St,7041,T01041,M1T 1H8,Casual
+361005,0h 4m 38s,10/27/2011 14:20,Edward St / Yonge St,7041,10/27/2011 14:25,Bay St / St Joseph St,7026,T01041,M1T 1H8,Casual
+361410,0h 4m 55s,10/27/2011 17:28,Bay St / St Joseph St,7026,10/27/2011 17:33,Bay St / Albert St,7021,T01041,M1T 1H8,Casual
+362665,0h 9m 17s,10/28/2011 11:40,Bay St / Albert St,7021,10/28/2011 11:49,College St / Huron St,7007,T01041,,Casual
+364431,0h 6m 37s,10/29/2011 13:53,College St / Huron St,7007,10/29/2011 13:59,Bathurst / Queens Quay (Island Airport),7071,T01041,,Casual
+364465,0h 7m 1s,10/29/2011 14:02,Bathurst / Queens Quay (Island Airport),7071,10/29/2011 14:10,Bay St / College St,7006,T01041,M5E 1R4,Casual
+364586,0h 7m 54s,10/29/2011 15:01,Bay St / College St,7006,10/29/2011 15:09,Willcocks St / St. George St,7066,T01041,M4Y0A4,Casual
+364826,0h 3m 51s,10/29/2011 17:11,Willcocks St / St. George St,7066,10/29/2011 17:15,Bay St / Wellesley St W,7030,T01041,M4Y2X6,Subscriber
+364917,0h 18m 51s,10/29/2011 18:06,Bay St / Wellesley St W,7030,10/29/2011 18:24,Elizabeth St / Edward St,7012,T01041,M5S3A6,Subscriber
+364993,0h 9m 46s,10/29/2011 18:56,Elizabeth St / Edward St,7012,10/29/2011 19:05,Bay St / Wellesley St W,7030,T01041,M5S3A6,Subscriber
+367471,0h 7m 50s,10/31/2011 16:32,Bay St / Wellesley St W,7030,10/31/2011 16:40,Ted Rogers Way / Bloor St E,7025,T01041,L3R 8L8,Subscriber
+367790,0h 11m 7s,10/31/2011 18:00,Ted Rogers Way / Bloor St E,7025,10/31/2011 18:11,Ft. York / Capreol Crt.,7000,T01041,L7L2A7,Casual
+368086,0h 12m 30s,10/31/2011 20:47,Ft. York / Capreol Crt.,7000,10/31/2011 21:00,Queens Quay W / Dan Leckie Way,7075,T01041,,Casual
+369033,0h 22m 50s,11/1/2011 12:34,Queens Quay W / Dan Leckie Way,7075,11/1/2011 12:57,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,M5V3B9,Casual
+369945,0h 6m 59s,11/1/2011 18:37,Navy Wharf Ct. / Bremner Blvd.,7054,11/1/2011 18:44,Granby St / Yonge St,7077,T01041,M5V0A9,Casual
+370020,0h 5m 4s,11/1/2011 19:05,Granby St / Yonge St,7077,11/1/2011 19:10,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,M5V0A9,Casual
+370695,0h 9m 0s,11/2/2011 8:39,Navy Wharf Ct. / Bremner Blvd.,7054,11/2/2011 8:48,Bay St / Albert St,7021,T01041,M2K1X7,Subscriber
+372154,0h 14m 31s,11/2/2011 18:46,Bay St / Albert St,7021,11/2/2011 19:00,Bay St / Bloor St W,7029,T01041,M4W1L2,Subscriber
+372203,0h 6m 0s,11/2/2011 19:05,Bay St / Bloor St W,7029,11/2/2011 19:11,Euclid Ave / Bloor St,7040,T01041,M5G2J9,Subscriber
+372242,0h 10m 41s,11/2/2011 19:20,Euclid Ave / Bloor St,7040,11/2/2011 19:30,St George St / Bloor St W,7002,T01041,M1C 1C9,Subscriber
+372974,0h 8m 27s,11/3/2011 8:56,Euclid Ave / Bloor St,7040,11/3/2011 9:04,Phoebe St / Spadina Ave,7020,T01041,M5G2J8,Casual
+373538,0h 8m 10s,11/3/2011 14:10,Phoebe St / Spadina Ave,7020,11/3/2011 14:18,Willcocks St / St. George St,7066,T01041,M5V 3Y9,Subscriber
+373725,0h 11m 4s,11/3/2011 16:05,Willcocks St / St. George St,7066,11/3/2011 16:16,Bremner / Spadina,7073,T01041,M5V 3Y9,Subscriber
+375109,0h 12m 46s,11/4/2011 9:47,Augusta Ave / Dundas St W,7032,11/4/2011 10:00,Melinda St / Yonge St,7036,T01041,M5T 1J2,Casual
+375743,0h 10m 6s,11/4/2011 16:05,Melinda St / Yonge St,7036,11/4/2011 16:15,Queens Quay W / Dan Leckie Way,7075,T01041,M4Y1B6,Casual
+375816,0h 9m 22s,11/4/2011 16:29,Queens Quay W / Dan Leckie Way,7075,11/4/2011 16:38,Scott St / The Esplanade,7013,T01041,M5V 2Y9,Casual
+377159,0h 11m 36s,11/5/2011 14:22,Scott St / The Esplanade,7013,11/5/2011 14:34,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,M5E1W5,Casual
+377557,0h 2m 15s,11/5/2011 17:51,Navy Wharf Ct. / Bremner Blvd.,7054,11/5/2011 17:53,Jarvis St / Isabella St,7031,T01041,M4Y 0A4,Casual
+377657,0h 11m 38s,11/5/2011 19:27,Jarvis St / Isabella St,7031,11/5/2011 19:38,College St / Major St,7078,T01041,M4Y 1N9,Casual
+377832,0h 5m 3s,11/5/2011 22:57,College St / Major St,7078,11/5/2011 23:02,Queen St / Portland St,7049,T01041,M5T1B9,Casual
+378443,3h 21m 4s,11/6/2011 13:55,Queen St / Portland St,7049,11/6/2011 17:16,Yonge St. / Lakeshore Ave. E.,7067,T01041,,Casual
+380890,0h 6m 29s,11/7/2011 20:10,Yonge St. / Lakeshore Ave. E.,7067,11/7/2011 20:17,Bremner / Spadina,7073,T01041,M5E 1Z9,Casual
+381163,0h 9m 5s,11/8/2011 6:52,Bremner / Spadina,7073,11/8/2011 7:01,Willcocks St / St. George St,7066,T01041,M5V3V2,Casual
+381547,0h 8m 46s,11/8/2011 9:18,Willcocks St / St. George St,7066,11/8/2011 9:27,King St W / Bay St,7015,T01041,M4V 2T6,Casual
+382412,0h 5m 11s,11/8/2011 17:33,King St W / Bay St,7015,11/8/2011 17:38,Bay St / Albert St,7021,T01041,M4Y 2W1,Casual
+382813,0h 12m 51s,11/8/2011 20:08,Bay St / Albert St,7021,11/8/2011 20:20,Queens Quay W / Dan Leckie Way,7075,T01041,M5V 3K8,Casual
+384177,0h 6m 15s,11/9/2011 15:45,St George St / Bloor St W,7002,11/9/2011 15:52,Bay St / St Joseph St,7026,T01041,L3P3Z6,Casual
+384286,0h 10m 59s,11/9/2011 17:05,Bay St / St Joseph St,7026,11/9/2011 17:16,Jarvis St / Carleton St,7055,T01041,M4Y2X4,Casual
+384857,0h 5m 44s,11/10/2011 7:51,Jarvis St / Carleton St,7055,11/10/2011 7:56,King St E / Jarvis St,7009,T01041,M4X1K3,Casual
+384951,0h 11m 39s,11/10/2011 8:21,King St E / Jarvis St,7009,11/10/2011 8:33,King St W / Spadina Ave,7010,T01041,M5A4E8,Casual
+386926,0h 9m 36s,11/11/2011 8:42,Front/Yonge (Hockey Hall of Fame),7048,11/11/2011 8:51,Phoebe St / Spadina Ave,7020,T01041,L6J3S6,Casual
+387323,0h 6m 29s,11/11/2011 12:32,Phoebe St / Spadina Ave,7020,11/11/2011 12:38,University Ave / Gerrard St W,7047,T01041,M6J 1A2,Casual
+387977,0h 3m 37s,11/11/2011 18:25,University Ave / Gerrard St W,7047,11/11/2011 18:29,Church St / Monteith St ,7058,T01041,M4Y 1B5,Casual
+388066,0h 4m 25s,11/11/2011 19:19,Church St / Monteith St ,7058,11/11/2011 19:24,Bay St / Bloor St W,7029,T01041,M4Y1B5,Casual
+388712,0h 19m 8s,11/12/2011 12:50,Bay St / Bloor St W,7029,11/12/2011 13:09,Granby St / Yonge St,7077,T01041,,Casual
+390564,0h 11m 1s,11/13/2011 18:24,Madison Ave / Bloor St W,7003,11/13/2011 18:35,Gerrard St E / Church St,7079,T01041,M5B 2E8,Casual
+390883,0h 6m 43s,11/14/2011 7:41,Gerrard St E / Church St,7079,11/14/2011 7:48,Wellington St W / Bay St,7052,T01041,M5B2E8,Casual
+390902,0h 7m 54s,11/14/2011 7:50,Wellington St W / Bay St,7052,11/14/2011 7:58,Bay St / College St,7006,T01041,L9T2T8,Casual
+390971,0h 9m 5s,11/14/2011 8:17,Bay St / College St,7006,11/14/2011 8:26,25 York St,7070,T01041,M5G 2R3,Casual
+393878,0h 6m 37s,11/15/2011 18:20,25 York St,7070,11/15/2011 18:27,Bremner / Spadina,7073,T01041,M5B1B4,Casual
+394027,0h 11m 19s,11/15/2011 19:09,Bremner / Spadina,7073,11/15/2011 19:21,Bay St / College St,7006,T01041,M5A 4R2,Casual
+394112,0h 4m 23s,11/15/2011 19:58,Bay St / College St,7006,11/15/2011 20:02,Elizabeth St / Edward St,7012,T01041,M5V 3Z5,Casual
+394221,0h 5m 7s,11/15/2011 21:16,Elizabeth St / Edward St,7012,11/15/2011 21:21,College St / Huron St,7007,T01041,L3T 3R4,Casual
+394398,0h 4m 44s,11/16/2011 0:17,College St / Huron St,7007,11/16/2011 0:22,Bay St / College St,7006,T01041,M4X1N1,Subscriber
+394435,0h 9m 7s,11/16/2011 6:25,Bay St / College St,7006,11/16/2011 6:34,Augusta Ave / Dundas St W,7032,T01041,M5G 2R3,Casual
+394694,0h 12m 53s,11/16/2011 8:29,Augusta Ave / Dundas St W,7032,11/16/2011 8:41,King St W / Bay St,7015,T01041,M6J2K8,Subscriber
+396665,0h 17m 3s,11/17/2011 8:49,Front/Yonge (Hockey Hall of Fame),7048,11/17/2011 9:06,Augusta Ave / Dundas St W,7032,T01041,L1P 1M5,Casual
+397412,0h 12m 31s,11/17/2011 16:30,Augusta Ave / Dundas St W,7032,11/17/2011 16:43,Front/Yonge (Hockey Hall of Fame),7048,T01041,L1P 1M5,Casual
+404325,0h 6m 0s,11/22/2011 17:48,Ted Rogers Way / Bloor St E,7025,11/22/2011 17:54,Gould St / Mutual St,7028,T01041,M5A2T7,Casual
+404429,0h 3m 13s,11/22/2011 18:20,Gould St / Mutual St,7028,11/22/2011 18:24,Jarvis St / Carleton St,7055,T01041,M5A2T7,Casual
+405255,0h 5m 15s,11/23/2011 14:00,Jarvis St / Carleton St,7055,11/23/2011 14:06,Ted Rogers Way / Bloor St E,7025,T01041,M5A2T7,Casual
+405704,0h 7m 31s,11/23/2011 17:49,Ted Rogers Way / Bloor St E,7025,11/23/2011 17:57,Church St / Monteith St ,7058,T01041,M5A2T7,Casual
+406443,0h 4m 54s,11/24/2011 8:57,Church St / Monteith St ,7058,11/24/2011 9:02,Bay St / Albert St,7021,T01041,M4Y 2V6,Casual
+413065,0h 4m 45s,11/28/2011 19:04,Bay St / Albert St,7021,11/28/2011 19:09,Melinda St / Yonge St,7036,T01041,M5E1A1,Casual
+413251,0h 5m 58s,11/28/2011 22:12,Melinda St / Yonge St,7036,11/28/2011 22:18,Granby St / Yonge St,7077,T01041,M5B1L4,Casual
+413721,0h 7m 14s,11/29/2011 21:28,Granby St / Yonge St,7077,11/29/2011 21:35,Church St / Bloor St E,7034,T01041,M5V1B7,Casual
+414800,0h 13m 28s,11/30/2011 18:41,Church St / Bloor St E,7034,11/30/2011 18:54,Ft. York / Capreol Crt.,7000,T01041,M5E1A1,Subscriber
+414861,0h 2m 43s,11/30/2011 19:23,Ft. York / Capreol Crt.,7000,11/30/2011 19:25,Front/Yonge (Hockey Hall of Fame),7048,T01041,L6P2A3,Casual
+415531,0h 12m 9s,12/1/2011 9:37,Front/Yonge (Hockey Hall of Fame),7048,12/1/2011 9:49,Gerrard St E / Church St,7079,T01041,,Casual
+422949,0h 11m 46s,12/8/2011 8:24,Parliament St / Gerrard St,7056,12/8/2011 8:35,University Ave / King St W,7005,T01041,M4X1S1,Casual
+423008,0h 4m 34s,12/8/2011 8:41,University Ave / King St W,7005,12/8/2011 8:46,King St E / Jarvis St,7009,T01041,M5A1K5,Casual
+423066,0h 9m 4s,12/8/2011 8:54,King St E / Jarvis St,7009,12/8/2011 9:03,Wellesley St E. / Yonge St,7051,T01041,M5A 4K1,Casual
+423138,0h 7m 24s,12/8/2011 9:17,Wellesley St E. / Yonge St,7051,12/8/2011 9:24,Temperance St / Yonge St,7019,T01041,M4Y 3G4,Casual
+427253,0h 4m 49s,12/12/2011 11:51,Bay St / St Joseph St,7026,12/12/2011 11:56,Elizabeth St / Edward St,7012,T01041,M4Y 2W4,Casual
+427511,0h 5m 47s,12/12/2011 15:56,Elizabeth St / Edward St,7012,12/12/2011 16:01,Wellington St W / Bay St,7052,T01041,L6P 2H3,Casual
+428372,0h 6m 26s,12/13/2011 8:32,Ferry Ramp / Queens Quay W,7016,12/13/2011 8:38,Lower Jarvis St / The Esplanade,7001,T01041,M5B 2P7,Casual
+429645,0h 13m 56s,12/13/2011 23:17,Lower Jarvis St / The Esplanade,7001,12/13/2011 23:30,Augusta Ave / Dundas St W,7032,T01041,M5T2N4,Casual
+430126,0h 19m 37s,12/14/2011 10:24,Augusta Ave / Dundas St W,7032,12/14/2011 10:44,Trinity / Front (Distillery),7064,T01041,,Casual
+432528,0h 10m 22s,12/16/2011 15:38,Jarvis St / Isabella St,7031,12/16/2011 15:49,University Ave / Elm St,7004,T01041,M4Y1P4,Casual
+432564,0h 7m 36s,12/16/2011 15:52,University Ave / Elm St,7004,12/16/2011 16:00,St George St / Bloor St W,7002,T01041,M5R1C8,Casual
+433011,0h 2m 54s,12/16/2011 20:52,St George St / Bloor St W,7002,12/16/2011 20:54,Huron St / Harbord St ,7024,T01041,M5R2M1,Subscriber
+433186,0h 6m 3s,12/17/2011 8:40,Huron St / Harbord St ,7024,12/17/2011 8:46,University Ave / College St,7062,T01041,M5S 2K8,Subscriber
+433635,0h 6m 2s,12/17/2011 17:46,University Ave / College St,7062,12/17/2011 17:52,Front/Yonge (Hockey Hall of Fame),7048,T01041,L9T 7G5,Casual
+434066,0h 3m 19s,12/18/2011 14:42,Bay St / College St,7006,12/18/2011 14:45,Edward St / Yonge St,7041,T01041,M4Y3G4,Casual
+435477,0h 6m 49s,12/19/2011 19:04,Edward St / Yonge St,7041,12/19/2011 19:11,College St / Huron St,7007,T01041,M5T1X2,Casual
+435688,0h 8m 32s,12/20/2011 7:16,College St / Huron St,7007,12/20/2011 7:25,University Ave / King St W,7005,T01041,M5T2G6,Casual
+436443,0h 3m 51s,12/20/2011 16:31,Front St W / Blue Jays Way,7059,12/20/2011 16:35,Front/Yonge (Hockey Hall of Fame),7048,T01041,M3H3A4,Casual
+437147,0h 11m 12s,12/21/2011 8:57,Front/Yonge (Hockey Hall of Fame),7048,12/21/2011 9:09,Bay St / College St,7006,T01041,K0M 1N0,Subscriber
+437193,0h 2m 15s,12/21/2011 9:13,Bay St / College St,7006,12/21/2011 9:16,Gerrard St E / Church St,7079,T01041,M1K3N7,Casual
+437540,0h 5m 24s,12/21/2011 16:53,Gerrard St E / Church St,7079,12/21/2011 16:58,Richmond St E / Jarvis St,7050,T01041,M5T1Y5,Casual
+437773,0h 10m 10s,12/21/2011 19:53,Richmond St E / Jarvis St,7050,12/21/2011 20:03,Jarvis St / Isabella St,7031,T01041,M4S 1G9,Casual
+438668,0h 10m 51s,12/22/2011 16:52,Jarvis St / Isabella St,7031,12/22/2011 17:02,Jarvis St / Isabella St,7031,T01041,M4Y 2L2,Subscriber
+438749,0h 28m 13s,12/22/2011 17:33,Jarvis St / Isabella St,7031,12/22/2011 18:02,Bathurst / Queens Quay (Island Airport),7071,T01041,M4Y 1M4,Casual
+440772,0h 1m 32s,12/27/2011 0:58,Bathurst / Queens Quay (Island Airport),7071,12/27/2011 1:00,Queens Quay W / Dan Leckie Way,7075,T01041,M5V3B9,Casual
+442334,0h 27m 27s,12/31/2011 16:27,Queens Quay W / Dan Leckie Way,7075,12/31/2011 16:55,Bathurst / Queens Quay (Island Airport),7071,T01041,,Casual
+442510,0h 1m 13s,1/1/2012 0:36,Jarvis St / Carleton St,7055,1/1/2012 0:37,Sherbourne / Carlton (Allan Gardens),7014,T01041,M5T 2L4,Subscriber
+444246,0h 12m 48s,1/4/2012 15:19,Sherbourne / Carlton (Allan Gardens),7014,1/4/2012 15:32,College St / Major St,7078,T01041,,Casual
+446221,0h 4m 13s,1/6/2012 12:46,College St / Major St,7078,1/6/2012 12:51,University Ave / College St,7062,T01041,M4Y2X4,Subscriber
+446470,0h 8m 36s,1/6/2012 16:16,University Ave / College St,7062,1/6/2012 16:25,Bond St / Queen St E,7045,T01041,M5V0G1,Subscriber
+446712,0h 12m 0s,1/6/2012 18:01,Bond St / Queen St E,7045,1/6/2012 18:13,Queen St / Portland St,7049,T01041,M5V0G1,Subscriber
+446837,0h 4m 16s,1/6/2012 19:31,Queen St / Portland St,7049,1/6/2012 19:35,Widmer St / Adelaide St ,7017,T01041,M5V3P6,Subscriber
+447468,0h 4m 24s,1/7/2012 16:03,Widmer St / Adelaide St ,7017,1/7/2012 16:07,Queen St / Portland St,7049,T01041,M5V3P6,Subscriber
+447875,0h 6m 46s,1/8/2012 11:16,Queen St / Portland St,7049,1/8/2012 11:23,Front St W / Blue Jays Way,7059,T01041,M5V3S1,Subscriber
+449631,0h 15m 33s,1/9/2012 23:08,Jarvis St / Isabella St,7031,1/9/2012 23:23,Wellington St W / Bay St,7052,T01041,L6M 3G1,Subscriber
+450045,0h 10m 47s,1/10/2012 9:45,Wellington St W / Bay St,7052,1/10/2012 9:56,Gerrard St E / Church St,7079,T01041,L1V0A2,Subscriber
+451960,0h 5m 9s,1/11/2012 15:35,Gerrard St E / Church St,7079,1/11/2012 15:40,Richmond St E / Jarvis St,7050,T01041,M5T1Y5,Subscriber
+451992,0h 9m 51s,1/11/2012 16:05,Richmond St E / Jarvis St,7050,1/11/2012 16:14,Bay St / St Joseph St,7026,T01041,M5S2W8,Subscriber
+452033,0h 5m 41s,1/11/2012 16:22,Bay St / St Joseph St,7026,1/11/2012 16:27,Willcocks St / St. George St,7066,T01041,M5T 3L2,Subscriber
+452183,0h 5m 35s,1/11/2012 17:25,Willcocks St / St. George St,7066,1/11/2012 17:31,Bay St / Wellesley St W,7030,T01041,M4Y 3G4,Subscriber
+452270,0h 2m 26s,1/11/2012 17:53,Bay St / Wellesley St W,7030,1/11/2012 17:55,Queens Park Cres E,7008,T01041,M5V 3V9,Subscriber
+452281,0h 12m 20s,1/11/2012 17:56,Queens Park Cres E,7008,1/11/2012 18:08,Wellington St W / Bay St,7052,T01041,L7R 2V1,Subscriber
+452631,0h 3m 51s,1/11/2012 23:39,Queens Park Cres E,7008,1/11/2012 23:43,Bay St / College St,7006,T01041,M5G2M4,Subscriber
+452765,0h 1m 55s,1/12/2012 10:18,Bay St / College St,7006,1/12/2012 10:20,Edward St / Yonge St,7041,T01041,M1K3N7,Subscriber
+453530,0h 3m 32s,1/13/2012 16:43,Edward St / Yonge St,7041,1/13/2012 16:46,Bay St / College St,7006,T01041,M4G3F3,Subscriber
+453540,0h 7m 4s,1/13/2012 16:53,Bay St / College St,7006,1/13/2012 17:00,Sherbourne / Carlton (Allan Gardens),7014,T01041,M5A 3K7,Subscriber
+454737,0h 3m 21s,1/16/2012 12:40,Sherbourne / Carlton (Allan Gardens),7014,1/16/2012 12:44,Sherbourne St / Wellesley St,7042,T01041,M5R2W8,Subscriber
+454779,0h 11m 43s,1/16/2012 13:26,Sherbourne St / Wellesley St,7042,1/16/2012 13:37,Richmond St E / Jarvis St,7050,T01041,M4S 1G9,Subscriber
+455352,0h 12m 4s,1/16/2012 21:18,Richmond St E / Jarvis St,7050,1/16/2012 21:30,Jarvis St / Isabella St,7031,T01041,M4S 1G9,Subscriber
+456034,0h 14m 15s,1/17/2012 19:16,Jarvis St / Isabella St,7031,1/17/2012 19:30,Melinda St / Yonge St,7036,T01041,M4Y 2L2,Subscriber
+456439,0h 4m 19s,1/18/2012 9:35,Melinda St / Yonge St,7036,1/18/2012 9:40,University Ave / King St W,7005,T01041,M5C3C5,Subscriber
+456482,0h 8m 27s,1/18/2012 10:09,University Ave / King St W,7005,1/18/2012 10:17,University Ave / Gerrard St W,7047,T01041,M5C3C5,Subscriber
+457031,0h 2m 0s,1/18/2012 17:59,University Ave / Gerrard St W,7047,1/18/2012 18:01,Elizabeth St / Edward St,7012,T01041,M5G 1R1,Subscriber
+457282,0h 8m 41s,1/18/2012 21:47,Elizabeth St / Edward St,7012,1/18/2012 21:56,York St / Queens Quay W,7076,T01041,M5J2S2,Subscriber
+457409,0h 1m 39s,1/19/2012 7:45,York St / Queens Quay W,7076,1/19/2012 7:46,25 York St,7070,T01041,M5J2H2,Subscriber
+458696,0h 12m 32s,1/20/2012 16:50,25 York St,7070,1/20/2012 17:03,Wellington St / Portland St,7011,T01041,,Casual
+459454,0h 2m 45s,1/22/2012 3:38,St George St / Bloor St W,7002,1/22/2012 3:41,Huron St / Harbord St ,7024,T01041,M5S3L1,Subscriber
+459540,0h 5m 0s,1/22/2012 11:55,Huron St / Harbord St ,7024,1/22/2012 12:00,Queen St / Ossington Ave,7035,T01041,M5A4M3,Subscriber
+459655,3h 5m 2s,1/22/2012 14:51,Queen St / Ossington Ave,7035,1/22/2012 17:56,Queen St / Ossington Ave,7035,T01041,,Casual
+463272,0h 6m 44s,1/26/2012 8:59,Bay St / St Joseph St,7026,1/26/2012 9:06,Huron St / Harbord St ,7024,T01041,M4Y2W4,Subscriber
+463523,0h 7m 51s,1/26/2012 13:55,Huron St / Harbord St ,7024,1/26/2012 14:03,Queens Park / Bloor St W,7063,T01041,M9A2B9,Subscriber
+463606,0h 10m 20s,1/26/2012 15:46,Queens Park / Bloor St W,7063,1/26/2012 15:56,Willcocks St / St. George St,7066,T01041,M8VN8,Subscriber
+463617,0h 14m 33s,1/26/2012 16:09,Willcocks St / St. George St,7066,1/26/2012 16:23,Front/Yonge (Hockey Hall of Fame),7048,T01041,L7N2X2,Subscriber
+464127,0h 14m 18s,1/27/2012 9:00,Front/Yonge (Hockey Hall of Fame),7048,1/27/2012 9:14,Willcocks St / St. George St,7066,T01041,L7L7H6,Subscriber
+464179,0h 10m 8s,1/27/2012 11:28,Willcocks St / St. George St,7066,1/27/2012 11:39,Front/Yonge (Hockey Hall of Fame),7048,T01041,L7L7H6,Subscriber
+464754,0h 7m 44s,1/27/2012 20:30,Front/Yonge (Hockey Hall of Fame),7048,1/27/2012 20:38,Elizabeth St / Edward St,7012,T01041,M4W3G9,Subscriber
+466017,0h 4m 52s,1/30/2012 9:59,Elizabeth St / Edward St,7012,1/30/2012 10:04,Bay St / College St,7006,T01041,L1T4W8,Subscriber
+466111,0h 2m 30s,1/30/2012 12:03,Bay St / College St,7006,1/30/2012 12:06,Bay St / St Joseph St,7026,T01041,M5G0A6,Subscriber
+466155,0h 10m 36s,1/30/2012 12:51,Bay St / St Joseph St,7026,1/30/2012 13:02,University Ave / College St,7062,T01041,M4Y2W4,Subscriber
+467119,0h 12m 48s,1/31/2012 16:33,University Ave / College St,7062,1/31/2012 16:46,25 York St,7070,T01041,M5J2Z6,Subscriber
+467661,0h 14m 17s,1/31/2012 23:22,25 York St,7070,1/31/2012 23:36,Parliament St / Gerrard St,7056,T01041,M5A3A9,Subscriber
+470541,0h 10m 28s,2/3/2012 8:24,Parliament St / Gerrard St,7056,2/3/2012 8:34,Ted Rogers Way / Bloor St E,7025,T01041,M5A 4M3,Subscriber
+471272,0h 11m 23s,2/3/2012 16:44,Ted Rogers Way / Bloor St E,7025,2/3/2012 16:56,Front/Yonge (Hockey Hall of Fame),7048,T01041,L6V1Y1,Subscriber
+471857,0h 6m 13s,2/4/2012 11:25,Front/Yonge (Hockey Hall of Fame),7048,2/4/2012 11:31,Front St W / Blue Jays Way,7059,T01041,M5V2M3,Subscriber
+472072,0h 10m 51s,2/4/2012 15:26,Front St W / Blue Jays Way,7059,2/4/2012 15:37,University Ave / College St,7062,T01041,M5V 2V6,Subscriber
+472113,0h 10m 38s,2/4/2012 16:00,University Ave / College St,7062,2/4/2012 16:10,Front St W / Blue Jays Way,7059,T01041,M5V 2V6,Subscriber
+472428,0h 1m 26s,2/5/2012 1:22,Front St W / Blue Jays Way,7059,2/5/2012 1:23,Bremner / Spadina,7073,T01041,M5V4B3,Subscriber
+472509,0h 15m 52s,2/5/2012 9:47,Bremner / Spadina,7073,2/5/2012 10:03,Bay St / Albert St,7021,T01041,,Casual
+472773,0h 5m 8s,2/5/2012 15:13,Bay St / Albert St,7021,2/5/2012 15:18,Bay St / College St,7006,T01041,M5S 3A3,Subscriber
+472921,0h 6m 59s,2/5/2012 17:58,Bay St / College St,7006,2/5/2012 18:05,St George St / Bloor St W,7002,T01041,M5G2M4,Subscriber
+473206,0h 6m 32s,2/6/2012 8:27,St George St / Bloor St W,7002,2/6/2012 8:34,Church St / Bloor St E,7034,T01041,M5R 2R6,Subscriber
+473732,0h 24m 35s,2/6/2012 15:23,Church St / Bloor St E,7034,2/6/2012 15:47,Church St / Bloor St E,7034,T01041,M6S 3N4,Subscriber
+474090,0h 11m 33s,2/6/2012 18:04,Church St / Bloor St E,7034,2/6/2012 18:16,Ft. York / Capreol Crt.,7000,T01041,L7L 2A7,Subscriber
+474315,0h 14m 8s,2/6/2012 20:40,Ft. York / Capreol Crt.,7000,2/6/2012 20:54,Queens Quay W / Dan Leckie Way,7075,T01041,M5V3T1,Subscriber
+480313,0h 4m 21s,2/13/2012 8:53,Queens Quay W / Dan Leckie Way,7075,2/13/2012 8:57,York St / Queens Quay W,7076,T01041,M4M2M4,Subscriber
+482370,0h 11m 29s,2/15/2012 8:11,York St / Queens Quay W,7076,2/15/2012 8:23,Granby St / Yonge St,7077,T01041,M5J2H2,Subscriber
+482833,0h 5m 6s,2/15/2012 14:33,Granby St / Yonge St,7077,2/15/2012 14:38,Temperance St / Yonge St,7019,T01041,M4Y2P8,Subscriber
+482897,0h 6m 16s,2/15/2012 15:37,Temperance St / Yonge St,7019,2/15/2012 15:44,Granby St / Yonge St,7077,T01041,M4Y2P8,Subscriber
+482945,0h 6m 59s,2/15/2012 16:11,Granby St / Yonge St,7077,2/15/2012 16:18,Wellington St W / Bay St,7052,T01041,M5J2H2,Subscriber
+483504,0h 6m 24s,2/15/2012 23:04,Wellington St W / Bay St,7052,2/15/2012 23:10,King St W / Spadina Ave,7010,T01041,M5V 2J5,Subscriber
+483630,0h 8m 1s,2/16/2012 8:19,King St W / Spadina Ave,7010,2/16/2012 8:27,Melinda St / Yonge St,7036,T01041,M6J 2W7,Subscriber
+484863,0h 10m 6s,2/17/2012 8:21,Dundas St / Parliament St,7065,2/17/2012 8:31,Dundas / Yonge St.,7038,T01041,M5A 4M3,Subscriber
+488559,0h 6m 13s,2/21/2012 19:33,Bond St / Queen St E,7045,2/21/2012 19:39,Jarvis St / Carleton St,7055,T01041,E2L3A3,Subscriber
+488573,0h 11m 45s,2/21/2012 19:50,Jarvis St / Carleton St,7055,2/21/2012 20:01,College St / Borden St,7023,T01041,M5A 2N9,Subscriber
+488737,0h 10m 43s,2/22/2012 7:22,College St / Borden St,7023,2/22/2012 7:33,Bond St / Queen St E,7045,T01041,H8T 3M1,Subscriber
+488872,0h 8m 21s,2/22/2012 8:39,Bond St / Queen St E,7045,2/22/2012 8:47,Simcoe St / Wellington St W,7057,T01041,M5B 0A5,Subscriber
+490276,0h 3m 31s,2/23/2012 9:17,Simcoe St / Wellington St W,7057,2/23/2012 9:21,Widmer St / Adelaide St ,7017,T01041,L1N8W,Subscriber
+491046,0h 12m 38s,2/23/2012 18:50,Widmer St / Adelaide St ,7017,2/23/2012 19:03,Wellesley St E. / Yonge St,7051,T01041,M4R 1J5,Subscriber
+494514,0h 9m 5s,2/28/2012 8:42,Wellesley St E. / Yonge St,7051,2/28/2012 8:52,King St W / Bay St,7015,T01041,M4Y 2W1,Subscriber
+495010,0h 11m 54s,2/28/2012 15:23,King St W / Bay St,7015,2/28/2012 15:35,College St / Huron St,7007,T01041,M5T2B9,Subscriber
+495022,0h 4m 21s,2/28/2012 15:38,College St / Huron St,7007,2/28/2012 15:42,Spadina Ave / Sussex Ave,7074,T01041,M5S 2H8,Subscriber
+495841,0h 2m 31s,2/29/2012 8:24,Spadina Ave / Sussex Ave,7074,2/29/2012 8:27,Willcocks St / St. George St,7066,T01041,M5V3R8,Subscriber
+496219,0h 8m 59s,2/29/2012 17:22,Willcocks St / St. George St,7066,2/29/2012 17:31,Euclid Ave / Bloor St,7040,T01041,M6G2S1,Subscriber
+497022,0h 11m 26s,3/1/2012 16:01,Euclid Ave / Bloor St,7040,3/1/2012 16:13,Bay St / Albert St,7021,T01041,M5B2E8,Subscriber
+497272,0h 5m 30s,3/1/2012 17:54,Bay St / Albert St,7021,3/1/2012 17:59,Bay St / St Joseph St,7026,T01041,M4Y 1R2,Subscriber
+497294,0h 23m 6s,3/1/2012 18:03,Bay St / St Joseph St,7026,3/1/2012 18:26,Queens Quay W / Dan Leckie Way,7075,T01041,M4Y 1K1,Subscriber
+497530,0h 17m 29s,3/1/2012 21:32,Queens Quay W / Dan Leckie Way,7075,3/1/2012 21:50,Augusta Ave / Dundas St W,7032,T01041,M4Y 1K1,Subscriber
+498670,0h 11m 34s,3/2/2012 17:38,Augusta Ave / Dundas St W,7032,3/2/2012 17:50,Madison Ave / Bloor St W,7003,T01041,M5R 2R3,Subscriber
+498978,0h 4m 54s,3/3/2012 7:52,Madison Ave / Bloor St W,7003,3/3/2012 7:57,Bay St / Bloor St W,7029,T01041,M5S2J6,Subscriber
+499144,0h 22m 9s,3/3/2012 13:18,Bay St / Bloor St W,7029,3/3/2012 13:40,Simcoe St / Dundas St W,7039,T01041,,Casual
+499642,0h 10m 36s,3/4/2012 7:53,Simcoe St / Dundas St W,7039,3/4/2012 8:04,Bay St / Bloor St W,7029,T01041,M5T 1V2,Subscriber
+500623,0h 3m 1s,3/5/2012 14:26,Bay St / Wellesley St W,7030,3/5/2012 14:29,Bay St / College St,7006,T01041,M5G2K5,Subscriber
+500640,0h 7m 48s,3/5/2012 14:44,Bay St / College St,7006,3/5/2012 14:51,Queens Park / Bloor St W,7063,T01041,M5G 2R3,Subscriber
+502459,0h 3m 12s,3/6/2012 21:15,Queens Park / Bloor St W,7063,3/6/2012 21:18,Beverly  St / Dundas St W,7027,T01041,ON,Subscriber
+517542,0h 11m 0s,3/16/2012 23:34,Bay St / Wellesley St W,7030,3/16/2012 23:45,Queen St W / Spadina Ave,7069,T01041,L4B3V8,Subscriber
+517903,0h 4m 2s,3/17/2012 12:24,Queen St W / Spadina Ave,7069,3/17/2012 12:28,King St W / Spadina Ave,7010,T01041,M5T 3A4,Subscriber
+517987,0h 9m 33s,3/17/2012 13:31,King St W / Spadina Ave,7010,3/17/2012 13:40,Lower Simcoe St / Lakeshore Blvd W,7043,T01041,M5V2L5,Subscriber
+519322,0h 24m 33s,3/18/2012 13:51,Lower Simcoe St / Lakeshore Blvd W,7043,3/18/2012 14:15,Bremner / Spadina,7073,T01041,,Casual
+519433,1h 31m 16s,3/18/2012 14:25,Bremner / Spadina,7073,3/18/2012 15:56,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+520149,1h 45m 18s,3/18/2012 19:41,Ferry Ramp / Queens Quay W,7016,3/18/2012 21:27,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+521166,3h 10m 57s,3/19/2012 13:24,Ferry Ramp / Queens Quay W,7016,3/19/2012 16:35,King St W / Spadina Ave,7010,T01041,,Casual
+523873,0h 14m 6s,3/20/2012 16:41,King St W / Spadina Ave,7010,3/20/2012 16:56,Bond St / Queen St E,7045,T01041,,Casual
+524077,0h 11m 48s,3/20/2012 17:23,Bond St / Queen St E,7045,3/20/2012 17:35,Sherbourne St / Wellesley St,7042,T01041,M4X1H8,Subscriber
+524479,0h 4m 5s,3/20/2012 19:08,Sherbourne St / Wellesley St,7042,3/20/2012 19:12,Church St / Monteith St ,7058,T01041,M4Y 2G9,Subscriber
+524575,0h 3m 51s,3/20/2012 19:54,Church St / Monteith St ,7058,3/20/2012 19:58,Jarvis St / Carleton St,7055,T01041,M2J 4J3,Subscriber
+525524,0h 8m 59s,3/21/2012 9:53,Jarvis St / Carleton St,7055,3/21/2012 10:02,Richmond St E / Jarvis St,7050,T01041,M5A 4K3,Subscriber
+527435,0h 7m 15s,3/21/2012 22:22,Richmond St E / Jarvis St,7050,3/21/2012 22:29,Parliament St / Gerrard St,7056,T01041,M5R2W8,Subscriber
+527822,0h 5m 27s,3/22/2012 8:28,Parliament St / Gerrard St,7056,3/22/2012 8:34,Dundas / Yonge St.,7038,T01041,M4M 1W7,Subscriber
+529902,0h 16m 20s,3/22/2012 21:24,Ted Rogers Way / Bloor St E,7025,3/22/2012 21:41,King St E / Jarvis St,7009,T01041,,Casual
+530406,0h 6m 57s,3/23/2012 7:59,King St E / Jarvis St,7009,3/23/2012 8:06,Simcoe St / Queen St W,7022,T01041,M5C 2H2,Subscriber
+530823,0h 9m 31s,3/23/2012 11:36,Simcoe St / Queen St W,7022,3/23/2012 11:46,Ferry Ramp / Queens Quay W,7016,T01041,M4J 1X5,Subscriber
+531425,0h 3m 44s,3/23/2012 16:44,Ferry Ramp / Queens Quay W,7016,3/23/2012 16:48,Front/Yonge (Hockey Hall of Fame),7048,T01041,L5A 3S9,Subscriber
+532399,0h 15m 40s,3/24/2012 0:35,University Ave / Elm St,7004,3/24/2012 0:50,Bay St / St Joseph St,7026,T01041,M5V3A9,Subscriber
+532413,0h 13m 44s,3/24/2012 0:54,Bay St / St Joseph St,7026,3/24/2012 1:08,Bay St / Bloor St W,7029,T01041,M5V3A9,Subscriber
+532498,0h 5m 14s,3/24/2012 4:00,Simcoe St / Dundas St W,7039,3/24/2012 4:05,Lower Simcoe St / Lakeshore Blvd W,7043,T01041,M5J2Y6,Subscriber
+533059,0h 23m 22s,3/24/2012 16:13,Lower Simcoe St / Lakeshore Blvd W,7043,3/24/2012 16:36,Queens Park / Bloor St W,7063,T01041,,Casual
+533325,0h 12m 2s,3/25/2012 0:59,Queens Park / Bloor St W,7063,3/25/2012 1:11,Bremner / Spadina,7073,T01041,,Casual
+533562,0h 12m 30s,3/25/2012 11:28,Bremner / Spadina,7073,3/25/2012 11:41,Augusta Ave / Dundas St W,7032,T01041,,Casual
+540593,0h 13m 0s,3/29/2012 15:31,Augusta Ave / Dundas St W,7032,3/29/2012 15:44,Wellesley St E. / Yonge St,7051,T01041,M5T 2L4,Subscriber
+540985,0h 7m 56s,3/29/2012 18:13,Wellesley St E. / Yonge St,7051,3/29/2012 18:21,Jarvis St / Isabella St,7031,T01041,M4Y1N9,Subscriber
+541622,0h 14m 45s,3/30/2012 8:43,Jarvis St / Isabella St,7031,3/30/2012 8:58,Queen St W / Spadina Ave,7069,T01041,M4Y 3C4,Subscriber
+542983,0h 11m 40s,3/31/2012 1:10,Queen St W / Spadina Ave,7069,3/31/2012 1:21,Gerrard St E / Church St,7079,T01041,M5B 1G7,Subscriber
+543013,0h 4m 13s,3/31/2012 3:13,Gerrard St E / Church St,7079,3/31/2012 3:17,Bond St / Queen St E,7045,T01041,M4L 6S9,Subscriber
+543140,0h 13m 16s,3/31/2012 10:51,Bond St / Queen St E,7045,3/31/2012 11:04,Front St W / Blue Jays Way,7059,T01041,M5B2P7,Subscriber
+543688,0h 7m 59s,3/31/2012 17:23,Front St W / Blue Jays Way,7059,3/31/2012 17:31,Bremner / Spadina,7073,T01041,M5V3R5,Subscriber
+543714,0h 7m 54s,3/31/2012 17:36,Bremner / Spadina,7073,3/31/2012 17:44,Bathurst / Queens Quay (Island Airport),7071,T01041,M5V3R5,Subscriber
+544077,0h 21m 19s,3/31/2012 23:54,Bathurst / Queens Quay (Island Airport),7071,4/1/2012 0:16,Widmer St / Adelaide St ,7017,T01041,,Casual
+544135,0h 13m 5s,4/1/2012 1:57,Widmer St / Adelaide St ,7017,4/1/2012 2:10,Bathurst / Queens Quay (Island Airport),7071,T01041,,Casual
+544394,0h 20m 48s,4/1/2012 16:29,Bathurst / Queens Quay (Island Airport),7071,4/1/2012 16:50,Bathurst / Queens Quay (Island Airport),7071,T01041,,Casual
+545006,0h 6m 38s,4/2/2012 9:12,Bathurst / Queens Quay (Island Airport),7071,4/2/2012 9:19,York St / Queens Quay W,7076,T01041,,Casual
+545656,0h 10m 35s,4/2/2012 16:13,Lower Jarvis St / The Esplanade,7001,4/2/2012 16:24,York St / Queens Quay W,7076,T01041,M5J 2Y5,Subscriber
+547159,0h 7m 45s,4/3/2012 9:55,York St / Queens Quay W,7076,4/3/2012 10:03,Simcoe St / Wellington St W,7057,T01041,M5J 2L1,Subscriber
+548558,0h 13m 25s,4/3/2012 21:52,Simcoe St / Wellington St W,7057,4/3/2012 22:06,Trinity / Front (Distillery),7064,T01041,M5A 3R3,Subscriber
+549290,0h 19m 20s,4/4/2012 10:05,Trinity / Front (Distillery),7064,4/4/2012 10:24,Simcoe St / Wellington St W,7057,T01041,M5A 3R3,Subscriber
+549507,0h 2m 24s,4/4/2012 12:23,Simcoe St / Wellington St W,7057,4/4/2012 12:26,25 York St,7070,T01041,M5J0A6,Subscriber
+549570,0h 2m 59s,4/4/2012 13:03,25 York St,7070,4/4/2012 13:06,Simcoe St / Wellington St W,7057,T01041,M5J0A6,Subscriber
+549854,0h 5m 15s,4/4/2012 16:07,Simcoe St / Wellington St W,7057,4/4/2012 16:13,Bremner / Spadina,7073,T01041,M5V3Y4,Subscriber
+550134,0h 9m 38s,4/4/2012 17:27,Bremner / Spadina,7073,4/4/2012 17:37,Melinda St / Yonge St,7036,T01041,,Casual
+550390,0h 17m 57s,4/4/2012 18:27,Melinda St / Yonge St,7036,4/4/2012 18:45,Willcocks St / St. George St,7066,T01041,M5S2H8,Subscriber
+550527,0h 11m 58s,4/4/2012 19:30,Willcocks St / St. George St,7066,4/4/2012 19:42,Dundas St / Parliament St,7065,T01041,M5A 4M3,Subscriber
+551618,0h 23m 6s,4/5/2012 12:24,Dundas St / Parliament St,7065,4/5/2012 12:47,Dundas St / Parliament St,7065,T01041,M5P 3H9,Subscriber
+553089,0h 11m 12s,4/6/2012 9:39,Dundas St / Parliament St,7065,4/6/2012 9:50,Simcoe St / Dundas St W,7039,T01041,M5A4M3,Subscriber
+554608,0h 7m 3s,4/7/2012 10:32,Simcoe St / Dundas St W,7039,4/7/2012 10:39,Church St / Monteith St ,7058,T01041,M5T 1V2,Subscriber
+554638,0h 40m 44s,4/7/2012 10:49,Church St / Monteith St ,7058,4/7/2012 11:30,Church St / Monteith St ,7058,T01041,,Casual
+555696,0h 9m 38s,4/7/2012 17:24,Church St / Monteith St ,7058,4/7/2012 17:34,Front/Yonge (Hockey Hall of Fame),7048,T01041,M4Y 2P9,Subscriber
+555860,0h 11m 0s,4/7/2012 18:16,Front/Yonge (Hockey Hall of Fame),7048,4/7/2012 18:27,King St W / Spadina Ave,7010,T01041,ON,Subscriber
+556417,0h 4m 58s,4/8/2012 9:33,Bremner / Spadina,7073,4/8/2012 9:38,Queen St / Portland St,7049,T01041,M1E3P8,Subscriber
+557064,0h 15m 41s,4/8/2012 14:54,Queen St / Portland St,7049,4/8/2012 15:10,Lower Simcoe St / Lakeshore Blvd W,7043,T01041,,Casual
+559727,0h 12m 17s,4/10/2012 8:31,Bremner Blvd / Rees St,7018,4/10/2012 8:43,Dundas / Yonge St.,7038,T01041,L6E 2A8,Subscriber
+559838,0h 6m 14s,4/10/2012 8:53,Dundas / Yonge St.,7038,4/10/2012 8:59,Yonge St. / Lakeshore Ave. E.,7067,T01041,M6J2R7,Subscriber
+561747,0h 8m 52s,4/11/2012 10:25,Yonge St. / Lakeshore Ave. E.,7067,4/11/2012 10:34,Richmond St E / Jarvis St,7050,T01041,M5E1R4,Subscriber
+562280,0h 5m 20s,4/11/2012 16:38,Richmond St E / Jarvis St,7050,4/11/2012 16:43,Jarvis St / Carleton St,7055,T01041,M4Y 3C1,Subscriber
+562388,0h 10m 23s,4/11/2012 17:11,Jarvis St / Carleton St,7055,4/11/2012 17:21,Bay St / St Joseph St,7026,T01041,M4W2N4,Subscriber
+562974,0h 11m 17s,4/11/2012 21:43,Bay St / St Joseph St,7026,4/11/2012 21:54,Queen St / Portland St,7049,T01041,M6P 3C5,Subscriber
+563411,0h 8m 53s,4/12/2012 8:45,Queen St / Portland St,7049,4/12/2012 8:54,University Ave / Elm St,7004,T01041,M6P 3C5,Subscriber
+564301,0h 5m 59s,4/12/2012 16:34,University Ave / Elm St,7004,4/12/2012 16:40,Front St W / Blue Jays Way,7059,T01041,M4Y 1B5,Subscriber
+564635,0h 19m 19s,4/12/2012 18:03,Front St W / Blue Jays Way,7059,4/12/2012 18:22,Wellesley St E. / Yonge St,7051,T01041,,Casual
+565011,0h 3m 46s,4/12/2012 20:37,Wellesley St E. / Yonge St,7051,4/12/2012 20:41,Bay St / College St,7006,T01041,M5G 0A6,Subscriber
+565091,0h 12m 20s,4/12/2012 21:39,Bay St / College St,7006,4/12/2012 21:51,Bremner / Spadina,7073,T01041,M1K3N7,Subscriber
+565287,0h 5m 55s,4/13/2012 7:17,Bremner / Spadina,7073,4/13/2012 7:23,Wellington St W / Bay St,7052,T01041,M5V3V9,Subscriber
+566254,0h 1m 32s,4/13/2012 14:12,Wellington St W / Bay St,7052,4/13/2012 14:13,Simcoe St / Wellington St W,7057,T01041,M6S1K1,Subscriber
+567117,0h 3m 7s,4/13/2012 19:16,Simcoe St / Wellington St W,7057,4/13/2012 19:19,Bremner / Spadina,7073,T01041,M5A0B9,Subscriber
+567511,0h 13m 16s,4/14/2012 1:40,Bremner / Spadina,7073,4/14/2012 1:53,St George St / Bloor St W,7002,T01041,M5V3V2,Subscriber
+568199,0h 5m 49s,4/14/2012 15:02,St George St / Bloor St W,7002,4/14/2012 15:08,Bloor St / Brunswick Ave,7061,T01041,M5S2M5,Subscriber
+568919,0h 16m 30s,4/15/2012 0:47,Bloor St / Brunswick Ave,7061,4/15/2012 1:03,Queen St W / Spadina Ave,7069,T01041,,Casual
+569282,0h 11m 39s,4/15/2012 15:05,Church St / Monteith St ,7058,4/15/2012 15:16,Phoebe St / Spadina Ave,7020,T01041,M5T 2C2,Subscriber
+569421,0h 8m 18s,4/15/2012 16:59,Phoebe St / Spadina Ave,7020,4/15/2012 17:07,Spadina Ave / Sussex Ave,7074,T01041,M5T 2C2,Subscriber
+569556,0h 11m 2s,4/15/2012 18:44,Spadina Ave / Sussex Ave,7074,4/15/2012 18:55,Phoebe St / Spadina Ave,7020,T01041,M5T 2C2,Subscriber
+570861,0h 10m 54s,4/16/2012 15:55,Phoebe St / Spadina Ave,7020,4/16/2012 16:06,Wellington St W / Bay St,7052,T01041,M5T2C7,Subscriber
+572312,0h 3m 27s,4/17/2012 8:40,Bay St / St Joseph St,7026,4/17/2012 8:43,Queens Park / Bloor St W,7063,T01041,M4Y 2W4,Subscriber
+572477,0h 10m 8s,4/17/2012 9:19,Queens Park / Bloor St W,7063,4/17/2012 9:29,Simcoe St / Queen St W,7022,T01041,M5S 1S3,Subscriber
+573558,0h 9m 16s,4/17/2012 18:13,Phoebe St / Spadina Ave,7020,4/17/2012 18:22,Bond St / Queen St E,7045,T01041,M5B 1Y6,Subscriber
+573634,0h 10m 38s,4/17/2012 18:39,Bond St / Queen St E,7045,4/17/2012 18:50,Ted Rogers Way / Bloor St E,7025,T01041,M4W3Y3,Subscriber
+573847,0h 8m 38s,4/17/2012 19:52,Ted Rogers Way / Bloor St E,7025,4/17/2012 20:00,Bloor St / Brunswick Ave,7061,T01041,M4W 3Y3,Subscriber
+574023,0h 12m 28s,4/17/2012 22:07,Bloor St / Brunswick Ave,7061,4/17/2012 22:19,Ted Rogers Way / Bloor St E,7025,T01041,,Casual
+575624,0h 10m 0s,4/18/2012 18:22,Ted Rogers Way / Bloor St E,7025,4/18/2012 18:32,Bloor St / Brunswick Ave,7061,T01041,M5R 2R6,Subscriber
+576505,0h 11m 28s,4/19/2012 8:55,Bloor St / Brunswick Ave,7061,4/19/2012 9:06,Phoebe St / Spadina Ave,7020,T01041,,Casual
+576882,0h 7m 38s,4/19/2012 11:57,Phoebe St / Spadina Ave,7020,4/19/2012 12:05,Willcocks St / St. George St,7066,T01041,M5T 1Z8,Subscriber
+577768,0h 7m 6s,4/19/2012 17:37,Willcocks St / St. George St,7066,4/19/2012 17:44,Phoebe St / Spadina Ave,7020,T01041,L9T7T8,Subscriber
+578163,0h 9m 32s,4/19/2012 19:17,Phoebe St / Spadina Ave,7020,4/19/2012 19:27,Bay St / College St,7006,T01041,M5T 2C2,Subscriber
+578273,0h 5m 36s,4/19/2012 20:15,Bay St / College St,7006,4/19/2012 20:20,Willcocks St / St. George St,7066,T01041,M5G 2R3,Subscriber
+578361,0h 4m 58s,4/19/2012 20:56,Willcocks St / St. George St,7066,4/19/2012 21:00,Queen St / Ossington Ave,7035,T01041,M6G2P7,Subscriber
+579534,0h 8m 46s,4/20/2012 13:01,Queen St / Ossington Ave,7035,4/20/2012 13:09,College St / Huron St,7007,T01041,M5R2W8,Subscriber
+579676,0h 10m 37s,4/20/2012 14:01,College St / Huron St,7007,4/20/2012 14:11,Queen St / Portland St,7049,T01041,,Casual
+579977,0h 15m 40s,4/20/2012 16:01,Queen St W / Spadina Ave,7069,4/20/2012 16:17,King St E / Jarvis St,7009,T01041,M5J0A7,Subscriber
+580590,39h 52m 5s,4/20/2012 18:26,King St E / Jarvis St,7009,4/22/2012 10:18,Dundas St / Parliament St,7065,T01041,,Casual
+583747,0h 10m 41s,4/23/2012 9:24,Jarvis St / Isabella St,7031,4/23/2012 9:35,Front/Yonge (Hockey Hall of Fame),7048,T01041,M4X1W5,Subscriber
+584463,0h 8m 11s,4/24/2012 8:25,Front/Yonge (Hockey Hall of Fame),7048,4/24/2012 8:34,Granby St / Yonge St,7077,T01041,L5M3Y5,Subscriber
+584505,0h 5m 25s,4/24/2012 8:41,Granby St / Yonge St,7077,4/24/2012 8:47,Wellington St W / Bay St,7052,T01041,M5B1L4,Subscriber
+584602,0h 7m 42s,4/24/2012 9:14,Wellington St W / Bay St,7052,4/24/2012 9:21,Phoebe St / Spadina Ave,7020,T01041,N1E2T6,Subscriber
+588214,0h 18m 0s,4/26/2012 6:57,Phoebe St / Spadina Ave,7020,4/26/2012 7:15,Lower Jarvis St / The Esplanade,7001,T01041,M5T1C6,Subscriber
+590791,0h 6m 21s,4/27/2012 12:09,Lower Jarvis St / The Esplanade,7001,4/27/2012 12:15,Ferry Ramp / Queens Quay W,7016,T01041,M5J2G2,Subscriber
+591115,2h 23m 49s,4/27/2012 15:05,Ferry Ramp / Queens Quay W,7016,4/27/2012 17:29,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+592103,3h 4m 30s,4/27/2012 23:34,Ferry Ramp / Queens Quay W,7016,4/28/2012 2:38,Church St / Bloor St E,7034,T01041,,Casual
+592261,0h 10m 50s,4/28/2012 8:42,Church St / Bloor St E,7034,4/28/2012 8:53,King St E / Jarvis St,7009,T01041,M4V2B4,Subscriber
+592298,0h 14m 24s,4/28/2012 9:21,King St E / Jarvis St,7009,4/28/2012 9:36,Church St / Bloor St E,7034,T01041,M4V2B4,Subscriber
+593395,0h 13m 37s,4/28/2012 19:37,Bay St / St Joseph St,7026,4/28/2012 19:51,University Ave / College St,7062,T01041,M4Y 1K1,Subscriber
+593983,0h 18m 35s,4/29/2012 11:33,University Ave / College St,7062,4/29/2012 11:52,Elizabeth St / Edward St,7012,T01041,,Casual
+594731,0h 16m 25s,4/29/2012 16:13,Elizabeth St / Edward St,7012,4/29/2012 16:30,St George St / Bloor St W,7002,T01041,M5R 3P6,Subscriber
+595849,0h 10m 57s,4/30/2012 8:43,St George St / Bloor St W,7002,4/30/2012 8:54,Metro Hall Plaza,7053,T01041,M5R1C9,Subscriber
+596620,0h 6m 14s,4/30/2012 17:55,Metro Hall Plaza,7053,4/30/2012 18:01,York St / Queens Quay W,7076,T01041,M5J 2H2,Subscriber
+599213,0h 14m 10s,5/2/2012 6:29,York St / Queens Quay W,7076,5/2/2012 6:44,Queens Park Cres E,7008,T01041,M5J2S2,Subscriber
+601230,0h 12m 17s,5/2/2012 21:14,Queens Park Cres E,7008,5/2/2012 21:26,York St / Queens Quay W,7076,T01041,M5J2S2,Subscriber
+601610,0h 11m 45s,5/3/2012 7:55,York St / Queens Quay W,7076,5/3/2012 8:07,Granby St / Yonge St,7077,T01041,M5J2H2,Subscriber
+602176,0h 8m 24s,5/3/2012 11:28,Front St W / Blue Jays Way,7059,5/3/2012 11:37,Melinda St / Yonge St,7036,T01041,M5V3S1,Subscriber
+604705,0h 4m 48s,5/4/2012 12:33,Bremner / Spadina,7073,5/4/2012 12:37,Widmer St / Adelaide St ,7017,T01041,M5V 3Z5,Subscriber
+607948,0h 18m 1s,5/5/2012 16:55,Wellington St / Portland St,7011,5/5/2012 17:13,Trinity / Front (Distillery),7064,T01041,,Casual
+608213,0h 20m 9s,5/5/2012 18:34,Trinity / Front (Distillery),7064,5/5/2012 18:54,King St W / Spadina Ave,7010,T01041,,Casual
+609664,0h 17m 50s,5/6/2012 14:03,St George St / Bloor St W,7002,5/6/2012 14:21,Queen St / Portland St,7049,T01041,,Casual
+609980,0h 13m 48s,5/6/2012 15:30,Queen St / Portland St,7049,5/6/2012 15:44,College St / Borden St,7023,T01041,M6G2J9,Subscriber
+610042,0h 20m 15s,5/6/2012 15:48,College St / Borden St,7023,5/6/2012 16:09,Niagara St./Queen W. (Richmond),7046,T01041,,Casual
+610117,0h 49m 24s,5/6/2012 16:14,Niagara St./Queen W. (Richmond),7046,5/6/2012 17:03,Niagara St./Queen W. (Richmond),7046,T01041,,Casual
+610285,0h 13m 50s,5/6/2012 17:09,Niagara St./Queen W. (Richmond),7046,5/6/2012 17:23,King St E / Jarvis St,7009,T01041,,Casual
+610545,0h 6m 36s,5/6/2012 18:55,King St E / Jarvis St,7009,5/6/2012 19:01,Simcoe St / Dundas St W,7039,T01041,M5A 4M5,Subscriber
+612819,0h 3m 40s,5/8/2012 0:59,Madison Ave / Bloor St W,7003,5/8/2012 1:03,Willcocks St / St. George St,7066,T01041,M5R 2S7,Subscriber
+612822,0h 3m 37s,5/8/2012 1:34,Willcocks St / St. George St,7066,5/8/2012 1:38,Madison Ave / Bloor St W,7003,T01041,M5R 2S7,Subscriber
+614028,0h 8m 18s,5/8/2012 17:15,Madison Ave / Bloor St W,7003,5/8/2012 17:23,Queens Park / Bloor St W,7063,T01041,,Casual
+614244,0h 4m 4s,5/8/2012 17:55,Queens Park / Bloor St W,7063,5/8/2012 17:59,Madison Ave / Bloor St W,7003,T01041,,Casual
+615642,0h 6m 11s,5/9/2012 10:01,Madison Ave / Bloor St W,7003,5/9/2012 10:08,Queens Park / Bloor St W,7063,T01041,M5V 3K8,Subscriber
+615738,0h 23m 49s,5/9/2012 11:07,Queens Park / Bloor St W,7063,5/9/2012 11:31,Bay St / Albert St,7021,T01041,,Casual
+616243,0h 10m 37s,5/9/2012 17:08,Bay St / Albert St,7021,5/9/2012 17:19,Huron St / Harbord St ,7024,T01041,M5S2K3,Subscriber
+616469,0h 8m 45s,5/9/2012 18:27,Huron St / Harbord St ,7024,5/9/2012 18:36,Sherbourne St / Wellesley St,7042,T01041,M4Y1G6,Subscriber
+617172,0h 15m 18s,5/10/2012 8:36,Sherbourne St / Wellesley St,7042,5/10/2012 8:51,Queen St W / Spadina Ave,7069,T01041,L7L 6X4,Subscriber
+617470,0h 3m 32s,5/10/2012 9:56,Queen St W / Spadina Ave,7069,5/10/2012 10:00,King St W / Spadina Ave,7010,T01041,M5B 2R9,Subscriber
+617512,0h 16m 41s,5/10/2012 10:26,King St W / Spadina Ave,7010,5/10/2012 10:42,College St / Borden St,7023,T01041,,Casual
+618136,0h 5m 30s,5/10/2012 16:17,College St / Borden St,7023,5/10/2012 16:22,Huron St / Harbord St ,7024,T01041,M5S2E1,Subscriber
+619089,0h 4m 13s,5/10/2012 21:06,Huron St / Harbord St ,7024,5/10/2012 21:10,Bloor St / Brunswick Ave,7061,T01041,M5S2E1,Subscriber
+620038,0h 3m 50s,5/11/2012 10:30,Bloor St / Brunswick Ave,7061,5/11/2012 10:34,College St / Major St,7078,T01041,M5R2X4,Subscriber
+622600,0h 15m 17s,5/12/2012 11:10,College St / Major St,7078,5/12/2012 11:26,Ft. York / Capreol Crt.,7000,T01041,M5S2L8,Subscriber
+624878,0h 12m 33s,5/13/2012 10:35,Huron St / Harbord St ,7024,5/13/2012 10:47,King St W / Bay St,7015,T01041,M4W3V8,Subscriber
+625218,0h 7m 28s,5/13/2012 13:06,King St W / Bay St,7015,5/13/2012 13:14,Lower Simcoe St / Lakeshore Blvd W,7043,T01041,M5J2Y7,Subscriber
+625552,2h 43m 19s,5/13/2012 15:08,Lower Simcoe St / Lakeshore Blvd W,7043,5/13/2012 17:51,Simcoe St / Wellington St W,7057,T01041,,Casual
+626486,0h 4m 29s,5/13/2012 23:26,Simcoe St / Wellington St W,7057,5/13/2012 23:31,Bremner / Spadina,7073,T01041,M8V1S2,Subscriber
+626752,0h 5m 55s,5/14/2012 8:02,Bremner / Spadina,7073,5/14/2012 8:08,Simcoe St / Wellington St W,7057,T01041,M5V3Y4,Subscriber
+626833,0h 5m 28s,5/14/2012 8:19,Simcoe St / Wellington St W,7057,5/14/2012 8:24,King St W / Spadina Ave,7010,T01041,M5J2Z3,Subscriber
+627097,0h 19m 30s,5/14/2012 9:10,King St W / Spadina Ave,7010,5/14/2012 9:29,Bay St / Wellesley St W,7030,T01041,M5V 3T9,Subscriber
+627261,0h 4m 58s,5/14/2012 10:20,Bay St / Wellesley St W,7030,5/14/2012 10:25,University Ave / Gerrard St W,7047,T01041,L4J6M5,Subscriber
+628038,0h 11m 21s,5/14/2012 16:40,University Ave / Gerrard St W,7047,5/14/2012 16:51,Front St W / Blue Jays Way,7059,T01041,M5V 3R7,Subscriber
+629026,1h 34m 28s,5/14/2012 21:27,Front St W / Blue Jays Way,7059,5/14/2012 23:02,Bond St / Queen St E,7045,T01041,,Casual
+629885,0h 7m 42s,5/15/2012 9:21,Bond St / Queen St E,7045,5/15/2012 9:29,Simcoe St / Wellington St W,7057,T01041,M5B1B4,Subscriber
+632194,0h 5m 12s,5/16/2012 0:52,Simcoe St / Wellington St W,7057,5/16/2012 0:57,York St / Queens Quay W,7076,T01041,M5V 0A8,Subscriber
+632851,1h 48m 15s,5/16/2012 11:43,York St / Queens Quay W,7076,5/16/2012 13:32,York St / Queens Quay W,7076,T01041,,Casual
+634309,0h 11m 5s,5/16/2012 19:24,York St / Queens Quay W,7076,5/16/2012 19:35,Metro Hall Plaza,7053,T01041,M5V3Z9,Subscriber
+636396,0h 13m 9s,5/17/2012 17:01,Euclid Ave / Bloor St,7040,5/17/2012 17:14,Bay St / College St,7006,T01041,M5V3Y3,Subscriber
+636529,0h 3m 20s,5/17/2012 17:20,Bay St / College St,7006,5/17/2012 17:23,Elizabeth St / Edward St,7012,T01041,M5G 2H5,Subscriber
+636581,0h 11m 34s,5/17/2012 17:29,Elizabeth St / Edward St,7012,5/17/2012 17:41,Madison Ave / Bloor St W,7003,T01041,M5G 1P4,Subscriber
+636928,0h 4m 26s,5/17/2012 18:44,Madison Ave / Bloor St W,7003,5/17/2012 18:48,Euclid Ave / Bloor St,7040,T01041,M5R 2R3,Subscriber
+637196,0h 14m 13s,5/17/2012 20:34,Euclid Ave / Bloor St,7040,5/17/2012 20:48,Bay St / College St,7006,T01041,M5A0A6,Subscriber
+637809,0h 5m 38s,5/18/2012 8:19,Bay St / College St,7006,5/18/2012 8:24,Bay St / Bloor St W,7029,T01041,M6G 3H2,Subscriber
+638049,0h 8m 30s,5/18/2012 9:12,Bay St / Bloor St W,7029,5/18/2012 9:21,College St / Major St,7078,T01041,,Casual
+638811,0h 10m 12s,5/18/2012 15:04,College St / Major St,7078,5/18/2012 15:14,Wellesley St E. / Yonge St,7051,T01041,M4Y2P9,Subscriber
+638874,0h 5m 23s,5/18/2012 15:23,Wellesley St E. / Yonge St,7051,5/18/2012 15:28,Willcocks St / St. George St,7066,T01041,M4Y1H5,Subscriber
+639078,0h 9m 27s,5/18/2012 16:24,Willcocks St / St. George St,7066,5/18/2012 16:33,Edward St / Yonge St,7041,T01041,,Casual
+639447,0h 8m 47s,5/18/2012 17:39,Edward St / Yonge St,7041,5/18/2012 17:48,Wellington St W / Bay St,7052,T01041,,Casual
+639606,0h 8m 1s,5/18/2012 18:34,Wellington St W / Bay St,7052,5/18/2012 18:42,Wellington St / Portland St,7011,T01041,M5V3C9,Subscriber
+641138,0h 9m 30s,5/19/2012 14:25,Bay St / Wellesley St W,7030,5/19/2012 14:34,Bond St / Queen St E,7045,T01041,L4B3V8,Subscriber
+641461,0h 11m 26s,5/19/2012 15:41,Bond St / Queen St E,7045,5/19/2012 15:52,University Ave / College St,7062,T01041,M5C2V3,Subscriber
+642194,0h 12m 22s,5/19/2012 18:54,University Ave / College St,7062,5/19/2012 19:07,Richmond St E / Jarvis St,7050,T01041,M5C2V3,Subscriber
+642901,0h 7m 56s,5/20/2012 3:30,Richmond St E / Jarvis St,7050,5/20/2012 3:38,Sherbourne St / Wellesley St,7042,T01041,M4X 1N1,Subscriber
+643539,0h 14m 52s,5/20/2012 12:23,Sherbourne St / Wellesley St,7042,5/20/2012 12:38,Bay St / College St,7006,T01041,,Casual
+643693,0h 37m 12s,5/20/2012 13:03,Bay St / College St,7006,5/20/2012 13:40,Phoebe St / Spadina Ave,7020,T01041,,Casual
+644793,0h 28m 58s,5/20/2012 17:02,Phoebe St / Spadina Ave,7020,5/20/2012 17:31,York St / Queens Quay W,7076,T01041,,Casual
+644994,0h 24m 15s,5/20/2012 17:46,York St / Queens Quay W,7076,5/20/2012 18:10,Trinity / Front (Distillery),7064,T01041,,Casual
+645211,0h 14m 12s,5/20/2012 18:57,Trinity / Front (Distillery),7064,5/20/2012 19:12,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+645328,0h 17m 59s,5/20/2012 19:41,Ferry Ramp / Queens Quay W,7016,5/20/2012 19:59,Queen St / Portland St,7049,T01041,,Casual
+645505,0h 13m 14s,5/20/2012 20:58,Queen St / Portland St,7049,5/20/2012 21:11,Queens Park Cres E,7008,T01041,,Casual
+646053,0h 11m 40s,5/21/2012 4:35,Queens Park Cres E,7008,5/21/2012 4:46,Gould St / Mutual St,7028,T01041,,Casual
+647780,0h 15m 39s,5/21/2012 16:49,Gould St / Mutual St,7028,5/21/2012 17:05,Gould St / Mutual St,7028,T01041,M4X 1W6,Subscriber
+648099,0h 6m 50s,5/21/2012 18:08,Gould St / Mutual St,7028,5/21/2012 18:15,Sherbourne St / Wellesley St,7042,T01041,M4X 1W6,Subscriber
+648420,0h 38m 45s,5/21/2012 19:25,Sherbourne St / Wellesley St,7042,5/21/2012 20:04,Sherbourne St / Wellesley St,7042,T01041,,Casual
+648820,0h 5m 56s,5/21/2012 22:27,Sherbourne St / Wellesley St,7042,5/21/2012 22:33,Bay St / College St,7006,T01041,M4X1N1,Subscriber
+648970,0h 2m 48s,5/22/2012 2:31,Bay St / College St,7006,5/22/2012 2:34,University Ave / Elm St,7004,T01041,M5G2M4,Subscriber
+652803,0h 3m 8s,5/23/2012 11:54,Bloor St / Brunswick Ave,7061,5/23/2012 11:57,St George St / Bloor St W,7002,T01041,M5S2E1,Subscriber
+653005,0h 7m 2s,5/23/2012 13:12,St George St / Bloor St W,7002,5/23/2012 13:19,Beverly  St / Dundas St W,7027,T01041,L6B0B1,Subscriber
+653085,0h 8m 24s,5/23/2012 13:42,Beverly  St / Dundas St W,7027,5/23/2012 13:50,St George St / Bloor St W,7002,T01041,L6B0B1,Subscriber
+653217,0h 10m 30s,5/23/2012 14:43,St George St / Bloor St W,7002,5/23/2012 14:53,Bathurst St / Dundas St,7037,T01041,,Casual
+654232,0h 18m 51s,5/23/2012 18:41,Bathurst St / Dundas St,7037,5/23/2012 19:00,Bay St / Bloor St W,7029,T01041,M5R3S1,Subscriber
+654342,0h 7m 22s,5/23/2012 19:04,Bay St / Bloor St W,7029,5/23/2012 19:12,Gould St / Mutual St,7028,T01041,M5B2L2,Subscriber
+655065,0h 4m 24s,5/24/2012 6:53,Gould St / Mutual St,7028,5/24/2012 6:57,Elizabeth St / Edward St,7012,T01041,M5B 2C2,Subscriber
+655272,0h 8m 14s,5/24/2012 8:19,Elizabeth St / Edward St,7012,5/24/2012 8:28,College St / Huron St,7007,T01041,N2T 2J6,Subscriber
+655518,0h 12m 5s,5/24/2012 9:01,College St / Huron St,7007,5/24/2012 9:13,Bond St / Queen St E,7045,T01041,M5T 1R1,Subscriber
+655805,0h 13m 5s,5/24/2012 11:15,Bond St / Queen St E,7045,5/24/2012 11:28,Bloor St / Yonge St,7026,T01041,M5C 3H6,Subscriber
+655958,0h 16m 26s,5/24/2012 12:32,Bloor St / Yonge St,7026,5/24/2012 12:48,Willcocks St / St. George St,7066,T01041,,Casual
+656084,0h 3m 25s,5/24/2012 13:08,Willcocks St / St. George St,7066,5/24/2012 13:11,Spadina Ave / Sussex Ave,7074,T01041,M5S2J6,Subscriber
+657388,0h 7m 37s,5/24/2012 19:34,Spadina Ave / Sussex Ave,7074,5/24/2012 19:42,Madison Ave / Bloor St W,7003,T01041,M5R2M6,Subscriber
+657419,0h 4m 55s,5/24/2012 19:46,Madison Ave / Bloor St W,7003,5/24/2012 19:51,College St / Huron St,7007,T01041,M5T 1R1,Subscriber
+657468,0h 2m 43s,5/24/2012 20:02,College St / Huron St,7007,5/24/2012 20:05,College St / Borden St,7023,T01041,,Casual
+657506,0h 8m 13s,5/24/2012 20:17,College St / Borden St,7023,5/24/2012 20:25,Queens Park Cres E,7008,T01041,M5A3S2,Subscriber
+657542,0h 6m 32s,5/24/2012 20:31,Queens Park Cres E,7008,5/24/2012 20:38,Spadina Ave / Sussex Ave,7074,T01041,M5V3J3,Subscriber
+658076,0h 6m 52s,5/25/2012 7:44,Spadina Ave / Sussex Ave,7074,5/25/2012 7:51,University Ave / Elm St,7004,T01041,M5V3J3,Subscriber
+660350,0h 28m 44s,5/25/2012 19:32,Navy Wharf Ct. / Bremner Blvd.,7054,5/25/2012 20:00,Queens Quay W / Dan Leckie Way,7075,T01041,,Casual
+661504,0h 26m 8s,5/26/2012 11:38,Queens Quay W / Dan Leckie Way,7075,5/26/2012 12:04,Queens Park / Bloor St W,7063,T01041,,Casual
+661666,0h 17m 13s,5/26/2012 12:26,Queens Park / Bloor St W,7063,5/26/2012 12:43,King St W / Spadina Ave,7010,T01041,,Casual
+661801,0h 17m 38s,5/26/2012 13:01,King St W / Spadina Ave,7010,5/26/2012 13:18,Front St W / Blue Jays Way,7059,T01041,,Casual
+661902,1h 44m 43s,5/26/2012 13:21,Front St W / Blue Jays Way,7059,5/26/2012 15:05,Bond St / Queen St E,7045,T01041,,Casual
+662673,0h 5m 45s,5/26/2012 16:08,Bond St / Queen St E,7045,5/26/2012 16:14,Tech Terminal,7033,T01041,M5A1K5,Subscriber
+664104,0h 15m 58s,5/26/2012 22:55,Beverly  St / Dundas St W,7027,5/26/2012 23:10,Euclid Ave / Bloor St,7040,T01041,M6H 2V7,Subscriber
+664649,4h 16m 7s,5/27/2012 10:30,Euclid Ave / Bloor St,7040,5/27/2012 14:46,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+665727,3h 13m 28s,5/27/2012 15:19,Ferry Ramp / Queens Quay W,7016,5/27/2012 18:32,Lower Jarvis St / The Esplanade,7001,T01041,,Casual
+667448,0h 9m 38s,5/28/2012 8:16,Lower Jarvis St / The Esplanade,7001,5/28/2012 8:26,Niagara St./Queen W. (Richmond),7046,T01041,M5A 4P9,Subscriber
+668229,0h 20m 30s,5/28/2012 12:36,Niagara St./Queen W. (Richmond),7046,5/28/2012 12:57,Trinity / Front (Distillery),7064,T01041,,Casual
+673099,0h 4m 53s,5/29/2012 20:37,Huron St / Harbord St ,7024,5/29/2012 20:42,Queen St / Ossington Ave,7035,T01041,M4Y1T5,Subscriber
+673503,0h 17m 37s,5/30/2012 3:07,Queen St / Ossington Ave,7035,5/30/2012 3:25,Bremner / Spadina,7073,T01041,M5V3Y3,Subscriber
+673665,0h 6m 37s,5/30/2012 7:45,Bremner / Spadina,7073,5/30/2012 7:51,Ferry Ramp / Queens Quay W,7016,T01041,M5V 3Z5,Subscriber
+673714,0h 5m 55s,5/30/2012 7:56,Ferry Ramp / Queens Quay W,7016,5/30/2012 8:02,Bremner Blvd / Rees St,7018,T01041,,Casual
+674800,0h 12m 43s,5/30/2012 13:21,Bremner Blvd / Rees St,7018,5/30/2012 13:34,Front St W / Blue Jays Way,7059,T01041,L5R4B1,Subscriber
+677020,0h 5m 59s,5/31/2012 8:22,Front St W / Blue Jays Way,7059,5/31/2012 8:28,University Ave / King St W,7005,T01041,M5V3R5,Subscriber
+677119,0h 8m 3s,5/31/2012 8:38,University Ave / King St W,7005,5/31/2012 8:46,University Ave / Gerrard St W,7047,T01041,M5T-1V2,Subscriber
+678720,0h 13m 17s,5/31/2012 17:26,University Ave / Gerrard St W,7047,5/31/2012 17:39,Euclid Ave / Bloor St,7040,T01041,M6H 3J2,Subscriber
+679962,0h 13m 6s,6/1/2012 10:01,Euclid Ave / Bloor St,7040,6/1/2012 10:14,Beverly  St / Dundas St W,7027,T01041,M6G3B8,Subscriber
+681591,0h 10m 52s,6/2/2012 16:26,Beverly  St / Dundas St W,7027,6/2/2012 16:37,Gould St / Mutual St,7028,T01041,M5B 2P7,Subscriber
+681726,0h 16m 37s,6/2/2012 17:14,Gould St / Mutual St,7028,6/2/2012 17:31,Trinity / Front (Distillery),7064,T01041,M5S 2W8,Subscriber
+681775,0h 15m 26s,6/2/2012 17:38,Trinity / Front (Distillery),7064,6/2/2012 17:53,25 York St,7070,T01041,M5S 2W8,Subscriber
+682539,0h 5m 50s,6/3/2012 10:50,25 York St,7070,6/3/2012 10:56,Bremner / Spadina,7073,T01041,M5J 2Z6,Subscriber
+682569,0h 27m 38s,6/3/2012 11:17,Bremner / Spadina,7073,6/3/2012 11:44,Church St / Alexander St,7044,T01041,,Casual
+683152,0h 4m 39s,6/3/2012 16:38,Church St / Alexander St,7044,6/3/2012 16:43,Jarvis St / Isabella St,7031,T01041,,Casual
+683243,0h 24m 13s,6/3/2012 17:43,Jarvis St / Isabella St,7031,6/3/2012 18:07,Bremner / Spadina,7073,T01041,,Casual
+683461,0h 23m 2s,6/3/2012 19:52,Bremner / Spadina,7073,6/3/2012 20:15,College St / Borden St,7023,T01041,,Casual
+683597,0h 17m 36s,6/3/2012 21:42,College St / Borden St,7023,6/3/2012 22:00,Bremner / Spadina,7073,T01041,,Casual
+683781,0h 6m 48s,6/4/2012 6:39,Bremner / Spadina,7073,6/4/2012 6:46,University Ave / King St W,7005,T01041,M5H1J8,Subscriber
+684618,0h 10m 32s,6/4/2012 12:18,University Ave / King St W,7005,6/4/2012 12:28,Dundas / Yonge St.,7038,T01041,M5H 4E9,Subscriber
+684649,0h 18m 22s,6/4/2012 12:37,Dundas / Yonge St.,7038,6/4/2012 12:55,University Ave / King St W,7005,T01041,M5H 4E9,Subscriber
+685120,0h 7m 51s,6/4/2012 16:41,University Ave / King St W,7005,6/4/2012 16:49,Queens Quay W / Dan Leckie Way,7075,T01041,M5V3T1,Subscriber
+691835,0h 10m 57s,6/7/2012 8:32,Ted Rogers Way / Bloor St E,7025,6/7/2012 8:43,Elizabeth St / Edward St,7012,T01041,,Casual
+692507,0h 2m 25s,6/7/2012 12:10,Elizabeth St / Edward St,7012,6/7/2012 12:12,Dundas / Yonge St.,7038,T01041,M4E3M8,Subscriber
+693615,0h 13m 56s,6/7/2012 17:56,Dundas / Yonge St.,7038,6/7/2012 18:10,Bay St / Bloor St W,7029,T01041,M1L1J4,Subscriber
+693711,0h 5m 30s,6/7/2012 18:14,Bay St / Bloor St W,7029,6/7/2012 18:20,Elizabeth St / Edward St,7012,T01041,W5G 1R1,Subscriber
+693832,0h 7m 45s,6/7/2012 18:38,Elizabeth St / Edward St,7012,6/7/2012 18:46,Queen St W / Shaw St,7072,T01041,M5G1N6,Subscriber
+701587,0h 10m 37s,6/10/2012 13:34,Queen St W / Shaw St,7072,6/10/2012 13:45,Richmond St E / Jarvis St,7050,T01041,M5T2M6,Subscriber
+701737,0h 9m 35s,6/10/2012 14:06,Richmond St E / Jarvis St,7050,6/10/2012 14:15,University Ave / Gerrard St W,7047,T01041,M5A4S7,Subscriber
+779394,0h 19m 45s,7/5/2012 13:20,Lower Simcoe St / Lakeshore Blvd W,7043,7/5/2012 13:40,St George St / Bloor St W,7002,T01041,M5J2Y6,Subscriber
+779599,0h 9m 57s,7/5/2012 14:42,St George St / Bloor St W,7002,7/5/2012 14:52,Phoebe St / Spadina Ave,7020,T01041,M6P2R6,Subscriber
+780076,0h 8m 40s,7/5/2012 17:03,Phoebe St / Spadina Ave,7020,7/5/2012 17:11,King St W / Bay St,7015,T01041,M5T2C7,Subscriber
+780309,0h 11m 47s,7/5/2012 17:36,King St W / Bay St,7015,7/5/2012 17:48,Queen St / Portland St,7049,T01041,M5V 3N5,Subscriber
+780382,0h 17m 36s,7/5/2012 17:49,Queen St / Portland St,7049,7/5/2012 18:06,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,,Casual
+780795,0h 5m 24s,7/5/2012 19:15,Navy Wharf Ct. / Bremner Blvd.,7054,7/5/2012 19:20,Niagara St./Queen W. (Richmond),7046,T01041,M5B 0A5,Subscriber
+784828,0h 20m 13s,7/6/2012 23:41,Niagara St./Queen W. (Richmond),7046,7/7/2012 0:01,Bathurst / Queens Quay (Island Airport),7071,T01041,M5V 3W5,Subscriber
+785884,0h 5m 30s,7/7/2012 14:02,Ferry Ramp / Queens Quay W,7016,7/7/2012 14:08,Bremner Blvd / Rees St,7018,T01041,,Casual
+786134,0h 16m 24s,7/7/2012 15:01,Bremner Blvd / Rees St,7018,7/7/2012 15:18,Trinity / Front (Distillery),7064,T01041,M5A4H2,Subscriber
+786401,0h 12m 31s,7/7/2012 16:04,Trinity / Front (Distillery),7064,7/7/2012 16:17,Temperance St / Yonge St,7019,T01041,,Casual
+787952,0h 45m 54s,7/8/2012 8:44,Dundas / Yonge St.,7038,7/8/2012 9:30,York St / Queens Quay W,7076,T01041,,Casual
+788021,0h 13m 50s,7/8/2012 9:40,York St / Queens Quay W,7076,7/8/2012 9:54,Dundas / Yonge St.,7038,T01041,,Casual
+788059,0h 8m 8s,7/8/2012 10:01,Dundas / Yonge St.,7038,7/8/2012 10:09,Princess Ave / Adelaide St,7060,T01041,,Casual
+789779,0h 7m 26s,7/8/2012 18:25,Princess Ave / Adelaide St,7060,7/8/2012 18:32,Front St W / Blue Jays Way,7059,T01041,M5V3S8,Subscriber
+789854,1h 5m 27s,7/8/2012 18:48,Front St W / Blue Jays Way,7059,7/8/2012 19:54,Simcoe St / Queen St W,7022,T01041,,Casual
+790340,0h 27m 0s,7/8/2012 21:51,Simcoe St / Queen St W,7022,7/8/2012 22:18,Church St / Monteith St ,7058,T01041,,Casual
+790591,0h 5m 47s,7/9/2012 6:33,Church St / Monteith St ,7058,7/9/2012 6:39,Temperance St / Yonge St,7019,T01041,M4Y1B5,Subscriber
+791553,0h 22m 35s,7/9/2012 11:38,Temperance St / Yonge St,7019,7/9/2012 12:01,Simcoe St / Queen St W,7022,T01041,,Casual
+792075,0h 7m 40s,7/9/2012 15:03,Simcoe St / Queen St W,7022,7/9/2012 15:11,Simcoe St / Wellington St W,7057,T01041,,Casual
+792096,0h 3m 26s,7/9/2012 15:12,Simcoe St / Wellington St W,7057,7/9/2012 15:16,Scott St / The Esplanade,7013,T01041,M5E 1A1,Subscriber
+794517,0h 5m 43s,7/10/2012 8:44,Scott St / The Esplanade,7013,7/10/2012 8:49,Tech Terminal,7033,T01041,M8W 3P2,Subscriber
+794618,0h 13m 17s,7/10/2012 8:58,Tech Terminal,7033,7/10/2012 9:11,Ted Rogers Way / Bloor St E,7025,T01041,M5A4T4,Subscriber
+796611,0h 6m 7s,7/10/2012 18:18,Ted Rogers Way / Bloor St E,7025,7/10/2012 18:24,Granby St / Yonge St,7077,T01041,M5B2H9,Subscriber
+797124,0h 4m 54s,7/10/2012 20:24,Granby St / Yonge St,7077,7/10/2012 20:29,Sherbourne / Carlton (Allan Gardens),7014,T01041,M4X 1K2,Subscriber
+797973,0h 20m 20s,7/11/2012 8:03,Sherbourne / Carlton (Allan Gardens),7014,7/11/2012 8:23,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+798200,0h 21m 56s,7/11/2012 8:33,Ferry Ramp / Queens Quay W,7016,7/11/2012 8:55,Willcocks St / St. George St,7066,T01041,M5J 2G2,Subscriber
+799823,0h 5m 16s,7/11/2012 16:40,Willcocks St / St. George St,7066,7/11/2012 16:46,Bay St / College St,7006,T01041,M5G 2R2,Subscriber
+799927,0h 4m 13s,7/11/2012 16:57,Bay St / College St,7006,7/11/2012 17:01,Bay St / Bloor St W,7029,T01041,M4Y0A3,Subscriber
+800217,0h 12m 47s,7/11/2012 17:37,Bay St / Bloor St W,7029,7/11/2012 17:50,Augusta Ave / Dundas St W,7032,T01041,M4X1J9,Subscriber
+800320,0h 8m 45s,7/11/2012 17:53,Augusta Ave / Dundas St W,7032,7/11/2012 18:02,Bay St / College St,7006,T01041,M5G2R3,Subscriber
+800383,0h 9m 29s,7/11/2012 18:03,Bay St / College St,7006,7/11/2012 18:13,Madison Ave / Bloor St W,7003,T01041,M4W 3S5,Subscriber
+800841,0h 40m 50s,7/11/2012 19:39,Madison Ave / Bloor St W,7003,7/11/2012 20:20,Wellesley St E. / Yonge St,7051,T01041,,Casual
+801101,0h 4m 5s,7/11/2012 20:49,Wellesley St E. / Yonge St,7051,7/11/2012 20:53,Jarvis St / Carleton St,7055,T01041,M5A0B9,Subscriber
+801645,0h 6m 13s,7/12/2012 6:32,Jarvis St / Carleton St,7055,7/12/2012 6:38,University Ave / Elm St,7004,T01041,M5A3W7,Subscriber
+801729,0h 4m 32s,7/12/2012 7:26,University Ave / Elm St,7004,7/12/2012 7:30,Dundas / Yonge St.,7038,T01041,M5T2Y9,Subscriber
+802624,0h 22m 47s,7/12/2012 11:07,Dundas / Yonge St.,7038,7/12/2012 11:30,Queens Quay W / Dan Leckie Way,7075,T01041,,Casual
+802696,0h 55m 47s,7/12/2012 11:37,Queens Quay W / Dan Leckie Way,7075,7/12/2012 12:33,Bay St / Albert St,7021,T01041,,Casual
+803714,0h 6m 57s,7/12/2012 16:56,Bay St / Albert St,7021,7/12/2012 17:03,Church St / Alexander St,7044,T01041,M4Y2J3,Subscriber
+805460,0h 4m 37s,7/13/2012 6:55,Church St / Alexander St,7044,7/13/2012 7:00,Church St / Bloor St E,7034,T01041,M4A2G1,Subscriber
+806247,0h 3m 58s,7/13/2012 11:01,Church St / Bloor St E,7034,7/13/2012 11:05,Church St / Monteith St ,7058,T01041,M4W2N4,Subscriber
+807062,0h 7m 19s,7/13/2012 15:32,Church St / Monteith St ,7058,7/13/2012 15:39,College St / Huron St,7007,T01041,M4C1Z8,Subscriber
+808169,0h 36m 35s,7/13/2012 19:27,College St / Huron St,7007,7/13/2012 20:04,College St / Borden St,7023,T01041,,Casual
+809125,0h 17m 49s,7/14/2012 9:00,College St / Borden St,7023,7/14/2012 9:18,Lower Jarvis St / The Esplanade,7001,T01041,,Casual
+811098,0h 15m 30s,7/14/2012 18:33,Bremner / Spadina,7073,7/14/2012 18:48,College St / Borden St,7023,T01041,,Casual
+811167,0h 7m 16s,7/14/2012 18:52,College St / Borden St,7023,7/14/2012 18:59,St George St / Bloor St W,7002,T01041,M5S 1H8,Subscriber
+812051,0h 14m 49s,7/15/2012 2:23,St George St / Bloor St W,7002,7/15/2012 2:38,Granby St / Yonge St,7077,T01041,,Casual
+814548,0h 14m 55s,7/16/2012 8:36,Euclid Ave / Bloor St,7040,7/16/2012 8:51,Ted Rogers Way / Bloor St E,7025,T01041,M6G3H1,Subscriber
+814917,0h 9m 13s,7/16/2012 9:50,Ted Rogers Way / Bloor St E,7025,7/16/2012 9:59,Huron St / Harbord St ,7024,T01041,M4Y 2P3,Subscriber
+817568,0h 8m 21s,7/17/2012 5:54,Huron St / Harbord St ,7024,7/17/2012 6:02,Widmer St / Adelaide St ,7017,T01041,M5S1W8,Subscriber
+819020,0h 5m 27s,7/17/2012 14:51,Widmer St / Adelaide St ,7017,7/17/2012 14:57,Wellington St / Portland St,7011,T01041,M5V 1R3,Subscriber
+819368,0h 4m 16s,7/17/2012 16:52,Wellington St / Portland St,7011,7/17/2012 16:57,Widmer St / Adelaide St ,7017,T01041,M5V 1R3,Subscriber
+820609,0h 11m 59s,7/17/2012 23:01,Widmer St / Adelaide St ,7017,7/17/2012 23:13,Ferry Ramp / Queens Quay W,7016,T01041,M5J2Z3,Subscriber
+820843,0h 5m 23s,7/18/2012 7:03,Ferry Ramp / Queens Quay W,7016,7/18/2012 7:08,King St W / Bay St,7015,T01041,,Casual
+821904,0h 8m 40s,7/18/2012 12:18,King St W / Bay St,7015,7/18/2012 12:27,King St W / Spadina Ave,7010,T01041,,Casual
+821977,0h 6m 14s,7/18/2012 12:48,King St W / Spadina Ave,7010,7/18/2012 12:54,King St W / Bay St,7015,T01041,,Casual
+822581,0h 12m 45s,7/18/2012 16:20,King St W / Bay St,7015,7/18/2012 16:32,Bay St / Bloor St W,7029,T01041,M4X1T8,Subscriber
+822661,0h 15m 25s,7/18/2012 16:40,Bay St / Bloor St W,7029,7/18/2012 16:56,Wellington St W / Bay St,7052,T01041,L6H 6A9,Subscriber
+822811,0h 7m 49s,7/18/2012 17:07,Wellington St W / Bay St,7052,7/18/2012 17:15,Wellington St / Portland St,7011,T01041,M6K 3R8,Subscriber
+823550,0h 21m 30s,7/18/2012 18:56,Wellington St / Portland St,7011,7/18/2012 19:18,Granby St / Yonge St,7077,T01041,M4Y2X5,Subscriber
+823815,0h 5m 59s,7/18/2012 20:16,Granby St / Yonge St,7077,7/18/2012 20:22,Richmond St E / Jarvis St,7050,T01041,M5A 2M5,Subscriber
+825093,0h 9m 56s,7/19/2012 8:59,Richmond St E / Jarvis St,7050,7/19/2012 9:09,Granby St / Yonge St,7077,T01041,M5A 2M5,Subscriber
+826121,0h 8m 58s,7/19/2012 15:07,Granby St / Yonge St,7077,7/19/2012 15:16,Front/Yonge (Hockey Hall of Fame),7048,T01041,L5M3Y5,Subscriber
+826189,0h 14m 50s,7/19/2012 15:34,Front/Yonge (Hockey Hall of Fame),7048,7/19/2012 15:49,Dundas St / Parliament St,7065,T01041,M5A4M3,Subscriber
+828505,0h 19m 31s,7/20/2012 8:41,Euclid Ave / Bloor St,7040,7/20/2012 9:01,Bay St / Albert St,7021,T01041,M5S 2E8,Subscriber
+829303,0h 5m 45s,7/20/2012 12:54,Bay St / Albert St,7021,7/20/2012 13:00,University Ave / Gerrard St W,7047,T01041,L5C2N2,Subscriber
+829406,0h 6m 53s,7/20/2012 13:22,University Ave / Gerrard St W,7047,7/20/2012 13:29,Bay St / Bloor St W,7029,T01041,M1P 5H5,Subscriber
+829578,0h 5m 40s,7/20/2012 14:13,Bay St / Bloor St W,7029,7/20/2012 14:19,Bay St / College St,7006,T01041,M4Y 1R5,Subscriber
+829720,0h 7m 59s,7/20/2012 14:59,Bay St / College St,7006,7/20/2012 15:07,Temperance St / Yonge St,7019,T01041,,Casual
+830460,0h 13m 9s,7/20/2012 17:25,Temperance St / Yonge St,7019,7/20/2012 17:38,Wellesley St E. / Yonge St,7051,T01041,M4Y1G3,Subscriber
+832507,0h 10m 34s,7/21/2012 12:51,Wellesley St E. / Yonge St,7051,7/21/2012 13:02,Front/Yonge (Hockey Hall of Fame),7048,T01041,M5B 1L2,Subscriber
+832601,5h 21m 58s,7/21/2012 13:13,Front/Yonge (Hockey Hall of Fame),7048,7/21/2012 18:35,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+833854,0h 28m 30s,7/21/2012 18:35,Ferry Ramp / Queens Quay W,7016,7/21/2012 19:03,College St / Major St,7078,T01041,,Casual
+834133,0h 9m 28s,7/21/2012 20:03,College St / Major St,7078,7/21/2012 20:12,Bay St / College St,7006,T01041,,Casual
+834272,0h 10m 0s,7/21/2012 21:00,Bay St / College St,7006,7/21/2012 21:10,University Ave / King St W,7005,T01041,M5S 3A6,Subscriber
+834317,0h 18m 2s,7/21/2012 21:22,University Ave / King St W,7005,7/21/2012 21:40,Temperance St / Yonge St,7019,T01041,,Casual
+835862,0h 9m 39s,7/22/2012 14:50,Temperance St / Yonge St,7019,7/22/2012 15:00,Trinity / Front (Distillery),7064,T01041,M5A4T3,Subscriber
+844630,0h 19m 44s,7/25/2012 8:20,Trinity / Front (Distillery),7064,7/25/2012 8:40,Queen St W / Spadina Ave,7069,T01041,M5A3R3,Subscriber
+844827,0h 14m 14s,7/25/2012 8:44,Queen St W / Spadina Ave,7069,7/25/2012 8:58,Bay St / Wellesley St W,7030,T01041,M5V 3S6,Subscriber
+844951,0h 7m 15s,7/25/2012 8:59,Bay St / Wellesley St W,7030,7/25/2012 9:06,University Ave / King St W,7005,T01041,M4L3P3,Subscriber
+845801,0h 4m 27s,7/25/2012 13:48,Bremner / Spadina,7073,7/25/2012 13:52,Wellington St / Portland St,7011,T01041,M1L1H5,Subscriber
+846561,0h 4m 49s,7/25/2012 17:08,Wellington St / Portland St,7011,7/25/2012 17:12,Widmer St / Adelaide St ,7017,T01041,M5V0K4,Subscriber
+847074,0h 10m 55s,7/25/2012 18:36,Widmer St / Adelaide St ,7017,7/25/2012 18:47,Bay St / College St,7006,T01041,M5A4E8,Subscriber
+847242,0h 19m 18s,7/25/2012 19:20,Bay St / College St,7006,7/25/2012 19:40,Queen St / Ossington Ave,7035,T01041,M5S2K6,Subscriber
+850648,0h 17m 26s,7/27/2012 7:35,Queen St / Ossington Ave,7035,7/27/2012 7:52,Wellington St W / Bay St,7052,T01041,M5S2P7,Subscriber
+851073,0h 5m 39s,7/27/2012 8:57,Wellington St W / Bay St,7052,7/27/2012 9:03,Bay St / Albert St,7021,T01041,L6E 1L7,Subscriber
+852029,0h 55m 57s,7/27/2012 13:49,Madison Ave / Bloor St W,7003,7/27/2012 14:45,Phoebe St / Spadina Ave,7020,T01041,,Casual
+852829,0h 16m 32s,7/27/2012 17:00,Phoebe St / Spadina Ave,7020,7/27/2012 17:16,York St / Queens Quay W,7076,T01041,,Casual
+853066,0h 24m 4s,7/27/2012 17:34,York St / Queens Quay W,7076,7/27/2012 17:58,College St / Borden St,7023,T01041,,Casual
+853920,0h 9m 20s,7/27/2012 21:35,College St / Borden St,7023,7/27/2012 21:45,Phoebe St / Spadina Ave,7020,T01041,M5S2P8,Subscriber
+857509,0h 5m 25s,7/29/2012 2:58,Phoebe St / Spadina Ave,7020,7/29/2012 3:03,Elizabeth St / Edward St,7012,T01041,M5A3S2,Subscriber
+858264,0h 11m 55s,7/29/2012 13:22,Elizabeth St / Edward St,7012,7/29/2012 13:34,University Ave / College St,7062,T01041,,Casual
+858377,0h 26m 8s,7/29/2012 13:52,University Ave / College St,7062,7/29/2012 14:18,Bathurst St / Dundas St,7037,T01041,,Casual
+858582,0h 11m 44s,7/29/2012 14:47,Bathurst St / Dundas St,7037,7/29/2012 14:59,College St / Borden St,7023,T01041,,Casual
+858734,0h 13m 1s,7/29/2012 15:21,College St / Borden St,7023,7/29/2012 15:34,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,M4Y1K3,Subscriber
+859254,0h 11m 7s,7/29/2012 17:24,Navy Wharf Ct. / Bremner Blvd.,7054,7/29/2012 17:35,Dockside Dr / Queens Quay E.,7068,T01041,M4Y2J3,Subscriber
+869792,0h 10m 14s,8/1/2012 20:10,Dockside Dr / Queens Quay E.,7068,8/1/2012 20:20,Tech Terminal,7033,T01041,,Casual
+870990,0h 5m 33s,8/2/2012 9:00,Bond St / Queen St E,7045,8/2/2012 9:05,Simcoe St / Dundas St W,7039,T01041,M5C 2X4,Subscriber
+871677,0h 32m 41s,8/2/2012 13:18,Simcoe St / Dundas St W,7039,8/2/2012 13:51,Simcoe St / Dundas St W,7039,T01041,,Casual
+872769,0h 7m 8s,8/2/2012 18:01,Simcoe St / Dundas St W,7039,8/2/2012 18:09,Bond St / Queen St E,7045,T01041,M5C 2X4,Subscriber
+873008,0h 17m 44s,8/2/2012 18:57,Bond St / Queen St E,7045,8/2/2012 19:14,Queen St / Ossington Ave,7035,T01041,M6G 3A6,Subscriber
+874418,0h 10m 51s,8/3/2012 9:15,Queen St / Ossington Ave,7035,8/3/2012 9:26,Simcoe St / Dundas St W,7039,T01041,M6G2P5,Subscriber
+875019,0h 5m 14s,8/3/2012 13:08,Simcoe St / Dundas St W,7039,8/3/2012 13:14,Willcocks St / St. George St,7066,T01041,M5A 4P8,Subscriber
+875331,0h 3m 48s,8/3/2012 14:47,Willcocks St / St. George St,7066,8/3/2012 14:51,University Ave / College St,7062,T01041,M6J2T8,Subscriber
+875351,0h 20m 0s,8/3/2012 14:55,University Ave / College St,7062,8/3/2012 15:15,Willcocks St / St. George St,7066,T01041,M6J2T8,Subscriber
+875444,0h 9m 55s,8/3/2012 15:22,Willcocks St / St. George St,7066,8/3/2012 15:32,King St W / Spadina Ave,7010,T01041,M5V 3T9,Subscriber
+875924,0h 17m 30s,8/3/2012 17:07,King St W / Spadina Ave,7010,8/3/2012 17:25,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,M4Y 1H3,Subscriber
+878118,0h 11m 27s,8/4/2012 14:06,Navy Wharf Ct. / Bremner Blvd.,7054,8/4/2012 14:18,Phoebe St / Spadina Ave,7020,T01041,M4Y 1N9,Subscriber
+878455,0h 38m 41s,8/4/2012 15:43,Phoebe St / Spadina Ave,7020,8/4/2012 16:22,Front St W / Blue Jays Way,7059,T01041,,Casual
+878691,0h 5m 27s,8/4/2012 16:51,Front St W / Blue Jays Way,7059,8/4/2012 16:56,University Ave / King St W,7005,T01041,M5R 2N5,Subscriber
+879411,0h 40m 19s,8/4/2012 22:14,University Ave / King St W,7005,8/4/2012 22:55,Front/Yonge (Hockey Hall of Fame),7048,T01041,,Casual
+880141,0h 5m 28s,8/5/2012 13:47,Front/Yonge (Hockey Hall of Fame),7048,8/5/2012 13:53,Wellington St W / Bay St,7052,T01041,,Casual
+880558,0h 10m 10s,8/5/2012 17:39,College St / Borden St,7023,8/5/2012 17:50,College St / Borden St,7023,T01041,M5S 2N8,Subscriber
+882099,0h 13m 8s,8/6/2012 13:54,Spadina Ave / Sussex Ave,7074,8/6/2012 14:07,Wellington St / Portland St,7011,T01041,L6A1K2,Subscriber
+882378,0h 8m 53s,8/6/2012 15:03,Wellington St / Portland St,7011,8/6/2012 15:12,University Ave / King St W,7005,T01041,M5V2M6,Subscriber
+882442,0h 12m 8s,8/6/2012 15:20,University Ave / King St W,7005,8/6/2012 15:32,Gerrard St E / Church St,7079,T01041,M5V-0C9,Subscriber
+884508,0h 4m 6s,8/7/2012 8:59,Gerrard St E / Church St,7079,8/7/2012 9:03,Dundas / Yonge St.,7038,T01041,L4J 5Z8,Subscriber
+885048,0h 8m 48s,8/7/2012 12:27,Dundas / Yonge St.,7038,8/7/2012 12:36,Simcoe St / Wellington St W,7057,T01041,L6M 0C1,Subscriber
+886236,0h 5m 13s,8/7/2012 17:46,University Ave / Gerrard St W,7047,8/7/2012 17:51,Bay St / Albert St,7021,T01041,M5J2Y6,Subscriber
+886909,0h 13m 56s,8/7/2012 20:27,Bay St / Albert St,7021,8/7/2012 20:41,Spadina Ave / Sussex Ave,7074,T01041,M5A 2C5,Subscriber
+887179,0h 11m 54s,8/7/2012 22:21,Spadina Ave / Sussex Ave,7074,8/7/2012 22:33,Spadina Ave / Sussex Ave,7074,T01041,M5T1K5,Subscriber
+887580,0h 8m 57s,8/8/2012 7:48,Spadina Ave / Sussex Ave,7074,8/8/2012 7:57,King St W / Spadina Ave,7010,T01041,ON,Subscriber
+888029,0h 11m 10s,8/8/2012 9:00,King St W / Spadina Ave,7010,8/8/2012 9:11,Edward St / Yonge St,7041,T01041,M5V3Z1,Subscriber
+888348,0h 12m 39s,8/8/2012 10:47,Church St / Monteith St ,7058,8/8/2012 10:59,Church St / Bloor St E,7034,T01041,,Casual
+888408,0h 13m 59s,8/8/2012 11:16,Church St / Bloor St E,7034,8/8/2012 11:30,Sherbourne / Carlton (Allan Gardens),7014,T01041,,Casual
+888506,0h 12m 13s,8/8/2012 11:58,Sherbourne / Carlton (Allan Gardens),7014,8/8/2012 12:10,Elizabeth St / Edward St,7012,T01041,,Casual
+888612,0h 6m 2s,8/8/2012 12:32,Elizabeth St / Edward St,7012,8/8/2012 12:38,Temperance St / Yonge St,7019,T01041,M5J 2B7,Subscriber
+889458,0h 3m 55s,8/8/2012 17:03,Temperance St / Yonge St,7019,8/8/2012 17:07,Niagara St./Queen W. (Richmond),7046,T01041,M4W3S8,Subscriber
+890133,0h 17m 57s,8/8/2012 18:48,Niagara St./Queen W. (Richmond),7046,8/8/2012 19:06,Yonge St. / Lakeshore Ave. E.,7067,T01041,M5J2R9,Subscriber
+890239,0h 7m 37s,8/8/2012 19:12,Yonge St. / Lakeshore Ave. E.,7067,8/8/2012 19:20,University Ave / King St W,7005,T01041,M5J 2B7,Subscriber
+890399,0h 3m 26s,8/8/2012 19:58,University Ave / King St W,7005,8/8/2012 20:02,Front St W / Blue Jays Way,7059,T01041,M5V3V2,Subscriber
+890788,0h 6m 15s,8/8/2012 22:24,Front St W / Blue Jays Way,7059,8/8/2012 22:30,Bathurst / Queens Quay (Island Airport),7071,T01041,M5V1A8,Subscriber
+891000,0h 6m 42s,8/9/2012 4:09,Bathurst / Queens Quay (Island Airport),7071,8/9/2012 4:16,Front St W / Blue Jays Way,7059,T01041,M5V 3W5,Subscriber
+891496,0h 5m 30s,8/9/2012 8:49,Front St W / Blue Jays Way,7059,8/9/2012 8:54,Wellington St W / Bay St,7052,T01041,M5V 2M7,Subscriber
+891563,0h 13m 59s,8/9/2012 8:58,Wellington St W / Bay St,7052,8/9/2012 9:12,Queen St / Portland St,7049,T01041,L6C 2P3,Subscriber
+893587,0h 6m 36s,8/10/2012 11:59,Queens Quay W / Dan Leckie Way,7075,8/10/2012 12:05,Bremner / Spadina,7073,T01041,M5V 3K8,Subscriber
+894176,0h 12m 44s,8/10/2012 16:52,Granby St / Yonge St,7077,8/10/2012 17:04,Widmer St / Adelaide St ,7017,T01041,,Casual
+895102,0h 5m 18s,8/10/2012 21:14,Widmer St / Adelaide St ,7017,8/10/2012 21:20,Beverly  St / Dundas St W,7027,T01041,M5V 1K5,Subscriber
+899504,0h 7m 54s,8/13/2012 8:18,Front/Yonge (Hockey Hall of Fame),7048,8/13/2012 8:26,Gould St / Mutual St,7028,T01041,L6H3M2,Subscriber
+899786,0h 6m 39s,8/13/2012 9:03,Gould St / Mutual St,7028,8/13/2012 9:09,Church St / Bloor St E,7034,T01041,M5B2P7,Subscriber
+899894,0h 18m 17s,8/13/2012 9:26,Church St / Bloor St E,7034,8/13/2012 9:44,Queen St / Portland St,7049,T01041,M4Y 2W6,Subscriber
+900270,0h 10m 55s,8/13/2012 12:48,Queen St / Portland St,7049,8/13/2012 12:59,Bay St / Albert St,7021,T01041,M1L1H5,Subscriber
+900292,0h 23m 45s,8/13/2012 13:01,Bay St / Albert St,7021,8/13/2012 13:25,Lower Jarvis St / The Esplanade,7001,T01041,,Casual
+900414,0h 18m 5s,8/13/2012 13:44,Lower Jarvis St / The Esplanade,7001,8/13/2012 14:02,Trinity / Front (Distillery),7064,T01041,,Casual
+901736,0h 7m 7s,8/13/2012 18:34,University Ave / Elm St,7004,8/13/2012 18:41,Wellesley St E. / Yonge St,7051,T01041,M2K1X7,Subscriber
+903000,0h 6m 14s,8/14/2012 8:43,Wellesley St E. / Yonge St,7051,8/14/2012 8:49,Elizabeth St / Edward St,7012,T01041,M4Y2J3,Subscriber
+903353,0h 23m 21s,8/14/2012 10:21,Elizabeth St / Edward St,7012,8/14/2012 10:45,Queens Park / Bloor St W,7063,T01041,,Casual
+903647,0h 7m 32s,8/14/2012 13:00,Queens Park / Bloor St W,7063,8/14/2012 13:07,College St / Huron St,7007,T01041,M5S 2J6,Subscriber
+903863,0h 12m 2s,8/14/2012 16:07,College St / Huron St,7007,8/14/2012 16:19,Wellington St W / Bay St,7052,T01041,M5S2L8,Subscriber
+904291,0h 8m 27s,8/14/2012 17:30,Wellington St W / Bay St,7052,8/14/2012 17:39,Beverly  St / Dundas St W,7027,T01041,M5T1Y1,Subscriber
+905871,0h 9m 10s,8/15/2012 8:31,Beverly  St / Dundas St W,7027,8/15/2012 8:40,Front St W / Blue Jays Way,7059,T01041,,Casual
+906310,0h 5m 12s,8/15/2012 9:45,Front St W / Blue Jays Way,7059,8/15/2012 9:50,Front/Yonge (Hockey Hall of Fame),7048,T01041,M5V 3W9,Subscriber
+906383,0h 10m 50s,8/15/2012 10:14,Front/Yonge (Hockey Hall of Fame),7048,8/15/2012 10:25,Phoebe St / Spadina Ave,7020,T01041,L5L4X1,Subscriber
+908550,0h 11m 37s,8/15/2012 19:54,Phoebe St / Spadina Ave,7020,8/15/2012 20:05,St George St / Bloor St W,7002,T01041,M6E1B8,Subscriber
+908630,0h 3m 57s,8/15/2012 20:18,St George St / Bloor St W,7002,8/15/2012 20:22,Queens Park / Bloor St W,7063,T01041,M6E1B8,Subscriber
+908742,0h 19m 34s,8/15/2012 21:01,Queens Park / Bloor St W,7063,8/15/2012 21:20,Queens Quay W / Dan Leckie Way,7075,T01041,M5V 3V9,Subscriber
+909501,0h 7m 57s,8/16/2012 8:20,Queens Quay W / Dan Leckie Way,7075,8/16/2012 8:28,University Ave / King St W,7005,T01041,M5V3M3,Subscriber
+910067,0h 7m 53s,8/16/2012 10:17,Sherbourne St / Wellesley St,7042,8/16/2012 10:25,Church St / Bloor St E,7034,T01041,M4X1L9,Subscriber
+910202,0h 7m 16s,8/16/2012 11:34,Church St / Bloor St E,7034,8/16/2012 11:41,Gerrard St E / Church St,7079,T01041,,Casual
+910356,0h 7m 52s,8/16/2012 12:29,Gerrard St E / Church St,7079,8/16/2012 12:36,Wellington St W / Bay St,7052,T01041,L6X 5B7,Subscriber
+914376,0h 9m 5s,8/17/2012 15:02,Bay St / Wellesley St W,7030,8/17/2012 15:11,King St W / Bay St,7015,T01041,M5S3G2,Subscriber
+914768,0h 10m 58s,8/17/2012 16:40,King St W / Bay St,7015,8/17/2012 16:51,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,M4Y2E4,Subscriber
+915589,0h 2m 15s,8/17/2012 19:01,Navy Wharf Ct. / Bremner Blvd.,7054,8/17/2012 19:03,Church St / Alexander St,7044,T01041,M4Y3B9,Subscriber
+915728,0h 13m 50s,8/17/2012 19:47,Church St / Alexander St,7044,8/17/2012 20:01,Church St / Alexander St,7044,T01041,M4Y 1B5,Subscriber
+916152,0h 10m 2s,8/17/2012 22:53,Church St / Alexander St,7044,8/17/2012 23:03,Parliament St / Gerrard St,7056,T01041,M5A2X5,Subscriber
+916768,0h 5m 45s,8/18/2012 10:45,Parliament St / Gerrard St,7056,8/18/2012 10:51,Dundas / Yonge St.,7038,T01041,M5A2G5,Subscriber
+916808,0h 10m 43s,8/18/2012 11:02,Dundas / Yonge St.,7038,8/18/2012 11:13,York St / Queens Quay W,7076,T01041,,Casual
+917275,1h 23m 7s,8/18/2012 13:22,York St / Queens Quay W,7076,8/18/2012 14:45,Bathurst / Queens Quay (Island Airport),7071,T01041,,Casual
+917795,0h 20m 26s,8/18/2012 15:10,Bathurst / Queens Quay (Island Airport),7071,8/18/2012 15:31,Lower Jarvis St / The Esplanade,7001,T01041,,Casual
+918050,0h 24m 21s,8/18/2012 16:02,Lower Jarvis St / The Esplanade,7001,8/18/2012 16:26,University Ave / Gerrard St W,7047,T01041,,Casual
+919060,0h 2m 43s,8/18/2012 20:53,University Ave / Gerrard St W,7047,8/18/2012 20:55,Bay St / College St,7006,T01041,M5G 0A6,Subscriber
+919125,0h 7m 21s,8/18/2012 21:38,Bay St / College St,7006,8/18/2012 21:46,Sherbourne St / Wellesley St,7042,T01041,M5G 0A6,Subscriber
+919141,0h 16m 43s,8/18/2012 21:48,Sherbourne St / Wellesley St,7042,8/18/2012 22:05,King St W / Spadina Ave,7010,T01041,M4X1T8,Subscriber
+920530,0h 5m 28s,8/19/2012 14:38,King St W / Spadina Ave,7010,8/19/2012 14:44,Wellington St W / Bay St,7052,T01041,M5S 2M8,Subscriber
+921172,0h 11m 44s,8/19/2012 17:02,Wellington St W / Bay St,7052,8/19/2012 17:13,Dundas / Yonge St.,7038,T01041,,Casual
+921293,0h 4m 56s,8/19/2012 17:32,Dundas / Yonge St.,7038,8/19/2012 17:37,University Ave / Elm St,7004,T01041,M5T2Y9,Subscriber
+921830,0h 6m 45s,8/19/2012 20:46,University Ave / Elm St,7004,8/19/2012 20:53,Huron St / Harbord St ,7024,T01041,,Casual
+922663,0h 14m 2s,8/20/2012 8:44,Huron St / Harbord St ,7024,8/20/2012 8:58,Beverly  St / Dundas St W,7027,T01041,,Casual
+923454,0h 10m 23s,8/20/2012 13:36,Beverly  St / Dundas St W,7027,8/20/2012 13:47,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,,Casual
+924283,0h 20m 29s,8/20/2012 17:19,Navy Wharf Ct. / Bremner Blvd.,7054,8/20/2012 17:40,Euclid Ave / Bloor St,7040,T01041,M5V 3V1,Subscriber
+924902,0h 41m 2s,8/20/2012 19:25,Euclid Ave / Bloor St,7040,8/20/2012 20:06,Queen St / Ossington Ave,7035,T01041,,Casual
+925704,0h 10m 12s,8/21/2012 7:59,Queen St / Ossington Ave,7035,8/21/2012 8:09,Wellington St / Portland St,7011,T01041,,Casual
+925870,0h 10m 46s,8/21/2012 8:30,Wellington St / Portland St,7011,8/21/2012 8:40,King St W / Bay St,7015,T01041,M5V3C9,Subscriber
+927998,0h 6m 37s,8/21/2012 18:20,King St W / Bay St,7015,8/21/2012 18:27,Bay St / College St,7006,T01041,M5G 2R3,Subscriber
+932150,1h 41m 32s,8/22/2012 19:45,Bay St / Wellesley St W,7030,8/22/2012 21:26,Bay St / College St,7006,T01041,,Casual
+933713,0h 10m 42s,8/23/2012 10:31,Bay St / College St,7006,8/23/2012 10:42,King St E / Jarvis St,7009,T01041,,Casual
+934747,0h 21m 25s,8/23/2012 16:23,King St E / Jarvis St,7009,8/23/2012 16:44,Front St W / Blue Jays Way,7059,T01041,,Casual
+934911,0h 7m 47s,8/23/2012 16:53,Front St W / Blue Jays Way,7059,8/23/2012 17:01,Lower Simcoe St / Lakeshore Blvd W,7043,T01041,M4Y 2G9,Subscriber
+935943,0h 5m 45s,8/23/2012 20:09,Lower Simcoe St / Lakeshore Blvd W,7043,8/23/2012 20:15,Front St W / Blue Jays Way,7059,T01041,M5V3B6,Subscriber
+936016,0h 13m 22s,8/23/2012 20:33,Front St W / Blue Jays Way,7059,8/23/2012 20:46,Spadina Ave / Sussex Ave,7074,T01041,M5R2W8,Subscriber
+936705,0h 7m 53s,8/24/2012 7:32,Spadina Ave / Sussex Ave,7074,8/24/2012 7:40,King St W / Spadina Ave,7010,T01041,ON,Subscriber
+936945,0h 6m 47s,8/24/2012 8:28,King St W / Spadina Ave,7010,8/24/2012 8:35,King St W / Bay St,7015,T01041,M5V2T8,Subscriber
+938435,0h 6m 34s,8/24/2012 15:55,King St W / Bay St,7015,8/24/2012 16:02,Wellington St / Portland St,7011,T01041,M5V1C1,Subscriber
+938610,0h 10m 4s,8/24/2012 16:37,Wellington St / Portland St,7011,8/24/2012 16:47,King St W / Bay St,7015,T01041,M5V1C1,Subscriber
+939002,0h 15m 44s,8/24/2012 17:36,King St W / Bay St,7015,8/24/2012 17:52,Navy Wharf Ct. / Bremner Blvd.,7054,T01041,M5V0A9,Subscriber
+940428,0h 5m 23s,8/25/2012 9:44,Navy Wharf Ct. / Bremner Blvd.,7054,8/25/2012 9:50,Edward St / Yonge St,7041,T01041,M4Y1H5,Subscriber
+941990,0h 14m 7s,8/25/2012 17:49,Edward St / Yonge St,7041,8/25/2012 18:03,Madison Ave / Bloor St W,7003,T01041,M5R2W8,Subscriber
+943521,0h 12m 49s,8/26/2012 11:35,Madison Ave / Bloor St W,7003,8/26/2012 11:48,King St E / Jarvis St,7009,T01041,M5T 2R7,Subscriber
+943673,0h 9m 15s,8/26/2012 12:25,King St E / Jarvis St,7009,8/26/2012 12:34,King St W / Bay St,7015,T01041,M5V4A2,Subscriber
+943763,0h 4m 30s,8/26/2012 12:50,King St W / Bay St,7015,8/26/2012 12:55,Bay St / Albert St,7021,T01041,M5V4A2,Subscriber
+944094,0h 8m 44s,8/26/2012 14:21,Bay St / Albert St,7021,8/26/2012 14:29,Queen St W / Spadina Ave,7069,T01041,M5V4A2,Subscriber
+944153,0h 14m 52s,8/26/2012 14:35,Queen St W / Spadina Ave,7069,8/26/2012 14:50,York St / Queens Quay W,7076,T01041,M5B2K5,Subscriber
+945506,0h 4m 6s,8/26/2012 23:10,York St / Queens Quay W,7076,8/26/2012 23:14,York St / Queens Quay W,7076,T01041,,Casual
+945514,0h 31m 57s,8/26/2012 23:16,York St / Queens Quay W,7076,8/26/2012 23:48,Gould St / Mutual St,7028,T01041,,Casual
+945822,0h 4m 59s,8/27/2012 7:44,Gould St / Mutual St,7028,8/27/2012 7:49,Bay St / Albert St,7021,T01041,M5B2L2,Subscriber
+946492,0h 6m 21s,8/27/2012 14:37,Bay St / Albert St,7021,8/27/2012 14:44,Gould St / Mutual St,7028,T01041,M5B2L2,Subscriber
+946885,0h 3m 59s,8/27/2012 17:10,Gould St / Mutual St,7028,8/27/2012 17:14,Granby St / Yonge St,7077,T01041,M5B2L2,Subscriber
+946953,0h 13m 33s,8/27/2012 17:18,Granby St / Yonge St,7077,8/27/2012 17:32,Ferry Ramp / Queens Quay W,7016,T01041,M5J2S2,Subscriber
+947192,0h 9m 23s,8/27/2012 17:59,Ferry Ramp / Queens Quay W,7016,8/27/2012 18:08,Lower Jarvis St / The Esplanade,7001,T01041,,Casual
+950970,0h 5m 15s,8/28/2012 20:45,Lower Jarvis St / The Esplanade,7001,8/28/2012 20:51,Yonge St. / Lakeshore Ave. E.,7067,T01041,M5E2A1,Subscriber
+952143,0h 13m 14s,8/29/2012 9:30,Yonge St. / Lakeshore Ave. E.,7067,8/29/2012 9:43,Phoebe St / Spadina Ave,7020,T01041,M5E1R4,Subscriber
+953612,0h 13m 26s,8/29/2012 17:37,Phoebe St / Spadina Ave,7020,8/29/2012 17:50,Yonge St. / Lakeshore Ave. E.,7067,T01041,M5E1R4,Subscriber
+953878,0h 43m 43s,8/29/2012 18:27,Yonge St. / Lakeshore Ave. E.,7067,8/29/2012 19:10,Queens Quay W / Dan Leckie Way,7075,T01041,,Casual
+957344,0h 13m 4s,8/30/2012 18:12,Ted Rogers Way / Bloor St E,7025,8/30/2012 18:25,University Ave / King St W,7005,T01041,M4W 3Y3,Subscriber
+960728,0h 6m 8s,8/31/2012 17:39,University Ave / King St W,7005,8/31/2012 17:45,King St W / Spadina Ave,7010,T01041,M5V3P7,Subscriber
+961854,0h 3m 33s,9/1/2012 4:00,King St W / Spadina Ave,7010,9/1/2012 4:03,Queens Quay W / Dan Leckie Way,7075,T01041,M5E 1R4,Subscriber
+961858,0h 1m 59s,9/1/2012 4:28,Queens Quay W / Dan Leckie Way,7075,9/1/2012 4:30,Bathurst / Queens Quay (Island Airport),7071,T01041,M5V 3P4,Subscriber
+961894,0h 23m 41s,9/1/2012 7:28,Bathurst / Queens Quay (Island Airport),7071,9/1/2012 7:52,Bay St / Bloor St W,7029,T01041,M5V3J6,Subscriber
+961958,0h 26m 28s,9/1/2012 8:57,Bay St / Bloor St W,7029,9/1/2012 9:24,Melinda St / Yonge St,7036,T01041,M5V3J6,Subscriber
+962073,0h 13m 11s,9/1/2012 10:05,Melinda St / Yonge St,7036,9/1/2012 10:19,Bathurst / Queens Quay (Island Airport),7071,T01041,M5V3J6,Subscriber
+962128,1h 6m 40s,9/1/2012 10:42,Bathurst / Queens Quay (Island Airport),7071,9/1/2012 11:49,Niagara St./Queen W. (Richmond),7046,T01041,,Casual
+962478,0h 21m 21s,9/1/2012 12:37,Niagara St./Queen W. (Richmond),7046,9/1/2012 12:59,Bathurst / Queens Quay (Island Airport),7071,T01041,M5V 1B7,Subscriber
+963019,0h 21m 46s,9/1/2012 15:08,Bathurst / Queens Quay (Island Airport),7071,9/1/2012 15:30,King St W / Spadina Ave,7010,T01041,,Casual
+963740,0h 8m 30s,9/1/2012 18:21,King St W / Spadina Ave,7010,9/1/2012 18:29,Metro Hall Plaza,7053,T01041,,Casual
+964302,0h 11m 15s,9/1/2012 21:51,Metro Hall Plaza,7053,9/1/2012 22:03,York St / Queens Quay W,7076,T01041,M5A 4S7,Subscriber
+964424,0h 9m 37s,9/1/2012 23:30,York St / Queens Quay W,7076,9/1/2012 23:40,Lower Jarvis St / The Esplanade,7001,T01041,M5A 4B7,Subscriber
+964608,0h 9m 28s,9/2/2012 3:32,Lower Jarvis St / The Esplanade,7001,9/2/2012 3:41,Church St / Alexander St,7044,T01041,,Casual
+964645,0h 12m 2s,9/2/2012 5:57,Church St / Alexander St,7044,9/2/2012 6:09,Queen St / Portland St,7049,T01041,,Casual
+964764,6h 52m 52s,9/2/2012 9:19,King St E / Jarvis St,7009,9/2/2012 16:12,Queen St / Portland St,7049,T01041,,Casual
+966540,0h 30m 39s,9/2/2012 17:15,Queen St / Portland St,7049,9/2/2012 17:46,Edward St / Yonge St,7041,T01041,,Casual
+966910,0h 14m 49s,9/2/2012 18:40,Edward St / Yonge St,7041,9/2/2012 18:55,Wellington St / Portland St,7011,T01041,,Casual
+967403,0h 2m 1s,9/2/2012 21:44,St George St / Bloor St W,7002,9/2/2012 21:46,Spadina Ave / Sussex Ave,7074,T01041,M5R2M6,Subscriber
+970176,0h 10m 51s,9/3/2012 22:51,Spadina Ave / Sussex Ave,7074,9/3/2012 23:02,University Ave / Elm St,7004,T01041,,Casual
+970189,0h 13m 14s,9/3/2012 23:05,University Ave / Elm St,7004,9/3/2012 23:18,Bremner Blvd / Rees St,7018,T01041,,Casual
+970207,0h 13m 26s,9/3/2012 23:24,Bremner Blvd / Rees St,7018,9/3/2012 23:38,University Ave / King St W,7005,T01041,,Casual
+970725,0h 2m 18s,9/4/2012 8:56,University Ave / King St W,7005,9/4/2012 8:59,Metro Hall Plaza,7053,T01041,M5B 2A7,Subscriber
+971492,0h 11m 34s,9/4/2012 17:41,Metro Hall Plaza,7053,9/4/2012 17:52,Bay St / College St,7006,T01041,ON,Subscriber
+972834,0h 9m 50s,9/5/2012 9:35,Sherbourne / Carlton (Allan Gardens),7014,9/5/2012 9:45,Melinda St / Yonge St,7036,T01041,M4X1G5,Subscriber
+973118,0h 5m 34s,9/5/2012 11:43,Melinda St / Yonge St,7036,9/5/2012 11:48,Tech Terminal,7033,T01041,M6H3S7,Subscriber
+973147,0h 4m 35s,9/5/2012 11:54,Tech Terminal,7033,9/5/2012 11:59,Bond St / Queen St E,7045,T01041,M5A1K5,Subscriber
+973477,0h 12m 58s,9/5/2012 13:55,Bond St / Queen St E,7045,9/5/2012 14:08,Queen St W / Spadina Ave,7069,T01041,,Casual
+975210,0h 14m 50s,9/5/2012 22:50,Queen St W / Spadina Ave,7069,9/5/2012 23:05,Queens Park / Bloor St W,7063,T01041,,Casual
+975986,0h 6m 36s,9/6/2012 8:48,Queens Park / Bloor St W,7063,9/6/2012 8:55,Bay St / Albert St,7021,T01041,M5R1B1,Subscriber
+978031,0h 6m 18s,9/6/2012 18:15,Bay St / Albert St,7021,9/6/2012 18:21,Beverly  St / Dundas St W,7027,T01041,M4V2H1,Subscriber
+979112,0h 24m 57s,9/7/2012 6:10,Beverly  St / Dundas St W,7027,9/7/2012 6:35,Trinity / Front (Distillery),7064,T01041,M5T1C6,Subscriber
+980331,0h 10m 11s,9/7/2012 12:13,Trinity / Front (Distillery),7064,9/7/2012 12:24,Lower Jarvis St / The Esplanade,7001,T01041,M5A4E8,Subscriber
+982080,0h 8m 36s,9/7/2012 19:33,Lower Jarvis St / The Esplanade,7001,9/7/2012 19:41,Ferry Ramp / Queens Quay W,7016,T01041,M5J 2R9,Subscriber
+982110,0h 14m 43s,9/7/2012 19:47,Ferry Ramp / Queens Quay W,7016,9/7/2012 20:02,Bremner Blvd / Rees St,7018,T01041,M5V 3Z5,Subscriber
+982400,0h 3m 49s,9/7/2012 22:06,Bremner Blvd / Rees St,7018,9/7/2012 22:10,25 York St,7070,T01041,M1P4Z3,Subscriber
+982615,0h 15m 14s,9/7/2012 23:57,25 York St,7070,9/8/2012 0:13,Dundas St / Parliament St,7065,T01041,M5S2W9,Subscriber
+982871,0h 23m 35s,9/8/2012 12:17,Princess Ave / Adelaide St,7060,9/8/2012 12:40,Augusta Ave / Dundas St W,7032,T01041,,Casual
+987848,0h 3m 1s,9/10/2012 10:42,Bathurst St / Dundas St,7037,9/10/2012 10:45,Queen St / Portland St,7049,T01041,M5B 2H9,Subscriber
+987987,0h 10m 5s,9/10/2012 11:43,Queen St / Portland St,7049,9/10/2012 11:53,Widmer St / Adelaide St ,7017,T01041,,Casual
+988252,0h 9m 46s,9/10/2012 13:13,Widmer St / Adelaide St ,7017,9/10/2012 13:23,College St / Major St,7078,T01041,M5S2N3,Subscriber
+988283,0h 20m 53s,9/10/2012 13:28,College St / Major St,7078,9/10/2012 13:49,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+989076,0h 42m 2s,9/10/2012 17:13,Ferry Ramp / Queens Quay W,7016,9/10/2012 17:55,Ferry Ramp / Queens Quay W,7016,T01041,,Casual
+994381,0h 21m 58s,9/12/2012 8:38,Spadina Ave / Sussex Ave,7074,9/12/2012 9:00,Simcoe St / Queen St W,7022,T01041,,Casual
+995710,0h 17m 55s,9/12/2012 16:06,Augusta Ave / Dundas St W,7032,9/12/2012 16:24,Bremner Blvd / Rees St,7018,T01041,,Casual
+998951,0h 15m 12s,9/13/2012 14:32,Bremner Blvd / Rees St,7018,9/13/2012 14:47,Lower Jarvis St / The Esplanade,7001,T01041,,Casual
+1001946,0h 6m 7s,9/14/2012 9:56,Lower Jarvis St / The Esplanade,7001,9/14/2012 10:02,Front/Yonge (Hockey Hall of Fame),7048,T01041,M5E0A3,Subscriber
+1002263,0h 3m 10s,9/14/2012 12:31,Front/Yonge (Hockey Hall of Fame),7048,9/14/2012 12:34,Yonge St. / Lakeshore Ave. E.,7067,T01041,M5J 2X1,Subscriber
+1006660,0h 11m 12s,9/16/2012 9:58,Yonge St. / Lakeshore Ave. E.,7067,9/16/2012 10:09,Gerrard St E / Church St,7079,T01041,L6L 6J4,Subscriber
+1007556,0h 4m 10s,9/16/2012 15:18,Gerrard St E / Church St,7079,9/16/2012 15:23,Church St / Alexander St,7044,T01041,M4N 1P7,Subscriber
+1007860,0h 7m 21s,9/16/2012 16:42,Church St / Alexander St,7044,9/16/2012 16:50,Huron St / Harbord St ,7024,T01041,M4Y1B6,Subscriber
+1009200,0h 6m 8s,9/17/2012 8:34,Huron St / Harbord St ,7024,9/17/2012 8:40,College St / Major St,7078,T01041,M5S 1E4,Subscriber
+1009402,0h 16m 33s,9/17/2012 8:58,College St / Major St,7078,9/17/2012 9:15,Wellington St W / Bay St,7052,T01041,M5S 2M8,Subscriber
+1009831,0h 12m 16s,9/17/2012 11:24,Lower Simcoe St / Lakeshore Blvd W,7043,9/17/2012 11:36,College St / Borden St,7023,T01041,,Casual
+1011296,0h 14m 49s,9/17/2012 18:17,College St / Borden St,7023,9/17/2012 18:32,Queens Quay W / Dan Leckie Way,7075,T01041,M5V3A2,Subscriber
+1013788,0h 18m 11s,9/18/2012 21:15,Queens Park / Bloor St W,7063,9/18/2012 21:34,College St / Major St,7078,T01041,,Casual
+1013891,0h 14m 20s,9/18/2012 22:53,College St / Major St,7078,9/18/2012 23:07,Queen St W / Spadina Ave,7069,T01041,M5V3B9,Subscriber
+1014246,0h 7m 40s,9/19/2012 8:05,Queen St W / Spadina Ave,7069,9/19/2012 8:13,University Ave / Elm St,7004,T01041,M5V2M9,Subscriber
+1014865,0h 4m 28s,9/19/2012 10:03,University Ave / Elm St,7004,9/19/2012 10:08,Beverly  St / Dundas St W,7027,T01041,M5T 3L2,Subscriber
+1014996,0h 7m 6s,9/19/2012 11:19,Beverly  St / Dundas St W,7027,9/19/2012 11:26,Front St W / Blue Jays Way,7059,T01041,,Casual
+1015069,0h 18m 2s,9/19/2012 11:57,Front St W / Blue Jays Way,7059,9/19/2012 12:15,King St E / Jarvis St,7009,T01041,,Casual
+1015496,0h 7m 46s,9/19/2012 14:56,King St E / Jarvis St,7009,9/19/2012 15:03,Widmer St / Adelaide St ,7017,T01041,M5A4E8,Subscriber
+1015843,0h 3m 38s,9/19/2012 16:43,Widmer St / Adelaide St ,7017,9/19/2012 16:46,Wellington St / Portland St,7011,T01041,M5V 1R3,Subscriber
+1016153,0h 10m 13s,9/19/2012 17:36,Wellington St / Portland St,7011,9/19/2012 17:47,York St / Queens Quay W,7076,T01041,M5J 2Y2,Subscriber
+1020498,0h 5m 50s,9/21/2012 7:48,Jarvis St / Carleton St,7055,9/21/2012 7:54,Bond St / Queen St E,7045,T01041,M4Y 3C4,Subscriber
+1020654,0h 5m 8s,9/21/2012 8:22,Bond St / Queen St E,7045,9/21/2012 8:27,Simcoe St / Queen St W,7022,T01041,M1E3P8,Subscriber
+1021575,0h 1m 30s,9/21/2012 13:05,Simcoe St / Queen St W,7022,9/21/2012 13:06,Simcoe St / Dundas St W,7039,T01041,M1E3P8,Subscriber
+1021671,0h 5m 39s,9/21/2012 13:48,Simcoe St / Dundas St W,7039,9/21/2012 13:54,Bay St / College St,7006,T01041,M5T2X2,Subscriber
+1021871,0h 8m 23s,9/21/2012 15:03,Bay St / College St,7006,9/21/2012 15:11,College St / Huron St,7007,T01041,M5G 2R3,Subscriber
+1021937,0h 11m 20s,9/21/2012 15:26,College St / Huron St,7007,9/21/2012 15:38,Bay St / Bloor St W,7029,T01041,M4W1W6,Subscriber
+1022157,0h 15m 37s,9/21/2012 16:27,Bay St / Bloor St W,7029,9/21/2012 16:42,York St / Queens Quay W,7076,T01041,M5J2Y5,Subscriber
+1022874,0h 12m 12s,9/21/2012 18:35,York St / Queens Quay W,7076,9/21/2012 18:47,Bathurst / Queens Quay (Island Airport),7071,T01041,,Casual
+1024728,0h 5m 4s,9/22/2012 17:12,Bremner / Spadina,7073,9/22/2012 17:17,Queen St W / Spadina Ave,7069,T01041,,Casual
+1024772,0h 34m 28s,9/22/2012 17:26,Queen St W / Spadina Ave,7069,9/22/2012 18:01,Church St / Bloor St E,7034,T01041,,Casual
+1025886,0h 8m 47s,9/23/2012 11:34,Church St / Bloor St E,7034,9/23/2012 11:43,Queens Park Cres E,7008,T01041,M4W3Y1,Subscriber
+1028543,0h 12m 7s,9/24/2012 15:36,Queens Park Cres E,7008,9/24/2012 15:48,Granby St / Yonge St,7077,T01041,M5S1Z6,Subscriber
+1028584,0h 10m 0s,9/24/2012 15:55,Granby St / Yonge St,7077,9/24/2012 16:05,College St / Huron St,7007,T01041,M2K3E2,Subscriber
+1028700,0h 12m 40s,9/24/2012 16:30,College St / Huron St,7007,9/24/2012 16:42,Parliament St / Gerrard St,7056,T01041,M5A3N9,Subscriber
+1029800,0h 2m 41s,9/24/2012 23:00,Bloor St / Yonge St,7026,9/24/2012 23:03,Bay St / College St,7006,T01041,M5G2M4,Subscriber
+1030124,0h 10m 9s,9/25/2012 8:04,Bay St / College St,7006,9/25/2012 8:14,Wellington St W / Bay St,7052,T01041,L3T6R8,Subscriber
+1030271,0h 3m 48s,9/25/2012 8:29,Wellington St W / Bay St,7052,9/25/2012 8:33,Bay St / Albert St,7021,T01041,L8N 2X7,Subscriber
+1031989,0h 2m 59s,9/25/2012 17:19,University Ave / College St,7062,9/25/2012 17:22,Elizabeth St / Edward St,7012,T01041,W5G 1R1,Subscriber
+1032386,0h 8m 51s,9/25/2012 18:27,Elizabeth St / Edward St,7012,9/25/2012 18:36,Huron St / Harbord St ,7024,T01041,M4Y2P9,Subscriber
+1032652,0h 11m 46s,9/25/2012 19:53,Huron St / Harbord St ,7024,9/25/2012 20:04,Gerrard St E / Church St,7079,T01041,,Casual
+1033881,0h 9m 31s,9/26/2012 9:52,Gerrard St E / Church St,7079,9/26/2012 10:02,University Ave / King St W,7005,T01041,M8Y2V5,Subscriber
+1034475,0h 2m 25s,9/26/2012 14:54,University Ave / King St W,7005,9/26/2012 14:56,King St W / Bay St,7015,T01041,M4M3C9,Subscriber
+1034519,0h 8m 30s,9/26/2012 15:12,King St W / Bay St,7015,9/26/2012 15:21,Bay St / College St,7006,T01041,M5T2B9,Subscriber
+1034641,0h 6m 32s,9/26/2012 15:58,Bay St / College St,7006,9/26/2012 16:04,College St / Huron St,7007,T01041,M4Y3J5,Subscriber
+1034826,0h 6m 12s,9/26/2012 16:46,College St / Huron St,7007,9/26/2012 16:52,Simcoe St / Wellington St W,7057,T01041,L1C4Z1,Subscriber
+1036537,0h 9m 4s,9/27/2012 8:40,St George St / Bloor St W,7002,9/27/2012 8:49,Jarvis St / Isabella St,7031,T01041,M5R 2N5,Subscriber
+1036952,0h 14m 47s,9/27/2012 10:14,Jarvis St / Isabella St,7031,9/27/2012 10:29,Simcoe St / Wellington St W,7057,T01041,M4X1W7,Subscriber
+1037127,0h 2m 11s,9/27/2012 11:57,Simcoe St / Wellington St W,7057,9/27/2012 11:59,University Ave / King St W,7005,T01041,L1T4W8,Subscriber
+1037435,0h 6m 22s,9/27/2012 14:04,University Ave / King St W,7005,9/27/2012 14:11,University Ave / Gerrard St W,7047,T01041,M1E 3Y5,Subscriber
+1037615,0h 5m 43s,9/27/2012 15:22,University Ave / Gerrard St W,7047,9/27/2012 15:27,College St / Borden St,7023,T01041,M5T1P1,Subscriber
+1037844,0h 16m 10s,9/27/2012 16:36,College St / Borden St,7023,9/27/2012 16:52,Scott St / The Esplanade,7013,T01041,M5T1P1,Subscriber
+1038601,0h 7m 16s,9/27/2012 19:10,Scott St / The Esplanade,7013,9/27/2012 19:17,Simcoe St / Queen St W,7022,T01041,M5E 1W5,Subscriber
+1039298,0h 4m 12s,9/28/2012 7:15,Simcoe St / Queen St W,7022,9/28/2012 7:19,University Ave / College St,7062,T01041,M5J0A7,Subscriber
+1039729,0h 4m 26s,9/28/2012 8:51,Bremner / Spadina,7073,9/28/2012 8:55,Metro Hall Plaza,7053,T01041,M5V3Y4,Subscriber
+1040025,0h 10m 20s,9/28/2012 10:06,Metro Hall Plaza,7053,9/28/2012 10:16,Dockside Dr / Queens Quay E.,7068,T01041,M5V3W9,Subscriber
+1041532,0h 10m 23s,9/28/2012 18:04,Dockside Dr / Queens Quay E.,7068,9/28/2012 18:14,Metro Hall Plaza,7053,T01041,M5V3W9,Subscriber
+1041612,0h 11m 17s,9/28/2012 18:19,Metro Hall Plaza,7053,9/28/2012 18:30,St George St / Bloor St W,7002,T01041,M5R1C9,Subscriber
+1041781,0h 8m 37s,9/28/2012 19:00,St George St / Bloor St W,7002,9/28/2012 19:09,Bay St / College St,7006,T01041,M5G 2R3,Subscriber
+1041998,0h 8m 18s,9/28/2012 20:50,Bay St / College St,7006,9/28/2012 20:58,University Ave / King St W,7005,T01041,M5E0A2,Subscriber
+1042899,0h 10m 17s,9/29/2012 12:29,University Ave / King St W,7005,9/29/2012 12:39,Dundas / Yonge St.,7038,T01041,,Casual
+1043184,0h 16m 43s,9/29/2012 14:12,Dundas / Yonge St.,7038,9/29/2012 14:29,College St / Major St,7078,T01041,,Casual
+1043768,0h 22m 33s,9/29/2012 17:22,College St / Major St,7078,9/29/2012 17:44,Princess Ave / Adelaide St,7060,T01041,,Casual
+1044550,0h 20m 14s,9/29/2012 23:11,Princess Ave / Adelaide St,7060,9/29/2012 23:32,Beverly  St / Dundas St W,7027,T01041,,Casual
+1047467,0h 12m 7s,10/1/2012 9:04,Beverly  St / Dundas St W,7027,10/1/2012 9:16,Lower Jarvis St / The Esplanade,7001,T01041,M5T1C6,Subscriber
+1047886,0h 13m 27s,10/1/2012 12:04,Lower Jarvis St / The Esplanade,7001,10/1/2012 12:18,Jarvis St / Isabella St,7031,T01041,M6G2P5,Subscriber
+1048446,0h 11m 26s,10/1/2012 15:50,Jarvis St / Isabella St,7031,10/1/2012 16:01,Edward St / Yonge St,7041,T01041,M4Y 1N8,Subscriber
+1049596,0h 3m 24s,10/1/2012 20:40,Edward St / Yonge St,7041,10/1/2012 20:43,Bay St / College St,7006,T01041,M5A3S2,Subscriber
+1049613,0h 7m 1s,10/1/2012 20:52,Bay St / College St,7006,10/1/2012 20:59,Wellington St W / Bay St,7052,T01041,L6C2M4,Subscriber
+1049717,0h 5m 15s,10/1/2012 21:46,Wellington St W / Bay St,7052,10/1/2012 21:51,Lower Simcoe St / Lakeshore Blvd W,7043,T01041,M5J2Y7,Subscriber
+1049947,0h 4m 59s,10/2/2012 6:03,Lower Simcoe St / Lakeshore Blvd W,7043,10/2/2012 6:08,Bathurst / Queens Quay (Island Airport),7071,T01041,M5J 2Y7,Subscriber
+1050325,0h 21m 41s,10/2/2012 8:32,Bathurst / Queens Quay (Island Airport),7071,10/2/2012 8:53,Bay St / College St,7006,T01041,M5G0A3,Subscriber
+1050541,0h 8m 24s,10/2/2012 8:59,Bay St / College St,7006,10/2/2012 9:07,Queen St W / Spadina Ave,7069,T01041,M5G2J9,Subscriber
+1050605,0h 0m 6s,10/2/2012 9:09,Queen St W / Spadina Ave,7069,10/2/2012 9:09,Queen St W / Spadina Ave,7069,T01041,M5G2J9,Subscriber
+1051770,0h 11m 34s,10/2/2012 16:58,University Ave / Elm St,7004,10/2/2012 17:10,Richmond St E / Jarvis St,7050,T01041,M5A4S7,Subscriber
+1051891,0h 4m 16s,10/2/2012 17:15,Richmond St E / Jarvis St,7050,10/2/2012 17:19,Tech Terminal,7033,T01041,M2J 4J3,Subscriber
+1052424,0h 13m 37s,10/2/2012 18:46,Tech Terminal,7033,10/2/2012 19:00,Queens Quay W / Dan Leckie Way,7075,T01041,M5V 3T1,Subscriber
+1059803,0h 5m 28s,10/5/2012 10:06,Richmond St E / Jarvis St,7050,10/5/2012 10:11,Bay St / Albert St,7021,T01041,M5A2M5,Subscriber
+1060744,0h 14m 4s,10/5/2012 16:25,Bay St / Albert St,7021,10/5/2012 16:40,Bremner / Spadina,7073,T01041,L3P7M4,Subscriber
+1061848,0h 6m 51s,10/6/2012 7:06,Bremner / Spadina,7073,10/6/2012 7:12,University Ave / King St W,7005,T01041,M5V 3Y3,Subscriber
+1063987,0h 6m 8s,10/7/2012 18:17,University Ave / King St W,7005,10/7/2012 18:23,King St W / Spadina Ave,7010,T01041,M5S 3A3,Subscriber
+1064524,0h 7m 27s,10/8/2012 12:57,King St W / Spadina Ave,7010,10/8/2012 13:04,Phoebe St / Spadina Ave,7020,T01041,,Casual
+1067134,0h 13m 11s,10/9/2012 17:08,Phoebe St / Spadina Ave,7020,10/9/2012 17:21,Queens Park / Bloor St W,7063,T01041,M5R 3P6,Subscriber
+1067285,0h 7m 57s,10/9/2012 17:32,Queens Park / Bloor St W,7063,10/9/2012 17:40,Edward St / Yonge St,7041,T01041,M4Y 1N8,Subscriber
+1067342,0h 7m 18s,10/9/2012 17:41,Edward St / Yonge St,7041,10/9/2012 17:48,Beverly  St / Dundas St W,7027,T01041,M5T1B8,Subscriber
+1070284,0h 12m 58s,10/10/2012 20:29,Beverly  St / Dundas St W,7027,10/10/2012 20:42,Euclid Ave / Bloor St,7040,T01041,M6G2Z2,Subscriber
+1073655,0h 12m 31s,10/12/2012 10:13,Queens Park / Bloor St W,7063,10/12/2012 10:25,King St W / Spadina Ave,7010,T01041,M5R1G4,Subscriber
+1074472,0h 14m 1s,10/12/2012 16:48,King St W / Spadina Ave,7010,10/12/2012 17:02,Yonge St. / Lakeshore Ave. E.,7067,T01041,M5E 1Z8,Subscriber
+1074643,0h 16m 30s,10/12/2012 17:20,Yonge St. / Lakeshore Ave. E.,7067,10/12/2012 17:37,Gould St / Mutual St,7028,T01041,,Casual
+1075772,0h 3m 47s,10/13/2012 11:55,Gould St / Mutual St,7028,10/13/2012 11:59,Sherbourne / Carlton (Allan Gardens),7014,T01041,M4X 1W6,Subscriber
+1075931,0h 15m 43s,10/13/2012 13:18,Sherbourne / Carlton (Allan Gardens),7014,10/13/2012 13:33,Yonge St. / Lakeshore Ave. E.,7067,T01041,M4X1X2,Subscriber
+1077889,0h 6m 52s,10/15/2012 0:20,Yonge St. / Lakeshore Ave. E.,7067,10/15/2012 0:27,Dundas / Yonge St.,7038,T01041,M4W1Z9,Subscriber
+1077943,12108h 40m 23s,10/15/2012 6:26,Dundas / Yonge St.,7038,3/3/2014 18:06,Niagara St./Queen W. (Richmond),7046,T01041,,Casual

@@ -1,0 +1,35 @@
+ID,Duration,Start date,Start Station,Start terminal,End date,End Station,End terminal,Bike#,Zip Code,Subscription Type
+1206927,0h 0m 0s,1/16/2013 14:38,Demo Toronto 1,Demo Toronto 1,1/16/2013 14:38,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1206950,0h 0m 7s,1/16/2013 15:05,Demo Toronto 1,Demo Toronto 1,1/16/2013 15:05,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208210,0h 0m 4s,1/17/2013 10:23,Demo Toronto 1,Demo Toronto 1,1/17/2013 10:23,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208211,0h 0m 11s,1/17/2013 10:24,Demo Toronto 1,Demo Toronto 1,1/17/2013 10:24,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208220,0h 0m 6s,1/17/2013 10:27,Demo Toronto 1,Demo Toronto 1,1/17/2013 10:27,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208219,0h 0m 4s,1/17/2013 10:27,Demo Toronto 1,Demo Toronto 1,1/17/2013 10:27,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208246,0h 0m 4s,1/17/2013 10:39,Demo Toronto 1,Demo Toronto 1,1/17/2013 10:40,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208271,0h 0m 15s,1/17/2013 10:58,Demo Toronto 1,Demo Toronto 1,1/17/2013 10:59,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208266,0h 0m 7s,1/17/2013 10:58,Demo Toronto 1,Demo Toronto 1,1/17/2013 10:58,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208278,0h 0m 9s,1/17/2013 10:59,Demo Toronto 1,Demo Toronto 1,1/17/2013 11:00,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208273,0h 0m 10s,1/17/2013 10:59,Demo Toronto 1,Demo Toronto 1,1/17/2013 10:59,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208283,0h 0m 10s,1/17/2013 11:00,Demo Toronto 1,Demo Toronto 1,1/17/2013 11:00,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208313,0h 0m 6s,1/17/2013 11:13,Demo Toronto 1,Demo Toronto 1,1/17/2013 11:13,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208310,0h 0m 7s,1/17/2013 11:13,Demo Toronto 1,Demo Toronto 1,1/17/2013 11:13,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208322,0h 0m 4s,1/17/2013 11:14,Demo Toronto 1,Demo Toronto 1,1/17/2013 11:14,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208317,0h 0m 4s,1/17/2013 11:14,Demo Toronto 1,Demo Toronto 1,1/17/2013 11:14,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1208326,0h 0m 3s,1/17/2013 11:15,Demo Toronto 1,Demo Toronto 1,1/17/2013 11:15,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1229111,0h 11m 3s,2/15/2013 10:58,X-Demo Toronto 2,X - Demo Toronto 2,2/15/2013 11:09,X-Demo Toronto 2,X - Demo Toronto 2,a777,H8T3J1,Subscriber
+1230274,0h 0m 7s,2/18/2013 10:48,Demo Toronto 1,Demo Toronto 1,2/18/2013 10:48,X-Demo Toronto 2,X - Demo Toronto 2,a777,H8T3J1,Subscriber
+1230277,0h 0m 4s,2/18/2013 11:19,X-Demo Toronto 2,X - Demo Toronto 2,2/18/2013 11:19,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1230347,0h 0m 6s,2/18/2013 13:58,Demo Toronto 1,Demo Toronto 1,2/18/2013 13:58,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1230729,0h 0m 7s,2/19/2013 11:03,Demo Toronto 1,Demo Toronto 1,2/19/2013 11:03,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1230739,0h 0m 8s,2/19/2013 11:12,Demo Toronto 1,Demo Toronto 1,2/19/2013 11:13,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1230740,0h 0m 6s,2/19/2013 11:13,Demo Toronto 1,Demo Toronto 1,2/19/2013 11:13,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1230810,0h 0m 6s,2/19/2013 13:08,Demo Toronto 1,Demo Toronto 1,2/19/2013 13:08,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1230820,0h 0m 7s,2/19/2013 13:15,Demo Toronto 1,Demo Toronto 1,2/19/2013 13:15,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1230821,0h 0m 5s,2/19/2013 13:16,Demo Toronto 1,Demo Toronto 1,2/19/2013 13:16,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1230860,0h 0m 6s,2/19/2013 13:48,Demo Toronto 1,Demo Toronto 1,2/19/2013 13:48,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1230861,0h 0m 6s,2/19/2013 13:49,Demo Toronto 1,Demo Toronto 1,2/19/2013 13:50,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1230862,0h 0m 4s,2/19/2013 13:50,Demo Toronto 1,Demo Toronto 1,2/19/2013 13:50,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1235403,0h 0m 9s,2/25/2013 15:05,Demo Toronto 1,Demo Toronto 1,2/25/2013 15:06,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1235405,0h 0m 15s,2/25/2013 15:06,Demo Toronto 1,Demo Toronto 1,2/25/2013 15:06,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1235414,0h 0m 10s,2/25/2013 15:14,Demo Toronto 1,Demo Toronto 1,2/25/2013 15:14,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber
+1235416,0h 0m 6s,2/25/2013 15:17,Demo Toronto 1,Demo Toronto 1,2/25/2013 15:17,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber

@@ -1,0 +1,12 @@
+ID,Duration,Start date,Start Station,Start terminal,End date,End Station,End terminal,Bike#,Zip Code,Subscription Type
+1229110,0h 25m 38s,2/15/2013 10:43,X-Demo Toronto 2,X - Demo Toronto 2,2/15/2013 11:09,X-Demo Toronto 2,X - Demo Toronto 2,a666,H8T3J1,Subscriber
+1229111,0h 11m 3s,2/15/2013 10:58,X-Demo Toronto 2,X - Demo Toronto 2,2/15/2013 11:09,X-Demo Toronto 2,X - Demo Toronto 2,a777,H8T3J1,Subscriber
+1229112,1h 27m 31s,2/15/2013 11:24,X-Demo Toronto 2,X - Demo Toronto 2,2/15/2013 12:51,X-Demo Toronto 2,X - Demo Toronto 2,a666,H8T3J1,Subscriber
+1229121,0h 3m 10s,2/15/2013 14:03,X-Demo Toronto 2,X - Demo Toronto 2,2/15/2013 14:06,X-Demo Toronto 2,X - Demo Toronto 2,a333,H8T3J1,Subscriber
+1229132,0h 0m 33s,2/15/2013 14:18,X-Demo Toronto 2,X - Demo Toronto 2,2/15/2013 14:18,X-Demo Toronto 2,X - Demo Toronto 2,a333,H8T3J1,Subscriber
+1230222,0h 0m 3s,2/18/2013 8:53,X-Demo Toronto 2,X - Demo Toronto 2,2/18/2013 8:54,X-Demo Toronto 2,X - Demo Toronto 2,a333,H8T3J1,Subscriber
+1230246,0h 35m 29s,2/18/2013 8:58,X-Demo Toronto 2,X - Demo Toronto 2,2/18/2013 9:33,X-Demo Toronto 2,X - Demo Toronto 2,a333,H8T3J1,Subscriber
+1230247,0h 15m 15s,2/18/2013 9:18,X-Demo Toronto 2,X - Demo Toronto 2,2/18/2013 9:33,X-Demo Toronto 2,X - Demo Toronto 2,a666,H8T3J1,Subscriber
+1230254,0h 0m 8s,2/18/2013 9:59,X-Demo Toronto 2,X - Demo Toronto 2,2/18/2013 10:00,X-Demo Toronto 2,X - Demo Toronto 2,a333,H8T3J1,Subscriber
+1230253,0h 0m 17s,2/18/2013 9:59,X-Demo Toronto 2,X - Demo Toronto 2,2/18/2013 10:00,X-Demo Toronto 2,X - Demo Toronto 2,a555,H8T3J1,Subscriber
+1230277,0h 0m 4s,2/18/2013 11:19,X-Demo Toronto 2,X - Demo Toronto 2,2/18/2013 11:19,Demo Toronto 1,Demo Toronto 1,a777,H8T3J1,Subscriber

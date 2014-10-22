@@ -1,0 +1,9 @@
+ID,Duration,Start date,Start Station,Start terminal,End date,End Station,End terminal,Bike#,Zip Code,Subscription Type
+1741,0h 9m 4s,5/6/2011 7:09,Gould St / Mutual St,7028,5/6/2011 7:19,University Ave / King St W,7005,T01986,,Casual
+2016,0h 9m 22s,5/6/2011 13:08,University Ave / King St W,7005,5/6/2011 13:17,Elizabeth St / Edward St,7012,T01986,,Casual
+3161,0h 9m 4s,5/7/2011 14:48,Elizabeth St / Edward St,7012,5/7/2011 14:57,Queen St / Ossington Ave,7035,T01986,M6G 2A8,Casual
+3226,0h 10m 16s,5/7/2011 15:12,Queen St / Ossington Ave,7035,5/7/2011 15:22,Augusta Ave / Dundas St W,7032,T01986,,Casual
+3545,0h 19m 46s,5/7/2011 17:20,Augusta Ave / Dundas St W,7032,5/7/2011 17:40,St George St / Bloor St W,7002,T01986,,Casual
+4546,0h 13m 54s,5/8/2011 13:37,St George St / Bloor St W,7002,5/8/2011 13:51,College St / Borden St,7023,T01986,,Casual
+4590,0h 7m 56s,5/8/2011 13:55,College St / Borden St,7023,5/8/2011 14:03,Granby St / Yonge St,7077,T01986,,Casual
+4631,0h 16m 3s,5/8/2011 14:11,Granby St / Yonge St,7077,5/8/2011 14:27,Bay St / Albert St,7021,T01986,,Casual

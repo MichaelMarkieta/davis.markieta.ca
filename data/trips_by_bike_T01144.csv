@@ -1,0 +1,20 @@
+ID,Duration,Start date,Start Station,Start terminal,End date,End Station,End terminal,Bike#,Zip Code,Subscription Type
+31750,0h 14m 17s,5/29/2011 15:08,Phoebe St / Spadina Ave,7020,5/29/2011 15:22,Queens Park / Bloor St W,7063,T01144,,Casual
+34373,0h 10m 40s,5/30/2011 21:05,Queens Park / Bloor St W,7063,5/30/2011 21:16,Queen St W / Spadina Ave,7069,T01144,,Casual
+34442,0h 13m 57s,5/30/2011 21:49,Queen St W / Spadina Ave,7069,5/30/2011 22:03,Church St / Monteith St ,7058,T01144,M4Y 2W1,Casual
+34603,0h 8m 13s,5/31/2011 1:01,Church St / Monteith St ,7058,5/31/2011 1:10,Madison Ave / Bloor St W,7003,T01144,M4X 1L1,Subscriber
+34763,0h 11m 25s,5/31/2011 8:04,Madison Ave / Bloor St W,7003,5/31/2011 8:15,Bay St / College St,7006,T01144,M5G2R3,Casual
+34848,0h 10m 35s,5/31/2011 8:38,Bay St / College St,7006,5/31/2011 8:49,Front St W / Blue Jays Way,7059,T01144,M5A 0E9,Casual
+35602,0h 5m 7s,5/31/2011 16:01,Front St W / Blue Jays Way,7059,5/31/2011 16:06,Front/Yonge (Hockey Hall of Fame),7048,T01144,M5B 2C2,Casual
+37046,0h 11m 55s,6/1/2011 8:46,Front/Yonge (Hockey Hall of Fame),7048,6/1/2011 8:58,King St W / Spadina Ave,7010,T01144,L3T3H7,Casual
+37250,0h 5m 36s,6/1/2011 10:23,King St W / Spadina Ave,7010,6/1/2011 10:29,Queen St W / Spadina Ave,7069,T01144,L4J0E9,Casual
+38826,0h 6m 27s,6/1/2011 23:19,Queens Park / Bloor St W,7063,6/1/2011 23:25,Ted Rogers Way / Bloor St E,7025,T01144,M4Y2P3,Casual
+40035,0h 10m 6s,6/2/2011 17:07,Ted Rogers Way / Bloor St E,7025,6/2/2011 17:17,Melinda St / Yonge St,7036,T01144,M5C3C5,Casual
+40094,0h 9m 7s,6/2/2011 17:23,Melinda St / Yonge St,7036,6/2/2011 17:33,Bremner Blvd / Rees St,7018,T01144,M5V3Y4,Subscriber
+40477,0h 13m 39s,6/2/2011 19:29,Bremner Blvd / Rees St,7018,6/2/2011 19:43,Bay St / Albert St,7021,T01144,M4R1T6,Casual
+40826,0h 5m 11s,6/3/2011 0:12,Bay St / Albert St,7021,6/3/2011 0:17,Queen St W / Shaw St,7072,T01144,M5T1X3,Casual
+41077,0h 4m 4s,6/3/2011 8:39,Queen St W / Shaw St,7072,6/3/2011 8:43,King St W / Bay St,7015,T01144,M5T2W9,Casual
+41834,0h 15m 46s,6/3/2011 14:40,King St W / Bay St,7015,6/3/2011 14:56,College St / Major St,7078,T01144,M5T2W9,Casual
+41954,0h 29m 9s,6/3/2011 15:36,College St / Major St,7078,6/3/2011 16:05,Simcoe St / Queen St W,7022,T01144,,Casual
+42418,0h 9m 52s,6/3/2011 17:56,Simcoe St / Queen St W,7022,6/3/2011 18:06,College St / Major St,7078,T01144,,Casual
+43424,0h 8m 12s,6/4/2011 13:07,Queen St / Ossington Ave,7035,6/4/2011 13:15,Dundas / Yonge St.,7038,T01144,,Casual
